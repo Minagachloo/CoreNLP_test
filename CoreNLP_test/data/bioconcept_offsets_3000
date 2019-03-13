@@ -1,0 +1,2929 @@
+sentence	Mineralogical and geochemical analyses showed two main types of intimately associated products: a polymetallic sulfide-rich material composed of pyrite and marcasite in association, zinc-rich phases, and copper-rich compounds, and an iron-rich oxide and hydroxide material (also called gossan) composed largely of goethite and limonite.
+annotation	327|335|limonite|Chemical|MESH:C021024
+annotation	254|263|hydroxide|Chemical|MESH:C031356
+annotation	204|210|copper|Chemical|MESH:D003300
+annotation	145|151|pyrite|Chemical|MESH:C011342
+
+sentence	Silicate phases such as opaline, silica, iron-silicon clay, and trace amounts of mica and zeolite are encountered in both types of material.
+annotation	90|97|zeolite|Chemical|MESH:D017641
+annotation	41|45|iron|Chemical|MESH:D007501
+annotation	0|8|Silicate|Chemical|MESH:D017640
+
+
+sentence	Hydrocalcite (CaCO3 * H2O) and Nesquehonite (MgCO3 * 3H2O) in Carbonate Scales.
+annotation	62|71|Carbonate|Chemical|CHEBI:41609
+annotation	45|50|MgCO3|Chemical|CHEBI:31793
+annotation	22|25|H2O|Chemical|CHEBI:33813
+annotation	0|12|Hydrocalcite|Chemical|
+
+sentence	Hydrocalcite (CaCO(3) * H(2)O) with exactly one molecule of hydrate water is the main component of carbonate scales deposited from cold water in contact with air.
+annotation	99|108|carbonate|Chemical|CHEBI:41609
+annotation	24|29|H(2)O|Chemical|CHEBI:33813
+annotation	0|12|Hydrocalcite|Chemical|
+
+sentence	When the magnesium content of the water is high, the hydrocalcite occurs together with MgCO(3) * 3H(2)O (nesquehonite).
+annotation	105|117|nesquehonite|Chemical|MESH:C005479
+annotation	87|94|MgCO(3)|Chemical|CHEBI:31793
+annotation	9|18|magnesium|Chemical|MESH:D008274
+
+
+sentence	Some workers have considered it to be a pseudomorph after diamond, and have used the proposed diamond ancestry as evidence of a meteoritic parent body of at least lunar dimensions.We have synthesized cliftonite in Fe-Ni-C alloys in vacuumn, as a product of decomposition of cohenite [(Fe, Ni)(3)C].
+annotation	284|296|(Fe, Ni)(3)C|Chemical|
+annotation	217|221|Ni-C|Chemical|
+annotation	200|210|cliftonite|Chemical|
+annotation	58|65|diamond|Chemical|MESH:D018130
+
+
+sentence	Sharp single peaks in the fundamental and first-overtone bands of the O-H stretching vibration in pure Mg(2)+ and Fe(2)+ amphiboles split into a maximum of four sharp peaks, corresponding to hydroxyl groups linked to 3 Fe, 2 Fe + Mg, 2 Mg + Fe, and 3 Mg, in mixed Fe(2)+-Mg(2)+ amphiboles.
+annotation	264|277|Fe(2)+-Mg(2)+|Chemical|
+annotation	114|116|Fe|Chemical|
+annotation	103|105|Mg|Chemical|
+annotation	114|116|Fe|Chemical|
+annotation	114|116|Fe|Chemical|
+annotation	70|73|O-H|Chemical|MESH:C031356
+
+sentence	The distribution of Fe(2)+ and Mg(2)+ ions between the (M(1),M(3)) and (M(2)M(4)) positions in the cummingtonite-grunerite series, and between the (M(1),M(3)) and M(2) positions in the tremolite-ferroactinolite series, has also been estimated.
+annotation	195|210|ferroactinolite|Chemical|MESH:C036431
+annotation	99|112|cummingtonite|Chemical|
+annotation	20|25|Fe(2)|Chemical|CHEBI:29033
+
+
+sentence	In some calcium carbonate-bearing sandstones from the edge of the continental shelf off the northeast United States, the deltaC(13) range is from -30 and -60 per mil for both aragonite and high-magnesium calcite.
+annotation	194|203|magnesium|Chemical|MESH:D008274
+annotation	121|127|deltaC|Chemical|
+annotation	8|25|calcium carbonate|Chemical|MESH:D002119
+
+sentence	The deltaO(18) values of around + 3.5 per mil in all samples suggest deposition at temperatures around 0 degrees C. Quaternary methane oxidized either chemically or microbiologically to carbon dioxide is the probable source of carbon in these carbonates.
+annotation	243|253|carbonates|Chemical|MESH:D002254
+annotation	186|200|carbon dioxide|Chemical|MESH:D002245
+annotation	4|10|deltaO|Chemical|
+
+
+sentence	An ionic representation (N(delta-)...H(+)...O(delta-)) of the hydrogen bond is more realistic than the normally accepted covalent model (NH...O).
+annotation	44|45|O|Chemical|
+annotation	62|70|hydrogen|Chemical|MESH:D006859
+annotation	37|41|H(+)|Chemical|
+
+
+sentence	Results of tests in which pericarp tissue of the capsule was treated with vanillin and H(2)SO(4) and with an aqueous solution of FeCl(3) and K(3)Fe(CN)(6) showed that resistance to the hydrolytic enzymes was correlated with both a low concentration of flavanols and related compounds and the presence of oxidized compounds in injured tissue.
+annotation	252|261|flavanols|Chemical|CHEBI:72010
+annotation	129|136|FeCl(3)|Chemical|CHEBI:30808
+annotation	74|82|vanillin|Chemical|MESH:C100058
+
+
+sentence	Concentrations of titanium, chromium, scandium, tantalum, hafnium, and rare earths are higher than in avercage basalt, whereas cobalt, nickel, and copper are lower.
+annotation	147|153|copper|Chemical|MESH:D003300
+annotation	127|133|cobalt|Chemical|MESH:D003035
+annotation	48|56|tantalum|Chemical|MESH:D013635
+annotation	28|36|chromium|Chemical|MESH:D002857
+
+
+sentence	Mean abundances and standard deviations of individual abundances (in weight percent) within each type are: type A (2 rocks), 38.5 +/- 1.2 oxygen, 18.9 +/- 0.8 silicon, and 4.0 +/- 0.4 aluminum; type B (7 rocks), 39.4 +/- 1.0 oxygen, 18.7 +/- 0.8 silicon, and 5.0 +/- 0.6 aluminum; type C (18 rocks), 41.1 +/- 1.0 oxygen, 19.7 +/- 0.7 silicon, and 6.6 +/- 0.5 aluminum; soil (3 aliquants), 40.8 +/- 1.2 oxygen, 20.2 +/- 0.2 silicon, and 7.2 +/- 0.1 aluminum.
+annotation	184|192|aluminum|Chemical|MESH:D000535
+annotation	138|144|oxygen|Chemical|MESH:D010100
+annotation	159|166|silicon|Chemical|MESH:D012825
+annotation	184|192|aluminum|Chemical|MESH:D000535
+annotation	138|144|oxygen|Chemical|MESH:D010100
+annotation	159|166|silicon|Chemical|MESH:D012825
+
+
+sentence	Clinopyroxene is zoned from augite to subcalcic ferroaugite compositions and is accompanied by decrease in Cr, Al, and Ti.
+annotation	119|121|Ti|Chemical|
+annotation	107|109|Cr|Chemical|
+annotation	0|13|Clinopyroxene|Chemical|
+
+sentence	Cristobalite, ilmenite with Ti-rich lamellae, ulv  spinel (often Cr-rich), troilite, and kamacite are low in trace elements.
+annotation	89|97|kamacite|Chemical|
+annotation	0|2|Cr|Chemical|
+annotation	14|22|ilmenite|Chemical|MESH:C029232
+
+sentence	Four rock analyses by x-ray fluorescence show affinity with terrestrial basalts but with anomalous amounts of Ti, Na, Cr, Zr, Y, Rb, Nb, Ni, Cu, and Zn.
+annotation	149|151|Zn|Chemical|
+annotation	137|139|Ni|Chemical|
+annotation	129|131|Rb|Chemical|
+annotation	118|120|Cr|Chemical|
+annotation	110|112|Ti|Chemical|
+
+
+sentence	The Apollo 11 basalt was probably formed at depths of 200 to 400 kilometers by a small degree of partial melting from pyroxenitic source material [FeO/(FeO + MgO) = 0.25, A1(2)O(3) 4 percent, CaO 3 percent].
+annotation	192|195|CaO|Chemical|CHEBI:31344
+annotation	158|161|MgO|Chemical|CHEBI:31794
+annotation	147|150|FeO|Chemical|CHEBI:50820
+
+
+sentence	Residual phases include microcrystalline Fe-rich "pyroxene," plagioclase, K-rich alkali feldspar, silica, and rare areas rich in P and Zr with concentrations of Ba, Y, and rare earth elements.
+annotation	161|163|Ba|Chemical|
+annotation	98|104|silica|Chemical|MESH:D012822
+annotation	41|43|Fe|Chemical|
+
+
+sentence	Glass spherules show multiple high-velocity impact craters and are coated with small particles including glass, plagioclase, clinopyroxene, ilmenite, olivine, chromite, rock fragments, and frozen droplets of iron, nickel-iron, and troilite.
+annotation	231|239|troilite|Chemical|
+annotation	208|212|iron|Chemical|MESH:D007501
+annotation	140|148|ilmenite|Chemical|MESH:C029232
+
+
+sentence	The principal minerals described are various clinopyroxenes, plagioclase, olivine, low cristobalite, low tridymite, ilmenite, iron-nickel, iron, schreibersite, cohenite, troilite, and a new CaFe pyroxenoid.
+annotation	190|194|CaFe|Chemical|
+annotation	160|168|cohenite|Chemical|
+annotation	126|130|iron|Chemical|MESH:D007501
+annotation	116|124|ilmenite|Chemical|MESH:C029232
+
+
+sentence	Native iron, or possibly nickel-iron, of submicroscopic particle size is the most important constituent, with minor contributions from ilmenite, paramagnetic iron minerals, and other iron-titanium oxides.
+annotation	183|203|iron-titanium oxides|Chemical|
+annotation	135|143|ilmenite|Chemical|MESH:C029232
+annotation	7|11|iron|Chemical|MESH:D007501
+
+
+sentence	Vesicles formed from dialkyl surfactants containing vinyl, methacrylate, diacetylene, isocyano, and styrene groups have been stabilized by polymerization across their bilayers of head groups.
+annotation	100|107|styrene|Chemical|MESH:D020058
+annotation	73|84|diacetylene|Chemical|CHEBI:37820
+annotation	52|57|vinyl|Chemical|CHEBI:37603
+
+
+sentence	Derivatives which showed high activity possessed an adenine nucleus with a phenyl, benzyl, phenethyl, or furfuryl radical substituted on the amino group.
+annotation	141|146|amino|Chemical|CHEBI:46882
+annotation	91|100|phenethyl|Chemical|
+annotation	75|81|phenyl|Chemical|CHEBI:30396
+
+
+sentence	Lunar soil and type C breccias are enriched 3-to 100-fold in Ir, Au, Zn, Cd, Ag, Br, Bi, and Tl, relative to type A, B rocks.
+annotation	93|95|Tl|Chemical|
+annotation	81|83|Br|Chemical|
+annotation	73|75|Cd|Chemical|
+annotation	65|67|Au|Chemical|
+
+sentence	Type A, B rocks are depleted 10-to 100-fold in Ag, Au, Zn, Cd, In, Tl, and Bi, relative to terrestrial basalts.
+annotation	75|77|Bi|Chemical|
+annotation	59|61|Cd|Chemical|
+annotation	51|53|Au|Chemical|
+
+
+sentence	Fluorapatite, quartz, tridymite, fayalite, and iron-rich, manganese-poor pyroxmangite, previously unreported, have been identified.
+annotation	73|85|pyroxmangite|Chemical|
+annotation	47|51|iron|Chemical|MESH:D007501
+annotation	14|20|quartz|Chemical|MESH:D011791
+
+
+sentence	Abundances of Ti, Al, Ca, Na, and Mn determined by instrumental activation analysis in five core-tube soil samples indicate uniformity for Al and Mn and apparent differences (10 to 20 percent) for Ti, Ca, and Na at 7.8 and 10.5 centimeters as compared to 0to5.2 centimeter depths.
+annotation	26|28|Na|Chemical|
+annotation	14|16|Ti|Chemical|
+annotation	18|20|Al|Chemical|
+annotation	26|28|Na|Chemical|
+annotation	18|20|Al|Chemical|
+
+
+sentence	The ranges (in percent) for the major constituents of the lunar samples are: SiO(2), 38 to 42; Al(2)O(3), 8 to 14; total iron as FeO, 15 to 20; MgO, 6 to 8; CaO, 10 to 12; Na(2)O, 0.5 to 1; K(2)0, 0.05 to 0.4; TiO(2), 8 to 13; MnO, 0.2 to 0.3; and Cr(2)O(3), 0.2 to 0.4.
+annotation	248|257|Cr(2)O(3)|Chemical|CHEBI:48242
+annotation	210|216|TiO(2)|Chemical|CHEBI:32234
+annotation	157|160|CaO|Chemical|CHEBI:31344
+annotation	129|132|FeO|Chemical|CHEBI:50820
+annotation	95|104|Al(2)O(3)|Chemical|CHEBI:30192
+
+
+sentence	Results for argon-39 from the reaction potassium-39 (n,p), and for argon-37, from the reaction calcium-40 (n,a), seem to require a neutron spectrum conitaining more neutrons below 2 million electronvolts than the evaporation spectrum or that given by Arnold, Honda, and Lal (1) or a strong time dependence for the neutron flux.
+annotation	270|273|Lal|Chemical|
+annotation	12|17|argon|Chemical|MESH:D001128
+annotation	12|20|argon-39|Chemical|
+
+
+sentence	Water, hydrogen, deuterium, carbon, carbon-13, and oxygen-18 content of selected lunar material.
+annotation	51|57|oxygen|Chemical|MESH:D010100
+annotation	28|34|carbon|Chemical|MESH:D002244
+annotation	7|15|hydrogen|Chemical|MESH:D006859
+
+
+sentence	X-rays reveal augite, anorthite, olivine, ilmenite, troilite, nonmeteoritic iron, and assorted glasses, but no major structural damage.
+annotation	76|80|iron|Chemical|MESH:D007501
+annotation	42|50|ilmenite|Chemical|MESH:C029232
+annotation	22|31|anorthite|Chemical|MESH:C074225
+
+
+sentence	Nuclides identified were (40)K, (232)Th, (238)U, (7)Be, (22)Na (26)A1, (44)Ti, (46)Sc, (48)V, (52)Mn, (54)Mn, and (56)Co.
+annotation	114|120|(56)Co|Chemical|
+annotation	94|100|(52)Mn|Chemical|
+annotation	79|85|(46)Sc|Chemical|
+annotation	56|62|(22)Na|Chemical|
+annotation	41|47|(238)U|Chemical|
+
+
+sentence	Accessory minerals are: apatite (containing Cl, F, Y, and Ce), troilite, and metallic iron.
+annotation	86|90|iron|Chemical|MESH:D007501
+annotation	58|60|Ce|Chemical|
+annotation	44|46|Cl|Chemical|
+
+
+sentence	Minerals found include pyroxene, plagioclase, olivine, ilmenite, troilite, ulv  spinel, native iron, cristobalite, tridymite, alkali feldspar, apatite, and quartz.
+annotation	115|124|tridymite|Chemical|MESH:D012822
+annotation	95|99|iron|Chemical|MESH:D007501
+annotation	55|63|ilmenite|Chemical|MESH:C029232
+
+
+sentence	Glass spherules, glass fragments, augite, ferroaugite, titanaugite, pyroxmangite, pigeonite, hypersthene, plagioclase, potassium feldspar, maskelynite, olivine, silica, ilmenite, TiO(2), "ferropseudobrookite," spinel, ulv  spinel, native iron, nickel-iron, troilite, and chlorapatite were analyzed with the electron microprobe.
+annotation	271|283|chlorapatite|Chemical|MESH:C051449
+annotation	244|255|nickel-iron|Chemical|
+annotation	188|207|ferropseudobrookite|Chemical|
+annotation	169|177|ilmenite|Chemical|MESH:C029232
+annotation	119|128|potassium|Chemical|MESH:D011188
+annotation	82|91|pigeonite|Chemical|
+annotation	55|66|titanaugite|Chemical|
+
+
+sentence	During crystallization of lunar crystalline rocks 10022 and 10024, augite changes in composition almost continuously from titanaugite (Ca(36)Mg(47) Fe, (17) with TiO(2) 3 percent) to a very iron-rich variety (Ca(9)Mg(5)Fe(86)), pigeonite changes from Ca(9)Mg(66)Fe(25) to Ca(1O)Mg(51)Fe(39), and olivine changes (in 10022) from Mg(71)Fe(29) to Mg(41)Fe(59), whereas plagioclase stays as bytownite.
+annotation	387|396|bytownite|Chemical|
+annotation	328|340|Mg(71)Fe(29)|Chemical|
+annotation	251|268|Ca(9)Mg(66)Fe(25)|Chemical|
+annotation	190|194|iron|Chemical|MESH:D007501
+annotation	135|150|Ca(36)Mg(47) Fe|Chemical|
+
+
+sentence	Rock 10047 contains ilmenite as a main component besides Al-bearing chromian ulv  spinel, a new Ti, Fe, Zr, Y, Ca silicate, troilite, cobaltian alpha Fe, minor hafnian baddeleyite and dysanalyte.
+annotation	100|102|Fe|Chemical|
+annotation	104|106|Zr|Chemical|
+annotation	96|98|Ti|Chemical|
+annotation	20|28|ilmenite|Chemical|MESH:C029232
+
+sentence	Dysanalyte contains Ca, Ti, and Fe as major elements and shows concentrations (rare earth elements together approximately 10 percent) of La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Hf, Y, and Zr plus traces of Nb, Ba, and Na.
+annotation	226|228|Na|Chemical|
+annotation	214|216|Nb|Chemical|
+annotation	185|187|Hf|Chemical|
+annotation	173|175|Ho|Chemical|
+annotation	157|159|Eu|Chemical|
+annotation	149|151|Nd|Chemical|
+annotation	141|143|Ce|Chemical|
+annotation	32|34|Fe|Chemical|
+annotation	20|22|Ca|Chemical|
+
+
+sentence	Modal analysis indicates that the breccia is enriched in iron relative to ilmenite and troilite, and the high nickel content of this iron suggests that it is largely of meteoritic origin.
+annotation	57|61|iron|Chemical|MESH:D007501
+annotation	87|95|troilite|Chemical|
+annotation	57|61|iron|Chemical|MESH:D007501
+
+
+sentence	Microscope study and electron microprobe analysis of lunar rocks and soil show that ilmenite, troilite, and native iron are accompanied by trace amounts of ulv  spinel, titanochromite (new mineral name), an unidentified Ti-Fe oxide, and a complex Zr-Y silicate.
+annotation	220|231|Ti-Fe oxide|Chemical|
+annotation	115|119|iron|Chemical|MESH:D007501
+annotation	84|92|ilmenite|Chemical|MESH:C029232
+
+
+sentence	Site occupancy numbers for ferrous iron, magnesium, and calcium at the Ml and M2 sites in lunar clinopyroxenes are estimated from nuclear gamma-ray resonant absorption spectra of (57)Fe.
+annotation	179|185|(57)Fe|Chemical|CHEBI:52623
+annotation	71|73|Ml|Chemical|
+annotation	41|50|magnesium|Chemical|MESH:D008274
+
+
+sentence	Iron metal and the Fe(2+) minerals ilmenite, pyroxene, troilite, and iron containing glass have been identified.
+annotation	69|73|iron|Chemical|MESH:D007501
+annotation	45|53|pyroxene|Chemical|MESH:C092478
+annotation	19|25|Fe(2+)|Chemical|CHEBI:29033
+
+
+sentence	iron with abiout 5 to 10 percent nickel (meteoritic), iron with about 33 percent or more nickel (meteoritic), and ilmenite.
+annotation	114|122|ilmenite|Chemical|MESH:C029232
+annotation	0|4|iron|Chemical|MESH:D007501
+annotation	0|4|iron|Chemical|MESH:D007501
+
+
+sentence	This intermediate reacts rapidly with C-H bonds in every molecule so far tested (including alkanes) and leads to hydridoalkyliridium complexes Cp(*)(L)lr(R)(H).
+annotation	40|41|H|Chemical|
+annotation	113|132|hydridoalkyliridium|Chemical|
+annotation	38|41|C-H|Chemical|
+
+sentence	Oxidative addition of the corresponding rhodium complexes Cp(*)RhL to alkane C-H bonds has also been observed, although the products formed in this case are much less stable and undergo reductive elimination at -20 degrees C. These and other recent observations provide an incentive for reexamining the factors that have been assumed to control the rate of reaction of transition metal complexes with C-H bonds-notably the need for electron-rich metals and the proximity of reacting centers.
+annotation	77|80|C-H|Chemical|
+annotation	77|80|C-H|Chemical|
+annotation	40|47|rhodium|Chemical|MESH:D012238
+
+
+sentence	Nonstoichiometric grains with depletions of magnesium and silicon (relative to oxygen) and inclusions of iron-nickel metal and iron-rich sulfides have been identified in interplanetary dust particles from comets.
+annotation	127|145|iron-rich sulfides|Chemical|
+annotation	79|85|oxygen|Chemical|MESH:D010100
+annotation	44|53|magnesium|Chemical|MESH:D008274
+
+
+sentence	When two basins of one lake were fertilized with equal amounts of nitrate and sucrose, and phosphorus was also added to one of the basins, the phosphateenriched basin quickly became highly eutrophic, while the basin receiving only nitrogen and carbon remained at prefertilization conditions.
+annotation	244|250|carbon|Chemical|MESH:D002244
+annotation	91|101|phosphorus|Chemical|MESH:D010758
+annotation	66|73|nitrate|Chemical|CHEBI:48107
+
+
+sentence	Even under these conditions, dolomite formation may be inhibited by the concurrent transformation of opal-A (amorphous silica) to opal-CT (disordered cristobalite and tridymite), whereas the subsequent transformation of opal-CT to quartz favors the formation of dolomite.
+annotation	29|37|dolomite|Chemical|MESH:C028042
+annotation	150|162|cristobalite|Chemical|MESH:D012822
+annotation	29|37|dolomite|Chemical|MESH:C028042
+
+
+sentence	Consideration has been given to the effect of changes in sulfur dioxide, nitrogen oxides, and reactive hydrocarbon concentrations on sulfate and nitrate formation for conditions typical of the midwestern and northeastern United States.
+annotation	145|152|nitrate|Chemical|CHEBI:48107
+annotation	103|114|hydrocarbon|Chemical|CHEBI:24632
+annotation	57|71|sulfur dioxide|Chemical|MESH:D013458
+
+
+sentence	Three cysteine-rich proteins of molecular weight 4000 to 7000, containing 4 to 7 gram atoms of cadmium, zinc, and copper per mole were isolated from Pseudomonas putida growing in 3 mM cadmium.
+annotation	95|102|cadmium|Chemical|MESH:D002104
+annotation	104|108|zinc|Chemical|MESH:D015032
+annotation	6|14|cysteine|Chemical|MESH:D003545
+
+
+sentence	Several amino acids, including leucine, methionine, lysine, and isoleucine, are also effective feeding stimulants and are presumed to be the active components in the casein hydrolysate.
+annotation	64|74|isoleucine|Chemical|CHEBI:24898
+annotation	40|50|methionine|Chemical|MESH:D008715
+annotation	8|19|amino acids|Chemical|CHEBI:33709
+
+
+sentence	We summarize the results of three case studies, on HCO, OH + H(2), and O + C(2)H(2), which illustrate the range of problems that can be addressed by using modern theoretical techniques.
+annotation	75|83|C(2)H(2)|Chemical|CHEBI:27518
+annotation	61|65|H(2)|Chemical|
+annotation	51|54|HCO|Chemical|CHEBI:17478
+
+sentence	Collisions between molecules leading to reaction or energy transer were described with quantum dynamical methods (HCO), classical trajectory techniques (HCO and OH + H(2)), and statistical methods (HCO, OH + H(2), and O + C(2)H(2)).
+annotation	222|230|C(2)H(2)|Chemical|CHEBI:27518
+annotation	166|170|H(2)|Chemical|
+annotation	114|117|HCO|Chemical|CHEBI:17478
+annotation	161|163|OH|Chemical|MESH:C031356
+annotation	114|117|HCO|Chemical|CHEBI:17478
+
+
+sentence	The rate of retinal photoisomerization in wild-type bacteriorhodopsin (wt bR) is compared with that in a number of mutants in which a positively charged (Arg(82)), a negatively charged (Asp(85) or Asp(212)), or neutral hydrogen bonding (Asp(115) or Tyr(185)) amino acid residue known to be functionally important within the retinal cavity is replaced by a neutral, non-hydrogen bonding one.
+annotation	219|227|hydrogen|Chemical|MESH:D006859
+annotation	186|189|Asp|Chemical|CHEBI:22660
+annotation	186|189|Asp|Chemical|CHEBI:22660
+annotation	154|157|Arg|Chemical|CHEBI:16467
+
+
+sentence	At the same time, 'spare' subunits of AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) and NMDA (N-methyl-D-aspartic acid) receptors move from subsynaptic sites to the synaptic membrane, causing further hyperexcitability and possibly explaining the preserved sensitivity to NMDA blockers late in the course of SE.
+annotation	106|110|NMDA|Chemical|CHEBI:6121
+annotation	106|110|NMDA|Chemical|CHEBI:6121
+annotation	38|42|AMPA|Chemical|MESH:D018350
+
+sentence	Maladaptive changes in neuropeptide expression occur on a slower time course, with depletion of the inhibitory peptides dynorphin, galanin, somatostatin and neuropeptide Y, and with an increased expression of the proconvulsant tachykinins, substance P and neurokinin B.
+annotation	256|268|neurokinin B|Gene|6866
+annotation	227|238|tachykinins|Chemical|MESH:D015320
+annotation	131|138|galanin|Chemical|MESH:D019004
+
+
+sentence	The concentrations of albumin, IgG, transferrin, retinol binding protein (RBP), alpha-1-microglobulin (alpha-1-m) and beta-2-microglobulin (beta-2-m) were determined in urine of 83 males 21 to 60 years old (Mean = 41.2 +/- SD = 10.7) with a history of occupational exposure to metallic mercury vapours from 7 months to 37 years (Mean=16.3 +/- 10.9) and in 30 males without this exposure by using the nephelometry (Behring's antibodies, references and controls).
+annotation	286|293|mercury|Chemical|MESH:D008628
+annotation	118|138|beta-2-microglobulin|Gene|567
+annotation	49|56|retinol|Chemical|MESH:D014801
+annotation	36|47|transferrin|Gene|7018
+
+
+sentence	Determination of erythrocyte number and their indices and enzymatic activity of: glucose-6-phosphate dehydrogenase (G-6PD), superoxide dismutase (SOD), acetylcholinesterase (AchE), glutathione reductase (GR) and hexokinase (Hx) in peripheral blood erythrocytes of workers chronically exposed to mercury vapours during the production of chloride (the mercuric electrolysis method).
+annotation	336|344|chloride|Chemical|CHEBI:17996
+annotation	212|222|hexokinase|Gene|3098
+annotation	181|192|glutathione|Chemical|MESH:D005978
+annotation	174|178|AchE|Gene|43
+annotation	146|149|SOD|Gene|6647
+annotation	124|144|superoxide dismutase|Gene|6647
+annotation	81|114|glucose-6-phosphate dehydrogenase|Gene|2539
+
+
+sentence	Epinephrine and norepinephrine were applied in combination with nitric oxide inhalation to prevent negative pulmonary vasoconstrictor effect of epinephrine and norepinephrine.
+annotation	16|30|norepinephrine|Chemical|MESH:D009638
+annotation	64|76|nitric oxide|Chemical|MESH:D009569
+annotation	0|11|Epinephrine|Chemical|MESH:D004837
+
+
+sentence	Biochemical studies demonstrate that the NO-releasing-aspirin derivative (NCX4016) stimulates soluble guanylate cyclase (sGC) activity and increases cyclic GMP (cGMP) in human platelet and monocytes by releasing NO.
+annotation	161|165|cGMP|Chemical|CHEBI:16356
+annotation	121|124|sGC|Gene|25206(Tax:10116)
+annotation	94|119|soluble guanylate cyclase|Gene|25206(Tax:10116)
+annotation	41|61|NO-releasing-aspirin|Chemical|
+
+
+sentence	Enantiomerically enriched allylic alcohols and allylic amines via C-C bond-forming hydrogenation: asymmetric carbonyl and imine vinylation.
+annotation	122|127|imine|Chemical|CHEBI:24783
+annotation	66|69|C-C|Chemical|
+annotation	26|42|allylic alcohols|Chemical|
+
+sentence	Hydrogenation of alkynes in the presence of carbonyl compounds and imines using cationic rhodium(I) and iridium(I) precatalysts enables the formation of allylic alcohols and allylic amines, respectively.
+annotation	174|188|allylic amines|Chemical|
+annotation	104|114|iridium(I)|Chemical|
+annotation	67|73|imines|Chemical|MESH:D007097
+annotation	17|24|alkynes|Chemical|MESH:D000480
+
+
+sentence	Novel estrogen-conjugated pyridine-containing Gd(III) and Eu(III) contrast agents (EPTA-Gd/Eu) were designed and effectively synthesized.
+annotation	58|60|Eu|Chemical|
+annotation	58|65|Eu(III)|Chemical|
+annotation	26|34|pyridine|Chemical|MESH:C023666
+
+
+sentence	Sulfur X-ray absorption and vibrational spectroscopic study of sulfur dioxide, sulfite, and sulfonate solutions and of the substituted sulfonate ions X3CSO3- (X = H, Cl, F).
+annotation	166|168|Cl|Chemical|
+annotation	92|101|sulfonate|Chemical|CHEBI:33543
+annotation	79|86|sulfite|Chemical|CHEBI:48854
+annotation	0|6|Sulfur|Chemical|MESH:D013455
+
+sentence	At intermediate pH ( approximately 4) the two coordination isomers, the sulfonate (HSO3-) and hydrogen sulfite (SO3H-) ions with the hydrogen atom coordinated to sulfur and oxygen, respectively, could be distinguished with the ratio HSO3-:SO3H- about 0.28:0.72 at 298 K. The relative amount of HSO3- increased with increasing temperature in the investigated range from 275 to 343 K. XANES spectra of sulfonate, methanesulfonate, trichloromethanesulfonate, and trifluoromethanesulfonate compounds, all with closely similar S-O bond distances in tetrahedral configuration around the sulfur atom, were interpreted by DFT-TP computations.
+annotation	162|168|sulfur|Chemical|MESH:D013455
+annotation	429|454|trichloromethanesulfonate|Chemical|
+annotation	72|81|sulfonate|Chemical|CHEBI:33543
+annotation	162|168|sulfur|Chemical|MESH:D013455
+annotation	112|117|SO3H-|Chemical|
+annotation	83|88|HSO3-|Chemical|CHEBI:17137
+
+sentence	Significant changes occur for the electronegative trichloromethyl (Cl3C-) and trifluoromethyl (F3C-) groups, which strongly affect the distribution especially of the pi electrons around the sulfur atom.
+annotation	190|196|sulfur|Chemical|MESH:D013455
+annotation	78|93|trifluoromethyl|Chemical|CHEBI:50127
+annotation	50|65|trichloromethyl|Chemical|CHEBI:30736
+
+
+sentence	To understand the coordination chemistry of a DO3A-conjugated triphenylphosphonium (TPP) cation, triphenyl(4-((4,7,10-tris(carboxymethyl)-1,4,7,10-tetraazacyclododecan-1-yl)methyl)benzyl)phosphonium (DO3A-xy-TPP), with diagnostically important metal ions, In(DO3A-xy-TPP)+, Ga(DO3A-xy-TPP)+, and Mn(DO3A-xy-TPP) were prepared by reacting DO3A-xy-TPP with 1 equiv of the respective metal salt.
+annotation	200|211|DO3A-xy-TPP|Chemical|MESH:C561041
+annotation	200|211|DO3A-xy-TPP|Chemical|MESH:C561041
+annotation	200|211|DO3A-xy-TPP|Chemical|MESH:C561041
+annotation	84|87|TPP|Chemical|MESH:D013835
+
+sentence	There is no dissociation of the acetate chelating arms in In(DO3A-xy-TPP)+ and Ga(DO3A-xy-TPP)+, providing indirect evidence for the high solution stability of (111)In(DO3A-xy-TPP)+ and (68)Ga(DO3A-xy-TPP)+.
+annotation	61|72|DO3A-xy-TPP|Chemical|MESH:C561041
+annotation	61|72|DO3A-xy-TPP|Chemical|MESH:C561041
+annotation	32|39|acetate|Chemical|MESH:D000085
+
+
+sentence	Treatment of H3[RO3] with methyl p-toluenesulfonate in the presence of K2CO3 in CH3CN gave the corresponding anisol-diphenol H2[RO2O] (2,6-bis(3-tert-butyl-5-methyl-2-hydroxybenzyl)-4-R-anisole; R = Me (2a), tBu (2b)).
+annotation	208|211|tBu|Chemical|CHEBI:30355
+annotation	125|133|H2[RO2O]|Chemical|
+annotation	80|85|CH3CN|Chemical|CHEBI:38472
+annotation	26|51|methyl p-toluenesulfonate|Chemical|MESH:C014108
+
+sentence	The lithium salts were reacted with ZrCl4 in toluene/THF to obtain the dichloride complex [RO2O]ZrCl2(thf) (R = Me (3a), tBu (3b)).
+annotation	121|124|tBu|Chemical|CHEBI:30355
+annotation	71|81|dichloride|Chemical|
+annotation	45|52|toluene|Chemical|MESH:D014050
+annotation	4|11|lithium|Chemical|MESH:D008094
+
+sentence	Alkylation of 3 with MeMgBr, PhCH2MgCl, and Me3SiCH2MgCl gave [MeO2O]ZrMe2(thf) (5), [RO2O]Zr(CH2Ph)2 (R = Me (6a), tBu (6b)), and [tBuO2O]Zr(CH2SiMe3)2 (7), respectively.
+annotation	131|141|[tBuO2O]Zr|Chemical|
+annotation	85|101|[RO2O]Zr(CH2Ph)2|Chemical|
+annotation	44|56|Me3SiCH2MgCl|Chemical|
+annotation	21|27|MeMgBr|Chemical|
+
+
+sentence	The complexes CpFe(CO)(2)Ph and [CpFe(CO)(2)](2) cleave DNA in the presence of H2O2 or organic peroxides to give products resulting from the formal hydrolysis of the phosphodiester groups.
+annotation	166|180|phosphodiester|Chemical|
+annotation	79|83|H2O2|Chemical|CHEBI:16240
+annotation	14|27|CpFe(CO)(2)Ph|Chemical|
+
+
+sentence	Using linear MIs with a high degree of bromine chain-end functionality, including polyacrylate, polystyrene, polymethacrylate and poly(ethylene oxide), resulted in high-yield star polymers (>90%).
+annotation	130|150|poly(ethylene oxide)|Chemical|MESH:D011092
+annotation	96|107|polystyrene|Chemical|MESH:D011137
+annotation	39|46|bromine|Chemical|MESH:D001966
+
+
+sentence	The reaction dynamics of phenyl radicals (C6H5) with ethylene (C2H4) and D4-ethylene (C2D4) were investigated at two collision energies of 83.6 and 105.3 kJ mol-1 utilizing a crossed molecular beam setup.
+annotation	86|90|C2D4|Chemical|
+annotation	63|67|C2H4|Chemical|CHEBI:18153
+annotation	42|46|C6H5|Chemical|CHEBI:30396
+
+sentence	The experiments suggested that the reaction followed indirect scattering dynamics via complex formation and was initiated by an addition of the phenyl radical to the carbon-carbon double bond of the ethylene molecule forming a C6H5CH2CH2 radical intermediate.
+annotation	227|237|C6H5CH2CH2|Chemical|
+annotation	166|172|carbon|Chemical|MESH:D002244
+annotation	144|150|phenyl|Chemical|CHEBI:30396
+
+sentence	Experiments with D4-ethylene verified that in the corresponding reaction with ethylene the hydrogen atom was truly emitted from the ethylene unit but not from the phenyl moiety.
+annotation	163|169|phenyl|Chemical|CHEBI:30396
+annotation	91|99|hydrogen|Chemical|MESH:D006859
+annotation	17|28|D4-ethylene|Chemical|
+
+
+
+sentence	Among these are viral sensing genes, such as retinoic acid-inducible gene-I protein (RIG-I), melanoma differentiation-associated gene 5 (MDA5) and toll-like receptor (TLR), cytokines, and apoptotic-related genes.
+annotation	137|141|MDA5|Gene|64135
+annotation	85|90|RIG-I|Gene|23586
+annotation	45|83|retinoic acid-inducible gene-I protein|Gene|23586
+
+
+sentence	Following stimulation of PBMCs with rFVIII and phytohemagglutinin (PHA) mitogen, the secreted cytokines, interferon-gamma (IFN-gamma), interleukin-10 (IL-10), and transforming growth factor-beta1 (TGF-beta1), in culture supernatant and the proliferative response were assessed using sandwich ELISA and (3)H-thymidine incorporation, respectively.
+annotation	302|316|(3)H-thymidine|Chemical|CHEBI:53526
+annotation	163|195|transforming growth factor-beta1|Gene|7040
+annotation	135|149|interleukin-10|Gene|3586
+annotation	105|121|interferon-gamma|Gene|3458
+
+sentence	Although PHA induced IL-10, TGF-beta1 and IFN-gamma secretion in all groups, the level of IFN-gamma was significantly lower in hemophilia A patients than in normal individuals (p < 0.0001).
+annotation	42|51|IFN-gamma|Gene|3458
+annotation	28|37|TGF-beta1|Gene|7040
+annotation	9|12|PHA|Chemical|
+
+
+sentence	For this reason, we analyzed the temporal response of NPCs to motor neuron degeneration in the spinal cord and brain using nestin enhancer-driven LacZ reporter transgenic mice (pNes-Tg mice, control) and bi-transgenic mice containing both the nestin enhancer-driven LacZ reporter gene and mutant G93A-SOD1 gene (Bi-Tg mice).
+annotation	312|314|Bi|Chemical|MESH:D001729
+annotation	146|150|LacZ|Chemical|MESH:C028562
+annotation	146|150|LacZ|Chemical|MESH:C028562
+
+
+sentence	We used bone marrow cells from SDF-1/CXCL12 transgenic and littermate control mice, and culture of normal mouse bone marrow and human cord blood cells plated in the presence or absence of recombinant SDF-1/CXCL12 to evaluate a role for SDF-1/CXCL12 in the replating capability in vitro of multipotential [colony-forming units (CFU)-GEMM] and macrophage (CFU-M) progenitor cells.
+annotation	37|43|CXCL12|Gene|6387
+annotation	37|43|CXCL12|Gene|6387
+annotation	37|43|CXCL12|Gene|20315(Tax:10090)
+
+
+sentence	Furthermore, the antiapoptotic effect of nicotine was blocked completely by nicotinic acetylcholine receptor (nAChR) antagonist hexamethonium.
+annotation	128|141|hexamethonium|Chemical|MESH:D018738
+annotation	86|99|acetylcholine|Chemical|MESH:D000109
+annotation	41|49|nicotine|Chemical|MESH:D009538
+
+
+sentence	It was found that the yddG gene overexpression conferred resistance upon E. coli cells to the inhibiting concentrations of l-phenylalanine and aromatic amino acid analogues, dl-p-fluorophenylalanine, dl-o-fluorophenylalanine and dl-5-fluorotryptophan.
+annotation	229|250|dl-5-fluorotryptophan|Chemical|
+annotation	174|198|dl-p-fluorophenylalanine|Chemical|
+annotation	123|138|l-phenylalanine|Chemical|CHEBI:58095
+
+
+sentence	The INK4 family members p16(INK4a) and p15(INK4b) negatively regulate cell cycle progression by inhibition of cyclin-dependent kinase (CDK) 4/6.
+annotation	110|116|cyclin|Chemical|MESH:C074450
+annotation	43|48|INK4b|Gene|1030
+annotation	28|33|INK4a|Gene|1029
+annotation	4|8|INK4|Gene|1029
+
+sentence	In contrast, despite the biochemical similarity to p16(INK4a), the frequency of defects in p15(INK4b) was found to be lower than in p16(INK4a), suggesting that p15(INK4b)-inductive agents may be useful for tumor suppression.
+annotation	95|100|INK4b|Gene|1030
+annotation	55|60|INK4a|Gene|1029
+annotation	95|100|INK4b|Gene|1030
+annotation	55|60|INK4a|Gene|1029
+
+sentence	Here we report the discovery of a novel pyrido-pyrimidine derivative, JTP-70902, which exhibits p15(INK4b)-inducing activity in p16(INK4a)-inactivated human colon cancer HT-29 cells.
+annotation	132|137|INK4a|Gene|1029
+annotation	100|105|INK4b|Gene|1030
+annotation	70|79|JTP-70902|Chemical|MESH:C553329
+
+sentence	JTP-70902 also induced another CDK-inhibitor, p27(KIP1), and downregulated the expression of c-Myc and cyclin D1, resulting in G(1) cell cycle arrest.
+annotation	103|112|cyclin D1|Gene|595
+annotation	50|54|KIP1|Gene|1027
+annotation	0|9|JTP-70902|Chemical|MESH:C553329
+
+sentence	However, JTP-70902 did not inhibit the growth of COLO320 DM cells; in these, constitutive extracellular signal-regulated kinase phosphorylation was not detected, and neither p15(INK4b) nor p27(KIP1) induction was observed.
+annotation	193|197|KIP1|Gene|1027
+annotation	178|183|INK4b|Gene|1030
+annotation	9|18|JTP-70902|Chemical|MESH:C553329
+
+
+sentence	For the development of cancer vaccine therapies, we have searched for possible epitope peptides that can elicit cytotoxic T lymphocytes (CTL) to the TTK protein kinase (TTK), lymphocyte antigen 6 complex locus K (LY6K) and insulin-like growth factor (IGF)-II mRNA binding protein 3 (IMP-3), which were previously identified to be transactivated in the majority of lung and esophageal cancers.
+annotation	283|288|IMP-3|Gene|55272
+annotation	213|217|LY6K|Gene|54742
+annotation	149|167|TTK protein kinase|Gene|7272
+
+sentence	Our results strongly imply that TTK, LY6K and IMP-3 are novel tumor-associated antigens recognized by CTL, and TTK-567 (SYRNEIAYL), LY6K-177 (RYCNLEGPPI) and IMP-3-508 (KTVNELQNL) are HLA-A24-restricted epitope peptides that can induce potent and specific immune responses against lung and esophageal cancer cells expressing TTK, LY6K and IMP-3.
+annotation	46|51|IMP-3|Gene|55272
+annotation	32|35|TTK|Gene|7272
+annotation	37|41|LY6K|Gene|54742
+annotation	111|118|TTK-567|Chemical|
+annotation	37|41|LY6K|Gene|54742
+
+
+sentence	OBJECTIVE: To assess whether angiotensin II (Ang II), important in hypertension and highly expressed in benign prostatic hyperplasia (BPH), is involved in prostate growth, by analysing changes in the histological composition, tissue apoptotic status and level of transforming growth factor-beta1 (TGFbeta1) induced by an Ang II type 1 receptor blocker, losartan, in the prostates of spontaneously hypertensive (SH) rats.
+annotation	353|361|losartan|Chemical|MESH:D019808
+annotation	297|305|TGFbeta1|Gene|59086(Tax:10116)
+annotation	45|51|Ang II|Gene|24179(Tax:10116)
+
+
+sentence	We analysed the sequence variability of the third gene (MG192 or mgpC) of the M. genitalium MgPa adhesion operon, demonstrated that the MG192 gene is highly variable among and within M. genitalium strains in vitro and in vivo, and identified MG192 sequence shifts in the course of in vitro passage of the G37 type strain and in sequential specimens from an M. genitalium-infected patient.
+annotation	81|91|genitalium|Chemical|
+annotation	81|91|genitalium|Chemical|
+annotation	81|91|genitalium|Chemical|
+
+
+sentence	Extended-spectrum beta-lactamase (ESBL) producing organisms are resistant to penicillins, cephalosporins, aminoglycosides, trimethoprim-sulfamethoxazole, aztreonam, and most fluoroquinolones.
+annotation	174|190|fluoroquinolones|Chemical|MESH:D024841
+annotation	123|152|trimethoprim-sulfamethoxazole|Chemical|MESH:D015662
+annotation	90|104|cephalosporins|Chemical|MESH:D002511
+
+
+sentence	OBJECTIVE: To investigate the effects of epigallocatechin-3-gallate (EGCG) on the cell aging and hypoxanthine-phosphoribosyl-transferase (HPRT) gene mutation frequency induced by long-term ultraviolet (UV) A and UVB irradiation in human skin fibroblasts (HSF).
+annotation	138|142|HPRT|Gene|3251
+annotation	97|136|hypoxanthine-phosphoribosyl-transferase|Gene|3251
+annotation	69|73|EGCG|Chemical|CHEBI:4806
+
+sentence	RESULTS: The HSFs of the control and EGCG groups only showed a few beta-GAL positive cells, and the beta-GAL positive cell ratios of the other 4 groups were higher and could be arranged from low to high according to the sequence: UVB group (43% +/- 4%) < UVA group (54% +/- 4%) < EGCG + UVB group (64% +/- 5%) < EGCG + UVA group (75% +/- 5%).
+annotation	37|41|EGCG|Chemical|CHEBI:4806
+annotation	67|75|beta-GAL|Gene|2720
+annotation	37|41|EGCG|Chemical|CHEBI:4806
+
+
+sentence	RESULTS: Western blotting and RT-PCR showed that the expression levels of COX-2 protein and mRNA, as well as those of Id1 in the SGC7901/COX-2 cells were high, and the expression level of Id1 was down-regulated in the SGC7901/COX-2RNAi cells transfected with Id1 RNAi.
+annotation	118|121|Id1|Gene|15901(Tax:10090)
+annotation	74|79|COX-2|Gene|19225(Tax:10090)
+annotation	74|79|COX-2|Gene|19225(Tax:10090)
+
+sentence	The VEGF level of the SGC7901/COX-2 cells was 2060 +/- 42, significantly higher than that of the control SGC7901/PC cells (1248 +/- 28, P = 0.000) and VEGF level of the supernatant of then SGC7901/COX-2 RNAi cells was 1024 +/- 20, significantly lower than that of the SGC7901/COX-2/PC cells (2033 +/- 27, P = 0.000).
+annotation	30|35|COX-2|Gene|19225(Tax:10090)
+annotation	4|8|VEGF|Gene|22339(Tax:10090)
+annotation	4|8|VEGF|Gene|22339(Tax:10090)
+
+sentence	CONCLUSION: COX-2 can stimulate VEGF and enhance the proliferation of endothelial cells by upregulating Id1, and blocking this pathway may be helpful to the tumor therapeutics, so COX-2 and Id1 can be exploited as therapeutic targets of gastric cancer.
+annotation	104|107|Id1|Gene|15901(Tax:10090)
+annotation	104|107|Id1|Gene|15901(Tax:10090)
+annotation	12|17|COX-2|Gene|19225(Tax:10090)
+
+
+sentence	Intradialytic sodium gains (delta Na1=postdialysis minus pre-dialysis sodium), interdialytic sodium fall (delta Na2 = previous postdialysis sodium minus pre subsequent dialysis sodium), and interdialytic weight gain (IDWG) (IDWG = weight, pre subsequent dialysis weight minus previous postdialysis weight) were computed.
+annotation	14|20|sodium|Chemical|MESH:D012964
+annotation	112|115|Na2|Chemical|
+annotation	14|20|sodium|Chemical|MESH:D012964
+
+
+sentence	Two strains were resistant to isoniazid and rifampicin, four were resistant to isoniazid, rifampicin and streptomycin, one was resistant to isoniazid, rifampicin, streptomycin and pyrazinamide, and one was resistant to 11 drugs.
+annotation	180|192|pyrazinamide|Chemical|MESH:D011718
+annotation	44|54|rifampicin|Chemical|MESH:D012293
+annotation	105|117|streptomycin|Chemical|MESH:D013307
+annotation	30|39|isoniazid|Chemical|MESH:D007538
+annotation	30|39|isoniazid|Chemical|MESH:D007538
+
+
+sentence	Constitutively active FGFR3 directly phosphorylates RSK2 on Tyr529, which primes RSK2 for activation by the kinases ERK1 and ERK2 (ERK1/2).
+annotation	131|137|ERK1/2|Gene|5594;5595
+annotation	116|120|ERK1|Gene|5595
+annotation	52|56|RSK2|Gene|6197
+
+
+sentence	In this study we analyzed the effect of Tgfa overexpression in addition to mutant Kras(G12D) by crossing Elastase-Tgfa mice with p48(+/Cre);Kras(+/LSL-G12D) mice.
+annotation	82|86|Kras|Gene|16653(Tax:10090)
+annotation	40|44|Tgfa|Gene|21802(Tax:10090)
+annotation	40|44|Tgfa|Gene|21802(Tax:10090)
+
+
+sentence	The aqueous-based hydroxypropyl-beta-cyclodextrin (HPCD) extraction technique was tested using 14C-PAHs in soils and compared against indigenous microbial mineralization (a measure of bioaccessibility) of 14C-phenanthrene in the presence of pyrene or benzo[a]pyrene (B[a]P) over a range of concentrations (0, 5, 10, or 50 mg kg(-1)) and aged for 0, 25, 50, and 100 d in four soils.
+annotation	267|272|B[a]P|Chemical|CHEBI:29022
+annotation	241|247|pyrene|Chemical|MESH:C030984
+annotation	95|103|14C-PAHs|Chemical|
+annotation	18|49|hydroxypropyl-beta-cyclodextrin|Chemical|MESH:C053839
+
+
+sentence	Although the PTA in CSF was approximately one dilution higher for ceftazidime compared with meropenem at a given MIC value, the cumulative fraction of response (CFR) in CSF against all Gram-negatives was markedly higher for meropenem when compared with ceftazidime secondary to the higher occurrence of lower MIC values for meropenem.
+annotation	92|101|meropenem|Chemical|MESH:C059500
+annotation	92|101|meropenem|Chemical|MESH:C059500
+annotation	66|77|ceftazidime|Chemical|MESH:D002442
+
+
+sentence	Some chemokines were selectively expressed by different IM infiltrates: CCL4 was present only in the perimysial inflammatory foci of a subset of DM biopsies, while CXCL1, CXCL2, CXCL3, and CCL7-positive cells were exclusively detected in endomysial infiltrates of a number of PM and IBM samples.
+annotation	189|193|CCL7|Gene|6354
+annotation	171|176|CXCL2|Gene|2920
+annotation	72|76|CCL4|Gene|6351
+
+sentence	Our studies identified three ligand-receptor pairs, namely CXCL10/CXCR3, CXCL12/CXCR4, and CCL2/CCR2, as potential targets for chemokine-based therapy in IM.
+annotation	96|100|CCR2|Gene|729230
+annotation	80|85|CXCR4|Gene|7852
+annotation	66|71|CXCR3|Gene|2833
+
+
+sentence	We investigated the association of the Gln223Arg polymorphism in the leptin receptor gene (LEPR) with bone mineral content (BMC) and areal bone mineral density (aBMD) in prepubertal boys and LEPR interaction with vitamin D receptor (VDR) genotypes (Bsm1 and Fok1).
+annotation	233|236|VDR|Gene|7421
+annotation	213|222|vitamin D|Chemical|MESH:D014807
+annotation	91|95|LEPR|Gene|3953
+
+
+sentence	Progesterone stimulates their growth, whereas treatment with progesterone receptor (PR) antagonists or selective progesterone receptor modulators shrinks these tumors.
+annotation	61|82|progesterone receptor|Gene|5241
+annotation	84|86|PR|Gene|5241
+annotation	61|82|progesterone receptor|Gene|5241
+
+
+sentence	During 9,11,12,12-[(2)H](4)-cortisol infusion, HF-LC but not MF-MC increased 11beta-hydroxysteroid dehydrogenase type 1 (11beta-HSD1) activity (rates of appearance of cortisol and 9,12,12-[(2)H](3)-cortisol) and reduced urinary excretion of 5alpha- and 5beta-reduced [(2)H](4)-cortisol metabolites and [(2)H](4)-cortisol clearance.
+annotation	18|36|[(2)H](4)-cortisol|Chemical|
+annotation	180|206|9,12,12-[(2)H](3)-cortisol|Chemical|
+annotation	77|98|11beta-hydroxysteroid|Chemical|CHEBI:35346
+annotation	61|132|MF-MC increased 11beta-hydroxysteroid dehydrogenase type 1 (11beta-HSD1|Gene|26871
+
+
+sentence	The conditional knockout resulted in ablation of the ERalpha protein, and the progesterone receptor (PR), whose expression is under the control of ERalpha, was largely absent.
+annotation	53|60|ERalpha|Gene|13982(Tax:10090)
+annotation	78|90|progesterone|Chemical|MESH:D011374
+annotation	53|60|ERalpha|Gene|13982(Tax:10090)
+
+
+sentence	We show that three genes involved in a chromatin silencing pathway, NRPD1a encoding RNA polymerase IVa, RNA-dependent RNA polymerase 2 (RDR2), and DICER-like 3 (DCL3), are required for reception of long-distance mRNA silencing in the shoot.
+annotation	161|165|DCL3|Gene|823508(Tax:3702)
+annotation	136|140|RDR2|Gene|826714(Tax:3702)
+annotation	68|74|NRPD1a|Gene|842605(Tax:3702)
+
+
+sentence	Two possible explanations for the saturation kinetics are considered: (A) There is a spectroscopically silent prebinding of oxygen to an unidentified low-affinity saturatable site followed by the oxygen transfer to heme d. (B) Oxygen binding to heme d requires an "activated" state of the enzyme in which an oxygen channel connecting heme d to the bulk is open.
+annotation	215|219|heme|Chemical|MESH:D006418
+annotation	215|219|heme|Chemical|MESH:D006418
+annotation	215|219|heme|Chemical|MESH:D006418
+annotation	124|130|oxygen|Chemical|MESH:D010100
+
+
+sentence	A steady-state and time-resolved photophysical study of a cationic phenazinium dye, phenosafranin (PSF), has been investigated in well-characterized biomimetic micellar nanocavities formed by anionic surfactants of varying chain lengths, namely, sodium decyl sulfate (S(10)S), sodium dodecyl sulfate (S(12)S), and sodium tetradecyl sulfate (S(14)S).
+annotation	341|347|S(14)S|Chemical|
+annotation	301|307|S(12)S|Chemical|
+annotation	268|274|S(10)S|Chemical|
+annotation	99|102|PSF|Chemical|
+annotation	67|78|phenazinium|Chemical|
+
+
+sentence	The copper(II) complex [Cu(tdp)(ClO4)].0.5H2O (1), where H(tdp) is the tetradentate ligand 2-[(2-(2-hydroxyethylamino)ethylimino)methyl]phenol, and the mixed ligand complexes [Cu(tdp)(diimine)]+ (2-5), where diimine is 2,2'-bipyridine (bpy) (2), 1,10-phenanthroline (phen) (3), 3,4,7,8-tetramethyl-1,10-phenanthroline (tmp) (4), and dipyrido-[3,2-d:2',3'-f]-quinoxaline (dpq) (5), have been isolated and characterized by analytical and spectral methods.
+annotation	333|369|dipyrido-[3,2-d:2',3'-f]-quinoxaline|Chemical|
+annotation	278|317|3,4,7,8-tetramethyl-1,10-phenanthroline|Chemical|MESH:C027290
+annotation	246|265|1,10-phenanthroline|Chemical|MESH:C025205
+annotation	219|234|2,2'-bipyridine|Chemical|MESH:D015082
+annotation	175|194|[Cu(tdp)(diimine)]+|Chemical|
+annotation	57|63|H(tdp)|Chemical|MESH:C088568
+annotation	4|14|copper(II)|Chemical|
+
+
+sentence	For example, the reaction of [2-(1-pentynyl)phenylthio]triisopropylsilane 1a, [2-(p-anisylethynyl)phenylthio]triisopropylsilane 1e, and [2-(phenylethynyl)phenylthio]triisopropylsilane 1g in the presence of 2 mol % of AuCl in toluene at 45 degrees C gave 2a, 2e, and 2g in 98, 99, and 97% yields, respectively.
+annotation	225|232|toluene|Chemical|MESH:D014050
+annotation	136|183|[2-(phenylethynyl)phenylthio]triisopropylsilane|Chemical|
+annotation	29|73|[2-(1-pentynyl)phenylthio]triisopropylsilane|Chemical|
+
+
+sentence	The adsorption of the unsaturated fatty acids oleic, linoleic, and linolenic acid on steel surfaces has been investigated by means of a quartz crystal microbalance (QCM).
+annotation	136|142|quartz|Chemical|MESH:D011791
+annotation	67|81|linolenic acid|Chemical|MESH:D017962
+annotation	22|45|unsaturated fatty acids|Chemical|MESH:D005231
+
+
+sentence	We have identified the causative mutation, a transversion in the 5' splice donor site of exon 1 in the mouse ortholog of Human Enhancer of Invasion 10 (Hei10; also known as Gm288 in mouse and CCNB1IP1 in human), a putative B-type cyclin E3 ubiquitin ligase.
+annotation	237|256|E3 ubiquitin ligase|Gene|158506
+annotation	192|200|CCNB1IP1|Gene|239083(Tax:10090)
+annotation	127|150|Enhancer of Invasion 10|Gene|57820
+
+
+sentence	These include the classic PKCs (PKCalpha, PKCbeta(I), PKCbeta(II), PKCgamma), the novel PKCs (PKCdelta, PKCepsilon, PKCeta, PKCmu, PKCtheta), and the atypical PKCs (PKCzeta, PKCiota/lambda).
+annotation	165|172|PKCzeta|Gene|5590
+annotation	104|114|PKCepsilon|Gene|5581
+annotation	67|75|PKCgamma|Gene|5582
+annotation	54|65|PKCbeta(II)|Chemical|
+annotation	32|40|PKCalpha|Gene|5578
+
+
+sentence	We provide evidence that recombinant human interferon-beta (rHuIFN-beta) is able to increase androgen receptor (AR) expression, interfere with the acquisition of a neuroendocrine (NE) phenotype, and improve adhesion potential of androgen-insensitive prostate cancer cells (PC-3).
+annotation	93|101|androgen|Chemical|CHEBI:50113
+annotation	93|110|androgen receptor|Gene|367
+annotation	43|58|interferon-beta|Gene|3456
+
+sentence	The effect of rHuIFN-beta (10-1000 IU/mL) on AR, chromogranin A (CgA), E-cadherin (E-cad), N-cadherin (N-cad), and c-met levels was investigated by Western blotting after 48, 96, and 144 h. In agreement with our previous results, rHuIFN-beta (10-1000 IU/mL) induced a dramatic increase in AR (up to 5.3-fold, p < 0.001) that was already evident with the lowest cytokine concentration (10 IU/mL).
+annotation	45|47|AR|Gene|367
+annotation	91|96|N-cad|Gene|1000
+annotation	71|76|E-cad|Gene|999
+annotation	65|68|CgA|Gene|1113
+annotation	45|47|AR|Gene|367
+
+
+sentence	MSCs from these different tissue sites were similar to those derived from bone marrow in that they expressed comparable levels of the cell-surface markers CD90, CD105, CD166, and HLA class I, were negative for CD34, CD45, HLA class II, CD80, and CD86 expression, and were capable of osteogenic and adipogenic differentiation.
+annotation	246|250|CD86|Gene|942
+annotation	216|220|CD45|Gene|5788
+annotation	168|173|CD166|Gene|214
+
+
+sentence	The purified Rv0183 protein did not show any activity when lysophospholipid substrates were used, but preferentially hydrolysed monoacylglycerol substrates with a specific activity of 290 units x mg(-1) at 37 degrees C. Rv0183 hydrolyses both long chain di- and triacylglycerols, as determined using the monomolecular film technique, although the turnover was lower than with MAG (monoacyl-glycerol).
+annotation	381|398|monoacyl-glycerol|Chemical|CHEBI:17408
+annotation	262|278|triacylglycerols|Chemical|MESH:D014280
+annotation	128|144|monoacylglycerol|Chemical|CHEBI:17408
+
+
+sentence	Low concentrations of TBBPA can quench the tryptophan fluorescence of the SERCA and this quenching can be reversed by BHQ [2,5-di-(t-butyl)-1,4-hydroquinone] and 4-n-nonylphenol, but not thapsigargin, indicating that TBBPA and BHQ may be binding to similar regions in the SERCA.
+annotation	118|121|BHQ|Chemical|
+annotation	187|199|thapsigargin|Chemical|MESH:D019284
+annotation	123|156|2,5-di-(t-butyl)-1,4-hydroquinone|Chemical|
+annotation	22|27|TBBPA|Chemical|
+
+
+sentence	Microbial community structure was linked to degradation potential in benzene-, toluene- or xylene- (BTX) degrading, iron-reducing enrichments derived from an iron-reducing aquifer polluted with landfill leachate.
+annotation	116|120|iron|Chemical|MESH:D007501
+annotation	100|103|BTX|Chemical|
+annotation	79|86|toluene|Chemical|MESH:D014050
+
+
+sentence	Here, we investigated in the brain of 10 mdx mice and in five control ones, the expression of hypoxia inducible factor-1alpha (HIF-1alpha) and we correlated it with the expression of vascular endothelial growth factor (VEGF) and vascular endothelial growth factor receptor-2 (VEGFR-2) and of the endothelial tight junction proteins zonula occludens-1 (ZO-1) and claudin-1.
+annotation	362|371|claudin-1|Gene|12737(Tax:10090)
+annotation	332|350|zonula occludens-1|Gene|21872(Tax:10090)
+annotation	229|274|vascular endothelial growth factor receptor-2|Gene|16542(Tax:10090)
+annotation	183|217|vascular endothelial growth factor|Gene|22339(Tax:10090)
+annotation	94|125|hypoxia inducible factor-1alpha|Gene|15251(Tax:10090)
+
+sentence	These data suggest that the activation of HIF-1alpha in the brain of dystrophic mice coupled with VEGF and VEGFR-2 up-regulation and ZO-1 and claudin-1 rearrangement might contribute to both blood-brain barrier opening and increased angiogenesis.
+annotation	142|151|claudin-1|Gene|12737(Tax:10090)
+annotation	107|114|VEGFR-2|Gene|16542(Tax:10090)
+annotation	42|52|HIF-1alpha|Gene|15251(Tax:10090)
+
+
+sentence	Increased levels of glycation-end products (AGEs), N-carboxymethyl-lysine (CML) and N-carboxyethyl-lysine (CEL), malondialdehyde-lysine (MDAL), 4-hydroxynonenal (HNE) and nitrotyrosine (N-tyr) were found in MFM.
+annotation	186|191|N-tyr|Chemical|
+annotation	162|165|HNE|Chemical|CHEBI:58968
+annotation	137|141|MDAL|Chemical|
+annotation	84|105|N-carboxyethyl-lysine|Chemical|
+annotation	51|73|N-carboxymethyl-lysine|Chemical|
+
+sentence	Furthermore, aberrant expression of AGE, CML, CEL, MDAL and HNE, as well as of neuronal, inducible and endothelial nitric oxide synthases (nNOS, iNOS, eNOS), and superoxide dismutase 2 (SOD2), was found in muscle fibers containing protein aggregates in myotilinopathies and desminopathies.
+annotation	186|190|SOD2|Gene|6648
+annotation	162|172|superoxide|Chemical|MESH:D013481
+annotation	145|149|iNOS|Gene|4843
+annotation	115|127|nitric oxide|Chemical|MESH:D009569
+
+
+sentence	METHODS: Haemodynamic evaluations were performed in non-embolized dogs treated with saline (control group; n = 4), L-NAME (NAME group; n = 3), or aminoguanidine (AG group; n = 3), and in dogs that received the same drugs and were embolized with 5 mL kg(-1) of clots made with autologous blood (Emb group, n = 9; NAME + Emb group, n = 4 and AG + Emb group, n = 7).
+annotation	294|297|Emb|Gene|479340(Tax:9615)
+annotation	294|297|Emb|Gene|479340(Tax:9615)
+annotation	115|121|L-NAME|Chemical|D019331
+
+
+sentence	RESULTS: Potential manufacturing routes to three halogenated 2-thiophenecarboxylic acid derivatives 4-bromo-3-methyl-2-thiophenecarbonyl chloride 1, 3,4,5-trichloro-2-thiophenecarbonyl chloride 2, and 3,4,5-trichloro-2-thiophenecarbonitrile 3 from commercially available thiophene raw materials have been developed and demonstrated on a laboratory scale.
+annotation	63|72|thiophene|Chemical|CHEBI:30856
+annotation	146|193|1, 3,4,5-trichloro-2-thiophenecarbonyl chloride|Chemical|
+annotation	61|87|2-thiophenecarboxylic acid|Chemical|MESH:C550746
+
+sentence	Finally, a route for the preparation of 3,4,5-trichloro-2-thiophenecarbonyl chloride 2 was developed from tetrachlorothiophene via either a lithiation reaction with n-butyllithium in MTBE solvent, or by a previously reported Grignard method using 1,2-dibromoethane as activator, followed by carbonation of the anion with CO2 to give the trichloro-2-thiophenecarboxylic acid, which was readily converted to the acid chloride 2 with SOCl2.
+annotation	431|436|SOCl2|Chemical|CHEBI:29290
+annotation	337|373|trichloro-2-thiophenecarboxylic acid|Chemical|
+annotation	247|264|1,2-dibromoethane|Chemical|MESH:D015946
+annotation	165|179|n-butyllithium|Chemical|MESH:C434823
+annotation	40|84|3,4,5-trichloro-2-thiophenecarbonyl chloride|Chemical|
+
+sentence	CONCLUSION: The successful development of efficient synthetic routes to the halogenated thiophene building blocks 4-bromo-3-methyl-2-thiophenecarbonyl chloride 1, 3,4,5-trichloro-2-thiophenecarbonyl chloride 2, and 3,4,5-trichloro-2-thiophenecarbonitrile 3 paved the way for the development of viable commercial processes for XR-693 and XR-906, members of a new class of 2,6-dihaloaryl 1,2,4-triazole insecticides that exhibit selective activity against aphids, mites, and whiteflies coupled with low mammalian toxicity.
+annotation	371|400|2,6-dihaloaryl 1,2,4-triazole|Chemical|
+annotation	160|207|1, 3,4,5-trichloro-2-thiophenecarbonyl chloride|Chemical|
+annotation	76|97|halogenated thiophene|Chemical|
+
+
+sentence	OBJECTIVE: To investigate the effect of unfitrate heparin (UFH) and low molecular weight heparin (LMWH) on the expression of serum hepatocyte growth factor (HGF) during percutaneous coronary intervention (PCI).
+annotation	157|160|HGF|Gene|3082
+annotation	98|102|LMWH|Chemical|MESH:D006495
+annotation	59|62|UFH|Chemical|MESH:D006493
+
+
+sentence	72 h after the PTE, the pulmonary artery systolic pressure (PASP) was 58.3 +/- 30.7 mm Hg, significantly lower than that before PTS (91.4 +/- 38.4 mm Hg, P < 0.05), the pulmonary vascular resistance (PVR) was 357 +/- 278.7 dynes x sec(-1) x cm(-5), significantly lower than that before PTE (978 +/- 675.6 dynes x sec(-1) x cm(-5), P < 0.01); the partial pressure of oxygen in the arterial blood (PaO(2)) was 89.9 +/- 7 mm Hg, significantly higher than that before the PTE (54.5 +/- 7.7 mm Hg, P < 0.01),; and the arterial oxygen saturation (SaO(2)) was 96.5 +/- 1.8%, significantly higher than that before the PTE (90 +/- 4.3%, P < 0.05).
+annotation	15|18|PTE|Chemical|
+annotation	366|372|oxygen|Chemical|MESH:D010100
+annotation	396|402|PaO(2)|Chemical|
+annotation	231|237|sec(-1|Gene|653677
+annotation	231|237|sec(-1|Gene|653677
+annotation	15|18|PTE|Chemical|
+
+
+sentence	BrdU immunohistochemistry and double immunofluorescence labeling with BrdU/NeuN or BrdU/GFAP were done, and the numbers of BrdU-labeled cells and ratios of neurons and astrocytes differentiated from BrdU-labeled cells were calculated.
+annotation	0|4|BrdU|Chemical|MESH:D001973
+annotation	88|92|GFAP|Gene|24387(Tax:10116)
+annotation	75|79|NeuN|Gene|287847(Tax:10116)
+annotation	0|4|BrdU|Chemical|MESH:D001973
+
+
+sentence	Immunohistochemistry was used to detect the expression of p-moesin, connective tissue growth factor (CTGF), RhoA, collagen IV (Col IV), and laminin (LN) protein expressions were assessed by Western blotting, and RT-PCR was used to detect the mRNA expression of CTGF, RhoA, and ROCK II.
+annotation	277|284|ROCK II|Gene|19878(Tax:10090)
+annotation	101|105|CTGF|Gene|14219(Tax:10090)
+annotation	101|105|CTGF|Gene|14219(Tax:10090)
+annotation	60|66|moesin|Gene|17698(Tax:10090)
+
+sentence	RESULTS: Compared with Group A, the mRNA levels of RhoA, ROCK II, and CTGF were significantly increased (all P < 0.05) and the protein expression levels of p-moesin, CTGF, RhoA, Col IV, and LN were significantly increased (all P < 0.05) in Group B.
+annotation	51|55|RhoA|Gene|11848(Tax:10090)
+annotation	158|164|moesin|Gene|17698(Tax:10090)
+annotation	57|64|ROCK II|Gene|19878(Tax:10090)
+
+
+sentence	Mapping amino acid compositions onto the phylogenetic tree shows that the accumulation of aromatic amino acids (and thus the evolution of "arylphorins") commenced soon after the hexamerins diverged from hemocyanins, but also indicates that hexamerins with distinct amino acid compositions reflect secondary losses of aromatic amino acids.
+annotation	90|110|aromatic amino acids|Chemical|CHEBI:33856
+annotation	178|188|hexamerins|Chemical|
+annotation	178|188|hexamerins|Chemical|
+annotation	8|18|amino acid|Chemical|CHEBI:33704
+
+
+sentence	Screening of a non-normalised Glossina morsitans morsitans lambdagt11 salivary gland expression library with serum from a saliva-immunized rabbit identified three full-length cDNAs encoding for novel salivary proteins with yet unknown functions: a 8.3 kDa glycine/glutamate-rich protein (G. morsitans morsitans salivary gland protein Gmmsgp1), a 12.0 kDa proline-rich protein (Gmmsgp2), and a 97.4 kDa protein composed of a metallophosphoesterase/5'nucleotidase region with a glutamate/aspartate/asparagines-rich region (Gmmsgp3).
+annotation	496|507|asparagines|Chemical|
+annotation	264|273|glutamate|Chemical|CHEBI:29987
+annotation	264|273|glutamate|Chemical|CHEBI:29987
+
+
+sentence	In this issue of Cancer Cell, Saito and colleagues explore regulation of BCL6 gene expression by CD40-NF-kappaB signaling pathway and show that the IRF4 transcriptional factor, induced by the NF-kappaB canonical pathway, directly downregulates BCL6 expression.
+annotation	73|77|BCL6|Gene|604
+annotation	148|152|IRF4|Gene|3662
+annotation	97|101|CD40|Gene|958
+
+
+sentence	FGFR3 activates RSK2 to mediate hematopoietic transformation through tyrosine phosphorylation of RSK2 and activation of the MEK/ERK pathway.
+annotation	128|131|ERK|Gene|5594
+annotation	16|20|RSK2|Gene|6197
+annotation	0|5|FGFR3|Gene|2261
+
+sentence	We found that FGFR3 directly tyrosine phosphorylates the serine/threonine kinase p90RSK2 at Y529, which consequently regulates RSK2 activation by facilitating inactive ERK binding to RSK2 that is required for ERK-dependent phosphorylation and activation of RSK2.
+annotation	84|88|RSK2|Gene|6197
+annotation	84|88|RSK2|Gene|6197
+annotation	84|88|RSK2|Gene|6197
+annotation	64|73|threonine|Chemical|MESH:C061951
+annotation	14|19|FGFR3|Gene|2261
+
+sentence	Our findings suggest that FGFR3 mediates hematopoietic transformation by activating RSK2 in a two-step fashion, promoting both the ERK-RSK2 interaction and subsequent phosphorylation of RSK2 by ERK.
+annotation	131|134|ERK|Gene|5594
+annotation	84|88|RSK2|Gene|6197
+annotation	84|88|RSK2|Gene|6197
+
+
+sentence	LZAP directly bound to RelA, impaired serine 536 phosphorylation of RelA, increased HDAC association with RelA, inhibited basal and stimulated NF-kappaB transcriptional activity, and was found at the promoter of selective NF-kappaB-responsive genes.
+annotation	23|27|RelA|Gene|5970
+annotation	38|44|serine|Chemical|CHEBI:17822
+annotation	0|4|LZAP|Gene|80279
+
+
+sentence	Here we report crystal structures of TbTUT4 with bound CTP, GTP, and ATP, demonstrating nearly perfect superposition of the triphosphate moieties with that of the UTP substrate.
+annotation	163|166|UTP|Chemical|MESH:D014544
+annotation	69|72|ATP|Chemical|MESH:D000255
+annotation	55|58|CTP|Chemical|MESH:D003570
+
+
+sentence	In the present study, we examined whether Bcrp1, the murine homolog of human BCRP, limits fetal distribution of the model BCRP/Bcrp1 substrate, nitrofurantoin (NFT), in the pregnant mouse.
+annotation	144|158|nitrofurantoin|Chemical|MESH:D009582
+annotation	77|81|BCRP|Gene|26357(Tax:10090)
+annotation	42|47|Bcrp1|Gene|26357(Tax:10090)
+
+
+sentence	LPS stimulation increases IRAK1-FADD interaction and recruitment of the IRAK1-FADD complex to activated MyD88.
+annotation	104|109|MyD88|Gene|4615
+annotation	26|31|IRAK1|Gene|3654
+annotation	26|31|IRAK1|Gene|3654
+
+sentence	IRAK1 is required for FADD-MyD88 interaction, as FADD does not associate with MyD88 in IRAK1-null cells.
+annotation	0|5|IRAK1|Gene|3654
+annotation	22|26|FADD|Gene|8772
+annotation	22|26|FADD|Gene|8772
+
+sentence	Functionally, enforced FADD expression inhibited LPS- but not vascular endothelial growth factor-induced endothelial cell sprouting, while FADD deficiency led to enhanced production of proinflammatory cytokines induced by stimulation of TLR4 and TLR2, but not TLR3.
+annotation	260|264|TLR3|Gene|7098
+annotation	237|241|TLR4|Gene|7099
+annotation	62|96|vascular endothelial growth factor|Gene|7422
+
+
+sentence	Hypoxia-inducible factor 1 and dysregulated c-Myc cooperatively induce vascular endothelial growth factor and metabolic switches hexokinase 2 and pyruvate dehydrogenase kinase 1.
+annotation	146|154|pyruvate|Chemical|MESH:D019289
+annotation	129|141|hexokinase 2|Gene|3099
+annotation	44|49|c-Myc|Gene|4609
+
+sentence	Here, using the P493-6 Burkitt's lymphoma model with an inducible MYC, we demonstrate that HIF-1 cooperates with dysregulated c-Myc to promote glycolysis by induction of hexokinase 2, which catalyzes the first step of glycolysis, and pyruvate dehydrogenase kinase 1, which inactivates pyruvate dehydrogenase and diminishes mitochondrial respiration.
+annotation	234|242|pyruvate|Chemical|MESH:D019289
+annotation	234|265|pyruvate dehydrogenase kinase 1|Gene|5163
+annotation	126|131|c-Myc|Gene|4609
+
+
+sentence	The endogenous expression of anterior markers was blocked by the depletion of endogenous Xenopus NLK (xNLK) or xMEF2A but, notably, not by the depletion of other xMEF2 family proteins, xMEF2C and xMEF2D.
+annotation	196|202|xMEF2D|Gene|735032(Tax:8355)
+annotation	111|117|xMEF2A|Gene|380452(Tax:8355)
+annotation	97|100|NLK|Gene|414522(Tax:8355)
+
+
+sentence	PITX2 isoforms regulate the LEF-1 promoter, and beta-catenin synergistically enhanced activation of the LEF-1 promoter in combination with PITX2 and Lef-1 isoforms.
+annotation	149|154|Lef-1|Gene|16842(Tax:10090)
+annotation	28|33|LEF-1|Gene|16842(Tax:10090)
+annotation	28|33|LEF-1|Gene|16842(Tax:10090)
+
+sentence	PITX2 enhances endogenous expression of the full-length beta-catenin-dependent Lef-1 isoform (Lef-1 FL) while decreasing expression of the N-terminally truncated beta-catenin-independent isoform.
+annotation	56|68|beta-catenin|Gene|12387(Tax:10090)
+annotation	79|84|Lef-1|Gene|16842(Tax:10090)
+annotation	56|68|beta-catenin|Gene|12387(Tax:10090)
+
+sentence	Our research revealed a novel interaction between PITX2, Lef-1, and beta-catenin in which the Lef-1 beta-catenin binding domain is dispensable for its interaction with PITX2.
+annotation	50|55|PITX2|Gene|18741(Tax:10090)
+annotation	57|62|Lef-1|Gene|16842(Tax:10090)
+annotation	57|62|Lef-1|Gene|16842(Tax:10090)
+
+sentence	Furthermore, beta-catenin interacts with the PITX2 homeodomain and Lef-1 interacts with the PITX2 C-terminal tail.
+annotation	98|99|C|Chemical|
+annotation	67|72|Lef-1|Gene|16842(Tax:10090)
+annotation	13|25|beta-catenin|Gene|12387(Tax:10090)
+
+
+sentence	Immunoblotting of endothelial cells infected with an adenovirus expressing a constitutively active form of PKCepsilon (Adv-PKCepsilon-CA) or control Adv-beta-galactosidase demonstrated a 3-fold, PKCepsilon-dependent increase in Bcl-2 expression, with no significant change in Bcl-XL, Bad, Bak, or Bax.
+annotation	276|282|Bcl-XL|Gene|598
+annotation	107|117|PKCepsilon|Gene|5581
+annotation	107|117|PKCepsilon|Gene|5581
+
+sentence	The induction of Bcl-2 inhibited apoptosis induced by serum starvation or etoposide, and PKCepsilon activation attenuated etoposide-induced caspase-3 cleavage.
+annotation	140|149|caspase-3|Gene|836
+annotation	89|99|PKCepsilon|Gene|5581
+annotation	17|22|Bcl-2|Gene|596
+
+
+sentence	We found that both NR4A3 and NR4A1 were induced by insulin and by thiazolidinedione drugs (pioglitazone and troglitazone) in 3T3-L1 adipocytes.
+annotation	108|120|troglitazone|Chemical|MESH:C057693
+annotation	66|83|thiazolidinedione|Chemical|MESH:C089946
+annotation	19|24|NR4A3|Gene|8013
+
+
+sentence	Before and after administration of 1 mg glucagon, endogenous glucose production (EGP) was measured with d-[6,6-(2)H(2)]glucose and hepatic glucose metabolism was examined by (1)H/(13)C/(31)P NMRS.
+annotation	185|190|(31)P|Chemical|CHEBI:37971
+annotation	174|178|(1)H|Chemical|
+annotation	104|126|d-[6,6-(2)H(2)]glucose|Chemical|
+
+
+sentence	Our objective was to examine NPY's role in AT, specifically addressing NPY protein expression, the effect of NPY on adipokine secretion, and the influence of insulin and rosiglitazone (RSG) on adipocyte-derived NPY in vitro.
+annotation	29|32|NPY|Gene|4852
+annotation	170|183|rosiglitazone|Chemical|MESH:C089730
+annotation	29|32|NPY|Gene|4852
+
+sentence	Furthermore, adipocyte treatment with rh-NPY downregulated leptin secretion (control: 6.99 +/- 0.89 ng/ml; 1 nmol/l rh-NPY: 4.4 +/- 0.64 ng/ml; 10 nmol/l rh-NPY: 4.3 +/- 0.61 ng/ml, 100 nmol/l rh-NPY: 4.2 +/- 0.67 ng/ml; P < 0.05, n = 10) but had no effect on adiponectin or TNF-alpha secretion.
+annotation	275|284|TNF-alpha|Gene|7124
+annotation	41|44|NPY|Gene|4852
+annotation	41|44|NPY|Gene|4852
+
+
+sentence	The penetration of the amphotericin B (AMB) lipid formulations (liposomal AMB, AMB colloidal dispersion, and AMB lipid complex formulations) into pleural effusions in seven critically ill patients was assessed.
+annotation	39|42|AMB|Chemical|CHEBI:40719
+annotation	39|42|AMB|Chemical|CHEBI:40719
+annotation	23|37|amphotericin B|Chemical|MESH:D000666
+
+
+sentence	Moreover, knockdown of importin 7 and 8 (Imp7 and 8), the mammalian orthologues of Msk, markedly impaired nuclear accumulation of Smad1 in response to BMP2 and of Smad2/3 in response to TGF-beta.
+annotation	186|194|TGF-beta|Gene|7040
+annotation	151|155|BMP2|Gene|650
+annotation	41|45|Imp7|Gene|10527
+
+
+sentence	Here, we demonstrate that BubR1 is phosphorylated on the Cdk1 site T620, which triggers the recruitment of Plk1 and phosphorylation of BubR1 by Plk1 both in vitro and in vivo.
+annotation	107|111|Plk1|Gene|5347
+annotation	107|111|Plk1|Gene|5347
+annotation	26|31|BubR1|Gene|701
+
+
+sentence	RESULTS: Emerging information by the use of phosphospecific antibodies detecting the activated state of signaling molecules indicates that the Akt-mammalian target of rapamycin (mTOR) pathway is frequently activated in HNSCC, but independently from the activation of epidermal growth factor receptor or the detection of mutant p53.
+annotation	327|330|p53|Gene|7157
+annotation	178|182|mTOR|Gene|2475
+annotation	143|176|Akt-mammalian target of rapamycin|Gene|2475
+
+
+sentence	Expression of other Janus-activated kinase (Jak)-STAT intermediates (STAT1, STAT2, Jak1, tyrosine kinase 2, IFN-alpha receptor, STAT3, and STAT5) was evaluated by flow cytometry, immunoblot, or immunohistochemistry.
+annotation	139|144|STAT5|Gene|6776
+annotation	108|117|IFN-alpha|Gene|3439
+annotation	89|106|tyrosine kinase 2|Gene|7297
+annotation	76|81|STAT2|Gene|6773
+
+sentence	RESULTS: Significant variability in P-STAT1 was observed in human melanoma cell lines following IFN-alpha treatment (P < 0.05) and IFN-alpha-induced P-STAT1 correlated with the antiproliferative effects of IFN-alpha (P = 0.042).
+annotation	96|105|IFN-alpha|Gene|3439
+annotation	96|105|IFN-alpha|Gene|3439
+annotation	38|43|STAT1|Gene|6772
+
+sentence	IFN-alpha-induced formation of P-STAT1 was also variable in melanoma cells derived from patient tumors; however, no relationship between P-STAT3 and IFN-alpha-induced P-STAT1 was evident.
+annotation	33|38|STAT1|Gene|6772
+annotation	139|144|STAT3|Gene|6774
+annotation	0|9|IFN-alpha|Gene|3439
+
+
+sentence	EXPERIMENTAL DESIGN: Tumor specimens from 14 patients surgically treated for aggressive fibromatosis (6 familial adenomatous polyposis and 8 sporadic cases), analyzed for adenomatous polyposis coli (APC) and CTNNB1 (beta-catenin) mutations, were further investigated for beta-catenin, cyclooxygenase-2 (COX-2), platelet-derived growth factor (PDGF) receptor alpha (PDGFRA)/PDGF receptor beta (PDGFRB), their cognate ligands (PDGFA and PDGFB), and KIT using a comprehensive immunohistochemical, biochemical, molecular, and cytogenetic approach.
+annotation	435|440|PDGFB|Gene|5155
+annotation	393|399|PDGFRB|Gene|5159
+annotation	311|363|platelet-derived growth factor (PDGF) receptor alpha|Gene|5156
+annotation	285|301|cyclooxygenase-2|Gene|5743
+annotation	216|228|beta-catenin|Gene|1499
+
+
+sentence	EXPERIMENTAL DESIGN: We used an arrayed panel of colorectal cancer tissue to assess the protein expression of the functional TRAIL receptors (TRAIL-R1 and TRAIL-R2) and both the long and short forms of FLICE inhibitory protein (FLIP(L) and FLIP(S)).
+annotation	228|232|FLIP|Gene|8837
+annotation	202|207|FLICE|Gene|841
+annotation	142|150|TRAIL-R1|Gene|8797
+
+
+sentence	RESULTS: The methylation frequencies for the analyzed genes were MGMT, 44%; LOX, 53%; p16, 46%, E-cadherin, 30%; 14-3-3sigma, 69%; and HPP1, 82%.
+annotation	135|139|HPP1|Gene|780897
+annotation	96|106|E-cadherin|Gene|999
+annotation	65|69|MGMT|Gene|4255
+
+
+sentence	Dasatinib and nilotinib are potent tyrosine kinase inhibitors (TKIs) with activity against many imatinib-resistant chronic myeloid leukemia (CML) clones with BCR-ABL kinase domain (KD) mutations, except T315I.
+annotation	158|165|BCR-ABL|Gene|25
+annotation	35|43|tyrosine|Chemical|CHEBI:18186
+annotation	0|9|Dasatinib|Chemical|MESH:C488369
+
+
+sentence	The reduction in CP content decreased (P < 0.05) cecal ammonia N, acetic acid, isobutyric acid, isovaleric acid, total VFA, and putrescine concentrations by 28 to 39%.
+annotation	128|138|putrescine|Chemical|MESH:D011700
+annotation	96|111|isovaleric acid|Chemical|MESH:C008216
+annotation	66|77|acetic acid|Chemical|MESH:D019342
+
+
+sentence	Thus, the activation and(or) abundance of the positive regulators, such as the insulin receptor, insulin receptor-substrate-1, phosphoinositide-3 kinase, phosphoinositide-dependent kinase-1, protein kinase B, mammalian target of rapamycin, raptor, ribosomal protein S6 kinase-1, eukaryotic initiation factor (eIF) 4E-binding protein 1, and eIF4E associated with eIF4G, are greater in 7-d-old pigs than in 26-d-old pigs.
+annotation	362|367|eIF4G|Gene|1981
+annotation	309|312|eIF|Chemical|MESH:C053617
+annotation	229|238|rapamycin|Chemical|MESH:D020123
+
+
+sentence	We investigated the plasma concentration and urinary excretion of vitamin C in cows supplemented with vitamin C. Five cows (mean BW = 597 kg) were allocated to a 5 x 5 Latin square design and supplemented with a vitamin C preparation coated with hydrogenated soybean oil at 0, 10, 20, 40, or 60 mg of vitamin C per kg of BW per day for 9 d. Plasma and urine samples were collected for measuring vitamin C concentration.
+annotation	66|75|vitamin C|Chemical|MESH:D001205
+annotation	66|75|vitamin C|Chemical|MESH:D001205
+annotation	66|75|vitamin C|Chemical|MESH:D001205
+
+sentence	Plasma vitamin C concentration and urinary vitamin C excretion increased quadratically as dietary vitamin C increased (P < 0.001); that is, the lowest dose affected neither plasma vitamin C concentration nor urinary vitamin C excretion but the plasma vitamin C concentration and urinary vitamin C excretion increased (P < 0.05) with increasing supplementation of vitamin C at greater doses.
+annotation	7|16|vitamin C|Chemical|MESH:D001205
+annotation	7|16|vitamin C|Chemical|MESH:D001205
+annotation	7|16|vitamin C|Chemical|MESH:D001205
+annotation	7|16|vitamin C|Chemical|MESH:D001205
+
+sentence	This suggests that plasma vitamin C concentration affects urinary excretion of vitamin C in cattle and that plasma vitamin C concentration exceeded the renal threshold for vitamin C in the cows receiving vitamin C at 20 mg/kg of BW per day.
+annotation	26|35|vitamin C|Chemical|MESH:D001205
+annotation	26|35|vitamin C|Chemical|MESH:D001205
+annotation	26|35|vitamin C|Chemical|MESH:D001205
+
+sentence	The daily excretion of vitamin C was estimated by the reported value of daily creatinine excretion, indicating that the daily amount of vitamin C excreted into urine was more than half of supplied vitamin C. Therefore, a large part of supplied vitamin C probably escapes ruminal degradation and is absorbed but excreted into urine.
+annotation	23|32|vitamin C|Chemical|MESH:D001205
+annotation	23|32|vitamin C|Chemical|MESH:D001205
+annotation	23|32|vitamin C|Chemical|MESH:D001205
+
+
+sentence	Polymorphisms and haplotypes in the bovine neuropeptide Y, growth hormone receptor, ghrelin, insulin-like growth factor 2, and uncoupling proteins 2 and 3 genes and their associations with measures of growth, performance, feed efficiency, and carcass merit in beef cattle.
+annotation	127|154|uncoupling proteins 2 and 3|Gene|281562;281563
+annotation	84|91|ghrelin|Gene|281192(Tax:9913)
+annotation	43|57|neuropeptide Y|Gene|504216(Tax:9913)
+
+sentence	In the current study, SNP in the bovine neuropeptide Y (NPY), growth hormone receptor (GHR), ghrelin (GHRL), uncoupling proteins 2 and 3 (UCP2 and UCP3), IGF2, corticotrophin-releasing hormone (CRH), cocaine and amphetamine regulated transcript (CART), melanocortin-4 receptor (MC4R), proopiomelanocortin (POMC), and GH genes were evaluated for associations with growth, feed efficiency, and carcass merit in beef steers.
+annotation	306|310|POMC|Gene|281416(Tax:9913)
+annotation	278|282|MC4R|Gene|281300(Tax:9913)
+annotation	253|265|melanocortin|Chemical|MESH:D053486
+annotation	200|207|cocaine|Chemical|MESH:D003042
+annotation	160|192|corticotrophin-releasing hormone|Gene|280755(Tax:9913)
+annotation	147|151|UCP3|Gene|281563(Tax:9913)
+annotation	109|136|uncoupling proteins 2 and 3|Gene|281563(Tax:9913)
+annotation	93|100|ghrelin|Gene|281192(Tax:9913)
+annotation	62|85|growth hormone receptor|Gene|280805(Tax:9913)
+annotation	40|54|neuropeptide Y|Gene|504216(Tax:9913)
+
+
+sentence	After adjustment for coronary heart disease risk factors (age, sex, body mass index, smoking history, systolic blood pressure, diabetes, and total and high-density lipoprotein cholesterol) and use of renin-angiotensin blockers and statins, higher plasma resistin levels were associated with lower estimated glomerular filtration rate in both ethnic groups (each P<0.0001); the association remained significant after further adjustment for a marker of insulin resistance (homeostasis model assessment for insulin resistance) and a marker of inflammation (plasma C-reactive protein) and was seen in subjects with and without diabetes (each P<0.0001) in both ethnic groups.
+annotation	561|579|C-reactive protein|Gene|1401
+annotation	231|238|statins|Chemical|MESH:D019821
+annotation	200|205|renin|Gene|5972
+
+
+sentence	Aortic ROCK activation, mRNA and protein levels (of monocyte chemoattractant protein-1, transforming growth factor [TGF]-beta(1), and plasminogen activator inhibitor-1 [PAI-1]), NADPH oxidase activity, and O(2)(*-) production were measured in normotensive rats with genetically high (Brown Norway [BN]) and low (Lewis) angiotensin-I-converting enzyme levels and in BN rats treated with the ROCK antagonist fasudil (100 mg/kg per day) for 7 days.
+annotation	406|413|fasudil|Chemical|MESH:C049347
+annotation	319|330|angiotensin|Chemical|MESH:D000809
+annotation	169|174|PAI-1|Gene|24617(Tax:10116)
+annotation	52|86|monocyte chemoattractant protein-1|Gene|24770(Tax:10116)
+
+sentence	Fasudil reduced TGF-beta1 and PAI-1 mRNA and TGF-beta1, PAI-1, and monocyte chemoattractant protein-1 protein aortic levels to those observed in Lewis rats.
+annotation	67|101|monocyte chemoattractant protein-1|Gene|24770(Tax:10116)
+annotation	16|25|TGF-beta1|Gene|59086(Tax:10116)
+annotation	16|25|TGF-beta1|Gene|59086(Tax:10116)
+
+
+sentence	We found two homozygous and three compound heterozygous mutations in COL6A2 and COL6A3 in all five patients with CD, and identified heterozygous missense mutations or in-frame small deletions in 21 patients with SSCD in the triple helical domain (THD) of COL6A1, COL6A2, and COL6A3.
+annotation	80|86|COL6A3|Gene|1293
+annotation	255|261|COL6A1|Gene|1291
+annotation	69|75|COL6A2|Gene|1292
+
+sentence	Dominant mutations located in the N-terminal side from the cysteine residue in the THD of COL6A1, COL6A2, and COL6A3 are closely associated with SSCD.
+annotation	110|116|COL6A3|Gene|1293
+annotation	90|96|COL6A1|Gene|1291
+annotation	34|35|N|Chemical|
+
+
+sentence	8-2 Fluorotelomer alcohol (8-2 FTOH, C(7)F(15)CF(2)CH(2)CH(2)OH), a raw material used in the manufacture of fluorotelomer-based products, has been identified in the environment and has been implicated as a potential source for perfluorooctanoic acid (PFOA) in the environment.
+annotation	251|255|PFOA|Chemical|CHEBI:35549
+annotation	37|63|C(7)F(15)CF(2)CH(2)CH(2)OH|Chemical|
+annotation	0|25|8-2 Fluorotelomer alcohol|Chemical|MESH:C529431
+
+sentence	To further elucidate the steps in the metabolic pathway, hepatocytes were incubated with 8-2 fluorotelomer acid, 8-2 fluorotelomer unsaturated acid, 7-3 acid, 7-3 unsaturated acid, and 7-2 secondary fluorotelomer alcohol.
+annotation	213|220|alcohol|Chemical|CHEBI:16236
+annotation	149|157|7-3 acid|Chemical|
+annotation	89|111|8-2 fluorotelomer acid|Chemical|
+
+
+sentence	Candidate proteins and genes identified to date, and worthy of further evaluation, include IGF-I, IGF-I receptor, GH receptor and its variants (such as exon 3-deleted GHR), STAT5b and short stature homeobox.
+annotation	173|179|STAT5b|Gene|6777
+annotation	114|125|GH receptor|Gene|2690
+annotation	91|96|IGF-I|Gene|3479
+
+
+sentence	Recombinant human IGF-I alone or combined with its binding protein (IGFBP-3) provides an alternative therapy as IGF-I receptor shares structural and functional homology with the insulin receptor and recombinant human insulin-like growth factor I (rhIGF-I) therapy could improve glucose disposal by signalling through the IGF-I receptor, whilst reducing the adverse effects of high insulin concentrations.
+annotation	112|126|IGF-I receptor|Gene|3480
+annotation	112|126|IGF-I receptor|Gene|3480
+annotation	18|23|IGF-I|Gene|3479
+
+
+sentence	The major bile acids present in the gallbladder bile of the common Australian wombat (Vombatus ursinus) were isolated by preparative HPLC and identified by NMR as the taurine N-acylamidates of chenodeoxycholic acid (CDCA) and 15alpha-hydroxylithocholic acid (3alpha,15alpha-dihydroxy-5beta-cholan-24-oic acid).
+annotation	259|308|3alpha,15alpha-dihydroxy-5beta-cholan-24-oic acid|Chemical|
+annotation	216|220|CDCA|Chemical|CHEBI:16755
+annotation	175|189|N-acylamidates|Chemical|
+
+
+sentence	In this article we show that the small dual-specificity phosphatase VHR selectively dephosphorylates IFN-alpha- and beta-activated, tyrosine-phosphorylated STAT5, leading to the subsequent inhibition of STAT5 function.
+annotation	156|161|STAT5|Gene|6776
+annotation	101|110|IFN-alpha|Gene|3439
+annotation	68|71|VHR|Gene|1845
+
+
+sentence	Cutting edge: size and diversity of CD4+CD25high Foxp3+ regulatory T cell repertoire in humans: evidence for similarities and partial overlapping with CD4+CD25- T cells.
+annotation	40|44|CD25|Gene|3559
+annotation	49|54|Foxp3|Gene|50943
+annotation	36|39|CD4|Gene|920
+
+
+sentence	In this study, we report that a proportion of human CD4+ iNKT cell clones produce enormous amounts of IL-5 and IL-13 when cocultured with CD1d+ APC in the presence of IL-2.
+annotation	167|171|IL-2|Gene|3558
+annotation	138|142|CD1d|Gene|912
+annotation	102|106|IL-5|Gene|3567
+
+
+sentence	The lack of Valpha14i NK T cells in the B6.IFN-alphabetaR1-/- males is not due to an insufficient level of CD1d1 or a defect in CD1d1-Ag presentation, but it is intrinsic to the male Valpha14i NK T cells.
+annotation	12|20|Valpha14|Gene|111622(Tax:10090)
+annotation	107|112|CD1d1|Gene|12479(Tax:10090)
+annotation	12|20|Valpha14|Gene|111622(Tax:10090)
+
+
+sentence	We have then focused on novel ATPgammaS and PGE2 target genes in MoDCs including CSF-1, MCP-4/CCL13 chemokine, vascular endothelial growth factor-A, and neuropilin-1.
+annotation	153|165|neuropilin-1|Gene|8829
+annotation	94|99|CCL13|Gene|6357
+annotation	81|86|CSF-1|Gene|1435
+
+sentence	Additionally, ATPgammaS down-regulated several chemokines involved in monocyte and DC migration including CCL2/MCP-1, CCL3/MIP-1alpha, CCL4/MIP-1beta, CCL8/MCP-2, and CCL13/MCP-4.
+annotation	173|178|MCP-4|Gene|6357
+annotation	156|161|MCP-2|Gene|6355
+annotation	140|149|MIP-1beta|Gene|6351
+annotation	123|133|MIP-1alpha|Gene|6348
+annotation	111|116|MCP-1|Gene|6347
+
+
+sentence	Elevated Zap70 protein levels control effector function as IFN-gamma production occurs exclusively from the Zap70(high) fraction of activated T cells in vitro and in vivo, and specific down-modulation of Zap70 expression in memory CD4 T cells by small interfering RNA or protein inhibition significantly reduces rapid IFN-gamma production.
+annotation	59|68|IFN-gamma|Gene|3458
+annotation	9|14|Zap70|Gene|7535
+annotation	59|68|IFN-gamma|Gene|3458
+
+
+sentence	Retinoic acid can promote TGF-beta1-dependent generation of FoxP3+ regulatory T cells but decrease the TGF-beta1- and IL-6-dependent generation of inflammatory Th17 cells in mouse T cells.
+annotation	118|122|IL-6|Gene|16193(Tax:10090)
+annotation	60|65|FoxP3|Gene|20371(Tax:10090)
+annotation	0|13|Retinoic acid|Chemical|MESH:D014212
+
+
+sentence	The activation signals are partially inhibited by using a neutralizing Ab against death domain-containing receptor-3 (DR3) or a truncated form of DR3 consisting of the extracellular domain, indicating an involvement of DR3 in the transmission of VEGI activity.
+annotation	246|250|VEGI|Gene|9966
+annotation	118|121|DR3|Gene|8718
+annotation	88|116|domain-containing receptor-3|Gene|8718
+
+
+sentence	In this study, we found that although both IFN-alpha and IL-12 can promote STAT4 activation, IFN-alpha failed to promote Th1 commitment in human CD4+ T cells.
+annotation	145|148|CD4|Gene|920
+annotation	43|52|IFN-alpha|Gene|3439
+annotation	43|52|IFN-alpha|Gene|3439
+
+sentence	IFN-alpha did not promote Th1 development in human CD4+ T cells because of attenuated STAT4 phosphorylation, which was insufficient to induce stable expression of T-bet.
+annotation	163|168|T-bet|Gene|30009
+annotation	51|54|CD4|Gene|920
+annotation	0|9|IFN-alpha|Gene|3439
+
+
+sentence	Transcriptional analysis revealed that dexamethasone-inducible GR-mediated activation of ANXA1 promoter was compromised in both Zap70 knocked down peripheral blood T cells and Zap70 or Lck-deficient/Lck-inactive Jurkat cells, indicating an essential role of these kinases in GR-mediated ANXA1 promoter activation in T lymphocytes.
+annotation	89|94|ANXA1|Gene|301
+annotation	185|188|Lck|Gene|3932
+annotation	128|133|Zap70|Gene|7535
+annotation	89|94|ANXA1|Gene|301
+annotation	39|52|dexamethasone|Chemical|MESH:D003907
+
+
+sentence	In addition, Btk-deficient B cells produce reduced levels of NF-kappaB2 (p100) basally and in response to stimulation via the BCR or BAFF-R, resulting in impaired activation of the alternative NF-kappaB pathway by BAFF.
+annotation	133|137|BAFF|Gene|24099(Tax:10090)
+annotation	73|77|p100|Gene|72119(Tax:10090)
+annotation	13|16|Btk|Gene|12229(Tax:10090)
+
+
+sentence	We found that: 1) SPLUNC1 protein decreased Mp levels and inhibited epithelial IL-8 production induced by Mp-derived lipoproteins; 2) normal human and mouse large airway epithelial cells expressed high levels of SPLUNC1; and 3) although Mp infection increased SPLUNC1, IL-13 significantly decreased SPLUNC1 expression and Mp clearance.
+annotation	18|25|SPLUNC1|Gene|18843(Tax:10090)
+annotation	18|25|SPLUNC1|Gene|18843(Tax:10090)
+annotation	18|25|SPLUNC1|Gene|18843(Tax:10090)
+annotation	18|25|SPLUNC1|Gene|51297
+
+
+sentence	We now demonstrate that collagen Ab-induced arthritis is not altered in mice genetically deficient in either C1q or mannose-binding lectins A and C, or in both C1q and mannose-binding lectins.
+annotation	116|123|mannose|Chemical|MESH:D008358
+annotation	132|147|lectins A and C|Chemical|
+annotation	116|147|mannose-binding lectins A and C|Gene|17194;17195
+
+
+sentence	We previously described that a commonly occurring IRAK-1 variant haplotype, containing amino acid changes from serine to phenylalanine at position 196 and from leucine to serine at position 532, is associated with increased activation of NF-kappaB in LPS-stimulated neutrophils from patients with sepsis-induced acute lung injury and also higher mortality and more severe clinical outcomes in such patients.
+annotation	238|247|NF-kappaB|Gene|4790
+annotation	121|134|phenylalanine|Chemical|MESH:C119108
+annotation	87|97|amino acid|Chemical|MESH:D000596
+
+sentence	We found increased NF-kappaB transcriptional activity and expression of NF-kappaB-dependent proinflammatory cytokines in IL-1beta-stimulated IRAK-1-deficient cells transfected with variant IRAK-1 as compared with IRAK-1 wild type.
+annotation	141|147|IRAK-1|Gene|3654
+annotation	141|147|IRAK-1|Gene|3654
+annotation	19|28|NF-kappaB|Gene|4790
+
+
+sentence	By overexpressing wild-type and dominant-negative constructs of peroxisome proliferator-activated receptor-alpha (PPAR-alpha) in microglial cells and isolating primary microglia from PPAR-alpha-/- mice, we have demonstrated that gemfibrozil inhibits the activation of microglia independent of PPAR-alpha.
+annotation	114|124|PPAR-alpha|Gene|19013(Tax:10090)
+annotation	114|124|PPAR-alpha|Gene|19013(Tax:10090)
+annotation	64|112|peroxisome proliferator-activated receptor-alpha|Gene|19013(Tax:10090)
+
+sentence	Interestingly, gemfibrozil induced the activation of p85alpha-associated PI3K (p110beta but not p110alpha) and inhibition of that PI3K by either chemical inhibitors or dominant-negative mutants abrogated the inhibitory effect of gemfibrozil.
+annotation	15|26|gemfibrozil|Chemical|MESH:D015248
+annotation	73|77|PI3K|Gene|18708(Tax:10090)
+annotation	79|87|p110beta|Gene|74769(Tax:10090)
+annotation	73|77|PI3K|Gene|18708(Tax:10090)
+annotation	15|26|gemfibrozil|Chemical|MESH:D015248
+
+sentence	Similarly, gemfibrozil also inhibited fibrillar amyloid beta (Abeta)-, prion peptide (PrP)-, dsRNA (poly IC)-, HIV-1 Tat-, and 1-methyl-4-phenylpyridinium (MPP+)-, but not IFN-gamma-, induced microglial expression of iNOS.
+annotation	217|221|iNOS|Gene|18126(Tax:10090)
+annotation	172|182|IFN-gamma-|Chemical|MESH:C056557
+annotation	127|154|1-methyl-4-phenylpyridinium|Chemical|MESH:D015655
+annotation	48|55|amyloid|Chemical|MESH:C544092
+
+sentence	Inhibition of PI3K also abolished the inhibitory effect of gemfibrozil on Abeta-, PrP-, poly IC-, Tat-, and MPP+-induced microglial expression of iNOS.
+annotation	146|150|iNOS|Gene|18126(Tax:10090)
+annotation	82|85|PrP|Gene|19122(Tax:10090)
+annotation	17|18|K|Chemical|MESH:D011188
+
+sentence	Involvement of NF-kappaB activation in LPS-, Abeta-, PrP-, poly IC-, Tat-, and MPP+-, but not IFN-gamma-, induced microglial expression of iNOS and stimulation of IkappaBalpha expression and inhibition of NF-kappaB activation by gemfibrozil via the PI3K pathway suggests that gemfibrozil inhibits the activation of NF-kappaB and the expression of proinflammatory molecules in microglia via PI3K-mediated up-regulation of IkappaBalpha.
+annotation	163|175|IkappaBalpha|Gene|18035(Tax:10090)
+annotation	249|253|PI3K|Gene|18708(Tax:10090)
+annotation	252|253|K|Chemical|MESH:D011188
+annotation	229|240|gemfibrozil|Chemical|MESH:D015248
+annotation	139|143|iNOS|Gene|18126(Tax:10090)
+annotation	94|103|IFN-gamma|Gene|15978(Tax:10090)
+annotation	53|56|PrP|Gene|19122(Tax:10090)
+
+
+sentence	In this study, we show that the inducible NO synthase (iNOS)-specific inhibitor mercaptoethylguanidine (MEG) superiorly enhanced lymphocyte reactivity after polyclonal stimulation compared with the iNOS-specific inhibitor L-NIL and the unspecific NO synthase inhibitor L-NAME.
+annotation	269|275|L-NAME|Chemical|
+annotation	55|59|iNOS|Gene|24599(Tax:10116)
+annotation	80|102|mercaptoethylguanidine|Chemical|MESH:C100078
+annotation	32|53|inducible NO synthase|Gene|24599(Tax:10116)
+
+
+sentence	In the autoimmune disease rheumatoid arthritis, the pivotal role of TNF-alpha implies that the interaction between transmembrane TNF-alpha (mTNF) and the TNF receptors (TNFR1 and TNFR2) might participate in the T cell contact-dependent activation of monocytes.
+annotation	179|184|TNFR2|Gene|7133
+annotation	68|71|TNF|Gene|21926(Tax:10090)
+annotation	68|77|TNF-alpha|Gene|7124
+
+sentence	Several lines of evidence indicated that signaling through TNFR1/2 and through mTNF (reverse signaling) is involved in TNF-alpha production by monocytes after T cell contact: 1) blocking mTNF on activated T cells leads to a significant reduction in TNF-alpha production; 2) down-regulation of TNFR1/2 on monocytes by transfection with small interfering RNA results in diminished TNF-alpha production; 3) blocking or down-regulating TNFR2 on activated T cells inhibits TNF-alpha production, indicating that mTNF on the monocyte surface mediates signaling; 4) ligation of mTNF on monocytes by surface TNFR2 transfected into resting T cells induces TNF-alpha production due to reverse signaling by mTNF; and 5) ligation of mTNF on monocytes by a soluble TNFR2:Ig receptor construct induces TNF-alpha production due to reverse signaling.
+annotation	119|128|TNF-alpha|Gene|7124
+annotation	695|706|mTNF; and 5|Gene|21926(Tax:10090)
+annotation	432|437|TNFR2|Gene|7133
+annotation	432|437|TNFR2|Gene|7133
+annotation	59|66|TNFR1/2|Gene|7132;7133
+annotation	119|128|TNF-alpha|Gene|7124
+
+
+sentence	The members of maternal pedigree including both affected and unaffected Graves' disease had haplotypes of DRB1*150101 and DQB1*0602, except for the cousin who had DRB1*140301 and DQB1*030101.
+annotation	122|126|DQB1|Gene|3119
+annotation	106|110|DRB1|Gene|3123
+annotation	106|110|DRB1|Gene|3123
+
+
+sentence	The variants of the causal genes were selected based on their functions, including: obesity (adrenergic, beta-3-, receptor: ADRB3), alcohol consumption (aldehyde dehydrogenase 2: ALDH2), water-electrolyte metabolism (guanine nucleotide binding protein [G protein], beta polypeptide 3: GNB3), glycometabolism (peroxisome proliferator-activated receptor gamma: PPARG), lipometabolism (cholesteryl ester transfer protein, plasma: CETP), atherosclerosis (5,10-methylenetetrahydrofolate reductase [NADPH]: MTHFR), and cellular behavior (gap junction protein, alpha 4, 37 kD: GJA4).
+annotation	570|574|GJA4|Gene|2701
+annotation	501|506|MTHFR|Gene|4524
+annotation	451|481|5,10-methylenetetrahydrofolate|Chemical|MESH:C013123
+annotation	383|400|cholesteryl ester|Chemical|MESH:D002788
+annotation	309|357|peroxisome proliferator-activated receptor gamma|Gene|5468
+annotation	217|283|guanine nucleotide binding protein [G protein], beta polypeptide 3|Gene|2784
+annotation	179|184|ALDH2|Gene|217
+annotation	132|139|alcohol|Chemical|MESH:D000431
+annotation	105|122|beta-3-, receptor|Gene|1934
+
+
+sentence	The mean values of CRP were significantly higher in current smokers than in nonsmokers after adjustment for age, body mass index (BMI), systolic blood pressure, total cholesterol, log triglycerides, high-density lipoprotein cholesterol (HDL-C), fasting glucose, and drinking habit (p=0.011).
+annotation	253|260|glucose|Chemical|MESH:D005947
+annotation	184|197|triglycerides|Chemical|MESH:D014280
+annotation	19|22|CRP|Gene|1401
+
+
+sentence	A significant increase in level of hepatic markers, such as plasma ASAT, LDH, glucose, total cholesterol and bile acid levels, and a significant decrease in the plasma triacylglycerol level were observed.
+annotation	168|183|triacylglycerol|Chemical|MESH:D014280
+annotation	93|104|cholesterol|Chemical|MESH:D002784
+annotation	67|71|ASAT|Gene|24401(Tax:10116)
+
+
+sentence	Accordingly, under the heme-rich condition, heme binds to cysteine-proline (CP) motifs of ALAS1 and those of transcriptional repressor Bach1, thereby leading to repression of mitochondrial transport of ALAS1 and induction of HO-1 transcription, respectively.
+annotation	225|229|HO-1|Gene|3162
+annotation	135|140|Bach1|Gene|571
+annotation	76|78|CP|Chemical|MESH:D003520
+
+
+sentence	We examined the expression profiles of angiopoietin-1 (Ang-1), angiopoietin-2 (Ang-2), vascular endothelial growth factor (VEGF), and Tie-2, a receptor for Ang-1 and Ang-2, in both colorectal adenocarcinoma and adjacent normal tissues, as judged by histology, in order to elucidate their relationships with microvascular density (MVD) and clinicopathologic properties.
+annotation	79|84|Ang-2|Gene|285
+annotation	134|139|Tie-2|Gene|7010
+annotation	87|121|vascular endothelial growth factor|Gene|7422
+annotation	63|77|angiopoietin-2|Gene|285
+annotation	39|53|angiopoietin-1|Gene|284
+
+
+sentence	In this article, we review a number of potential urinary biomarkers, including Lipocalin-2, MCP-1, IP-10, IL-6, and IL-8.
+annotation	116|120|IL-8|Gene|3576
+annotation	99|104|IP-10|Gene|3627
+annotation	79|90|Lipocalin-2|Gene|3934
+
+
+sentence	RESULTS: Basal TF-procoagulant activity (TF-PCA), monocyte TF mRNA, plasma coagulation factor VII (FVIIc), and thrombin-anti-thrombin complexes were higher in T2DM than in nondiabetic controls, indicating a chronic procoagulant state.
+annotation	111|119|thrombin|Gene|2147
+annotation	15|17|TF|Gene|2152
+annotation	15|17|TF|Gene|2152
+
+sentence	Acutely normalizing hyperglycemia over 2-4 h resulted in a small ( approximately 7%) but significant decline in TF-PCA with no further decline over 24 h. Raising insulin levels alone raised TF-PCA by 30%, whereas raising insulin and glucose levels together increased TF-PCA (by 80%), thrombin-anti-thrombin complexes, and prothrombin fragment 1.2.
+annotation	284|292|thrombin|Gene|2147
+annotation	112|114|TF|Gene|2152
+annotation	233|240|glucose|Chemical|MESH:D005947
+annotation	112|118|TF-PCA|Chemical|
+annotation	112|114|TF|Gene|2152
+
+
+sentence	Moreover, the HR-PCOS group had higher basal testosterone (P < 0.001), free androgen index (P < 0.01), 17-hydroxyprogesterone (P < 0.05), estrogens (P < 0.05), area under the curve for insulin (insulin(AUC)) (P < 0.05), and C-peptide(AUC) (P < 0.01) and lower insulin sensitivity (as composite insulin sensitivity index) (P < 0.05) than the NR-PCOS group.
+annotation	185|207|insulin (insulin(AUC))|Gene|3630
+annotation	103|125|17-hydroxyprogesterone|Chemical|MESH:D019326
+annotation	45|57|testosterone|Chemical|MESH:D013739
+
+
+sentence	Addition of ascorbic acid reduced the amount of N-nitrosodimethylamine formed by fivefold, N-nitrosomorpholine by >1000-fold, and totally prevented the formation of N-nitrosodiethylamine and N-nitrosopiperidine.
+annotation	191|210|N-nitrosopiperidine|Chemical|MESH:C002743
+annotation	91|110|N-nitrosomorpholine|Chemical|MESH:C002741
+annotation	12|25|ascorbic acid|Chemical|MESH:D001205
+
+sentence	In contrast, when 10% lipid was present, ascorbic acid increased the amount of N-nitrosodimethylamine, N-nitrosodiethylamine and N-nitrosopiperidine formed by approximately 8-, 60- and 140-fold, respectively, compared with absence of ascorbic acid.
+annotation	41|54|ascorbic acid|Chemical|MESH:D001205
+annotation	103|124|N-nitrosodiethylamine|Chemical|MESH:D004052
+annotation	41|54|ascorbic acid|Chemical|MESH:D001205
+
+
+sentence	We also identified novel germ cell markers such as BOB1 (POU2AF1, OBF1) and prominin 1 (PROM1, CD133), which were significantly upregulated in seminoma specimens, compared to normal testes.
+annotation	95|100|CD133|Gene|8842
+annotation	76|86|prominin 1|Gene|8842
+annotation	57|64|POU2AF1|Gene|5450
+
+
+sentence	SIRT1 and eNOS colocalize and coprecipitate in endothelial cells, and SIRT1 deacetylates eNOS, stimulating eNOS activity and increasing endothelial nitric oxide (NO).
+annotation	148|160|nitric oxide|Chemical|MESH:D009569
+annotation	10|14|eNOS|Gene|18127(Tax:10090)
+annotation	10|14|eNOS|Gene|18127(Tax:10090)
+
+
+sentence	In PU.1 knockout precursor cells, the Ets factor Fli-1 compensated for the lack of PU.1, and both proteins could occupy a subset of Pu.1 cis elements in PU.1-expressing cells.
+annotation	3|7|PU.1|Gene|6688
+annotation	3|7|PU.1|Gene|6688
+annotation	3|7|PU.1|Gene|6688
+
+
+sentence	In Saccharomyces cerevisiae, replication through DNA lesions is promoted by Rad6-Rad18-dependent processes that include translesion synthesis by DNA polymerases eta and zeta and a Rad5-Mms2-Ubc13-controlled postreplicational repair (PRR) pathway which repairs the discontinuities in the newly synthesized DNA that form opposite from DNA lesions on the template strand.
+annotation	190|195|Ubc13|Gene|851666(Tax:4932)
+annotation	180|184|Rad5|Gene|850719(Tax:4932)
+annotation	76|80|Rad6|Gene|852822(Tax:4932)
+
+sentence	Here, we examine the contributions of the RAD51, RAD52, and RAD54 genes and of the RAD50 and XRS2 genes to the PRR of UV-damaged DNA.
+annotation	93|97|XRS2|Gene|851975(Tax:4932)
+annotation	60|65|RAD54|Gene|852713(Tax:4932)
+annotation	42|47|RAD51|Gene|856831(Tax:4932)
+
+sentence	We find that deletions of the RAD51, RAD52, and RAD54 genes impair the efficiency of PRR and that almost all of the PRR is inhibited in the absence of both Rad5 and Rad52.
+annotation	165|170|Rad52|Gene|854976(Tax:4932)
+annotation	48|53|RAD54|Gene|852713(Tax:4932)
+annotation	30|35|RAD51|Gene|856831(Tax:4932)
+
+
+sentence	Results from glutathione S-transferase pull-down and coimmunoprecipitation experiments indicate that TOB can simultaneously interact with the poly(A) nuclease complex CCR4-CAF1 and the cytoplasmic poly(A)-binding protein, PABPC1.
+annotation	222|228|PABPC1|Gene|26986
+annotation	167|171|CCR4|Gene|1233
+annotation	13|26|glutathione S|Chemical|
+
+
+sentence	Herein, we demonstrate that Hox11 paralogous proteins form a complex with Pax2 and Eya1 to directly activate expression of Six2 and Gdnf in the metanephric mesenchyme.
+annotation	132|136|Gdnf|Gene|2668
+annotation	83|87|Eya1|Gene|2138
+annotation	28|33|Hox11|Gene|3204
+
+sentence	We have identified the binding site within the Six2 enhancer necessary for Hox11-Eya1-Pax2-mediated activation and demonstrate that this site is essential for Six2 expression in vivo.
+annotation	47|51|Six2|Gene|10736
+annotation	81|85|Eya1|Gene|2138
+annotation	47|51|Six2|Gene|10736
+
+
+sentence	In conclusion, PC4 activates p53 recruitment to p53-responsive promoters (Bax and p21) in vivo through its interaction with p53 and by providing bent substrate for p53 recruitment.
+annotation	29|32|p53|Gene|7157
+annotation	82|85|p21|Gene|644914
+annotation	29|32|p53|Gene|7157
+annotation	15|18|PC4|Gene|10923
+
+
+sentence	SOS2 was found to interact with the H2O2 signaling protein nucleoside diphosphate kinase 2 (NDPK2) and to inhibit its autophosphorylation activity.
+annotation	92|97|NDPK2|Gene|836451(Tax:3702)
+annotation	59|90|nucleoside diphosphate kinase 2|Gene|836451(Tax:3702)
+annotation	0|4|SOS2|Gene|833502(Tax:3702)
+
+sentence	A sos2-2 ndpk2 double mutant was more salt sensitive than a sos2-2 single mutant, suggesting that NDPK2 and H2O2 are involved in salt resistance.
+annotation	108|112|H2O2|Chemical|CHEBI:16240
+annotation	2|6|sos2|Gene|833502(Tax:3702)
+annotation	2|6|sos2|Gene|833502(Tax:3702)
+
+sentence	SOS2 was also found to interact with catalase 2 (CAT2) and CAT3, further connecting SOS2 to H2O2 metabolism and signaling.
+annotation	92|96|H2O2|Chemical|CHEBI:16240
+annotation	59|63|CAT3|Gene|838651(Tax:3702)
+annotation	37|47|catalase 2|Gene|829661(Tax:3702)
+
+
+sentence	Homology modeling and comparative structural analyses of the cAMP binding domains of Epac and cAMP-dependent protein kinase (PKA) lead to a model of Epac activation, in which Epac and PKA activation by cAMP employs the same underlying principle, although the detailed structural and conformational changes associated with Epac and PKA activation are significantly different.
+annotation	85|89|Epac|Gene|10411
+annotation	85|89|Epac|Gene|10411
+annotation	61|65|cAMP|Chemical|CHEBI:17489
+annotation	61|65|cAMP|Chemical|CHEBI:17489
+
+
+sentence	The eIF2alpha kinases PERK and PKR activate glycogen synthase kinase 3 to promote the proteasomal degradation of p53.
+annotation	113|116|p53|Gene|7157
+annotation	22|26|PERK|Gene|9451
+annotation	4|13|eIF2alpha|Gene|83939
+
+sentence	This role is not specific for PERK, because the eIF2alpha kinase PKR also promotes p53 degradation in response to double-stranded RNA.
+annotation	83|86|p53|Gene|7157
+annotation	49|57|IF2alpha|Chemical|MESH:C084077
+annotation	30|34|PERK|Gene|9451
+
+
+sentence	Adipocyte fatty acid-binding protein (AFABP/aP2) forms a physical complex with the hormone-sensitive lipase (HSL) and AFABP/aP2-null mice exhibit reduced basal and hormone-stimulated lipolysis.
+annotation	44|47|aP2|Gene|11770(Tax:10090)
+annotation	109|112|HSL|Gene|16890(Tax:10090)
+annotation	44|47|aP2|Gene|11770(Tax:10090)
+annotation	10|20|fatty acid|Chemical|CHEBI:35366
+
+sentence	To identify the determinants affecting the interaction fluorescence resonance energy transfer (FRET) imaging was used in conjunction with a mutagenesis strategy to evaluate the roles AFABP/aP2 fatty acid binding and HSL phosphorylation have in complex formation as well as determine the HSL binding site on AFABP/aP2.
+annotation	189|192|aP2|Gene|11770(Tax:10090)
+annotation	216|219|HSL|Gene|16890(Tax:10090)
+annotation	193|203|fatty acid|Chemical|CHEBI:35366
+annotation	183|188|AFABP|Gene|11770(Tax:10090)
+
+sentence	The nonfatty acid binding mutant of AFABP/aP2 (R126Q) failed to form a FRET-competent complex with HSL either under basal or forskolin-stimulated conditions, indicating that lipid binding is required for association.
+annotation	125|134|forskolin|Chemical|MESH:D005576
+annotation	42|45|aP2|Gene|11770(Tax:10090)
+annotation	4|17|nonfatty acid|Chemical|
+
+sentence	Once bound to HSL and on the surface of the lipid droplet, YFP-AFABP/aP2 (but not YFP-HSL) exhibited energy transfer between the fusion protein and BODIPY-C12-labeled triacylglycerol.
+annotation	148|182|BODIPY-C12-labeled triacylglycerol|Chemical|
+annotation	69|72|aP2|Gene|11770(Tax:10090)
+annotation	14|17|HSL|Gene|16890(Tax:10090)
+
+sentence	Serine to alanine mutations at the two PKA phosphorylation sites of HSL (659 and 660), or at the AMPK phosphorylation sites (565), blocked FRET between HSL and AFABP/aP2.
+annotation	166|169|aP2|Gene|11770(Tax:10090)
+annotation	68|71|HSL|Gene|16890(Tax:10090)
+annotation	10|17|alanine|Chemical|D000409
+
+sentence	Substitution of isoleucine for lysine at position 21 of AFABP/aP2 (K21I), but not 31 (K31I), resulted in a non-HSL-binding protein indicating that residues on helix alphaI of AFABP/aP2 define a component of the HSL binding site.
+annotation	111|114|HSL|Gene|16890(Tax:10090)
+annotation	56|61|AFABP|Gene|11770(Tax:10090)
+annotation	62|65|aP2|Gene|11770(Tax:10090)
+annotation	31|37|lysine|Chemical|CHEBI:25094
+
+
+sentence	Indeed, our data show that HDAC6 senses ubiquitinated cellular aggregates and consequently induces the expression of major cellular chaperones by triggering the dissociation of a repressive HDAC6/HSF1 (heat-shock factor 1)/HSP90 (heat-shock protein 90) complex and a subsequent HSF1 activation.
+annotation	196|200|HSF1|Gene|3297
+annotation	196|200|HSF1|Gene|3297
+annotation	27|32|HDAC6|Gene|10013
+
+
+sentence	Several regulatory factors have been identified that play a role in chondrogenesis, including the positive transacting factors of the SOX family such as SOX9, SOX5, and SOX6, as well as negative transacting factors such as C/EBP and delta EF1.
+annotation	233|242|delta EF1|Gene|6935
+annotation	220|224|as C|Gene|29108
+annotation	159|163|SOX5|Gene|6660
+
+
+sentence	EXPERIMENTAL DESIGN: Tissue microarray sections from 124 Barrett's cancer patients were analyzed by standard FISH on thin (4 microm) sections and by image-based three-dimensional FISH on thick (16 microm) sections for HER2 and chromosome-17, as well for p185(HER2) by immunohistochemistry.
+annotation	218|222|HER2|Gene|2064
+annotation	218|222|HER2|Gene|2064
+annotation	109|113|FISH|Chemical|
+
+sentence	Low-level gain of HER2 occurred frequently in Barrett's cancer (>or=2.5-4.0 HER2 copies, 59.7%; HER2-to-chromosome-17 ratio, >or=1.1-2.0; 61.2%) and defined a subpopulation for patient outcome as unfavorable as HER2 gene amplification [disease-free survival, P = 0.017 (HER2 copies)].
+annotation	18|22|HER2|Gene|2064
+annotation	18|22|HER2|Gene|2064
+annotation	18|22|HER2|Gene|2064
+
+
+sentence	Following depolarization, resveratrol caused the release of cytochrome c and Smac/Diablo from the mitochondria and subsequently the activation of caspase-9 (4- to 8-fold) and caspase-3 (4- to 6-fold).
+annotation	175|184|caspase-3|Gene|836
+annotation	82|88|Diablo|Gene|56616
+annotation	60|72|cytochrome c|Gene|54205
+
+
+sentence	Both CYP1A genes and CYP1B1 are transcriptionally induced by the aryl hydrocarbon receptor (AhR), a ligand-activated transcription factor that binds 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD, dioxin).
+annotation	178|184|dioxin|Chemical|MESH:D004147
+annotation	155|184|8-tetrachlorodibenzo-p-dioxin|Chemical|MESH:C035669
+annotation	70|81|hydrocarbon|Chemical|MESH:D006838
+annotation	21|27|CYP1B1|Gene|1545
+
+
+sentence	Coexpression of P2X4S341W with P2X7 produced a current that was potentiated by ivermectin and inhibited by 2',3'-O-(2,4,6-trinitrophenyl) adenosine 5-triphosphate (TNP-ATP), whereas expression of P2X7 alone produced a current that was insensitive to both of these compounds at the concentrations used.
+annotation	31|35|P2X7|Gene|5027
+annotation	164|171|TNP-ATP|Chemical|MESH:C045674
+annotation	79|89|ivermectin|Chemical|MESH:D007559
+
+
+sentence	Here we demonstrate that PPARgamma agonists 15-d-PGJ2 and troglitazone significantly suppress cell-cell adhesive events, including expression of adhesion molecules and IL-6 secretion from BMSCs triggered by adhesion of MM cells, as well as overcome drug resistance by a PPARgamma-dependent mechanism.
+annotation	25|34|PPARgamma|Gene|5468
+annotation	58|70|troglitazone|Chemical|MESH:C057693
+annotation	25|34|PPARgamma|Gene|5468
+
+sentence	Both 15-d-PGJ2 and troglitazone blocked C/EBPbeta transcriptional activity by forming PPARgamma complexes with C/EBPbeta.
+annotation	40|49|C/EBPbeta|Gene|1051
+annotation	40|49|C/EBPbeta|Gene|1051
+annotation	5|14|15-d-PGJ2|Chemical|MESH:C477819
+
+sentence	15-d-PGJ2 and troglitazone also blocked NF-kappaB activation by recruiting the coactivator PGC-1 from p65/p50 complexes.
+annotation	106|109|p50|Gene|4790
+annotation	91|96|PGC-1|Gene|10891
+annotation	0|9|15-d-PGJ2|Chemical|MESH:C477819
+
+
+sentence	IFN-gamma and STAT1 are required for efficient induction of CXC chemokine receptor 3 (CXCR3) on CD4+ but not CD8+ T cells.
+annotation	96|99|CD4|Gene|920
+annotation	60|84|CXC chemokine receptor 3|Gene|2833
+annotation	0|9|IFN-gamma|Gene|3458
+
+
+sentence	Proliferating cell nuclear antigen, tumor necrosis factor alpha (TNFalpha), Fas ligand (FasL), CD3epsilon, caspase 3 (casp3), and toll-like receptors (TLR)2, 4, and 9 expression were measured by quantitative PCR.
+annotation	118|123|casp3|Gene|397244(Tax:9823)
+annotation	88|92|FasL|Gene|396726(Tax:9823)
+annotation	65|73|TNFalpha|Gene|397086(Tax:9823)
+annotation	0|34|Proliferating cell nuclear antigen|Gene|692192(Tax:9823)
+
+
+sentence	Four treatments arranged as a 2 x 2 factorial with a completely random design were investigated: backgrounding (BG) and finishing (FN) with no supplemental vitamin A (LL); BG with no supplemental vitamin A and FN with high vitamin A (6,600 IU/kg of diet, as fed) supplementation (LH); BG with high vitamin A supplementation and FN with no vitamin A supplementation (HL); and BG and FN with high vitamin A (HH) supplementation.
+annotation	156|165|vitamin A|Chemical|MESH:D014801
+annotation	156|165|vitamin A|Chemical|MESH:D014801
+annotation	156|165|vitamin A|Chemical|MESH:D014801
+
+
+sentence	BACKGROUND: Gene therapy with inducible nitric oxide synthase (iNOS) markedly reduces myocardial infarct size; this effect is associated with cyclooxygenase-2 (COX-2) upregulation and is ablated by COX-2 inhibitors.
+annotation	160|165|COX-2|Gene|19225(Tax:10090)
+annotation	142|158|cyclooxygenase-2|Gene|19225(Tax:10090)
+annotation	40|52|nitric oxide|Chemical|MESH:D009569
+
+sentence	In transgenic mice with cardiac-specific expression of a dominant-negative mutant of IkappaB alpha (IkappaB alpha(S32A,S36A)), the upregulation of phosphorylated IkappaB alpha, activation of NF-kappaB, and cardiac COX-2 protein expression 3 days after iNOS gene therapy were abrogated, which was associated with the abolishment of the cardioprotective effects afforded by iNOS gene therapy.
+annotation	252|256|iNOS|Gene|18126(Tax:10090)
+annotation	214|219|COX-2|Gene|19225(Tax:10090)
+annotation	85|98|IkappaB alpha|Gene|18035(Tax:10090)
+annotation	85|98|IkappaB alpha|Gene|18035(Tax:10090)
+
+sentence	CONCLUSIONS: These data provide strong genetic evidence that COX-2 is an obligatory downstream effector of iNOS-dependent cardioprotection and that NF-kappaB is a critical link between iNOS and COX-2.
+annotation	61|66|COX-2|Gene|19225(Tax:10090)
+annotation	148|157|NF-kappaB|Gene|18033(Tax:10090)
+annotation	61|66|COX-2|Gene|19225(Tax:10090)
+
+
+sentence	METHODS: With use of PET with a selective 5-HT(1A) antagonist, 2'-methoxyphenyl-(N-2'-pyridinyl)-p-[(18)F]fluoro-benzamidoethylpiperazine ([(18)F]MPPF), the hippocampus 5-HT(1A) binding potential (BP) was quantified in 10 patients with mild AD, in 11 patients with aMCI, and in 21 aged paired control subjects.
+annotation	42|49|5-HT(1A|Gene|3350
+annotation	139|150|[(18)F]MPPF|Chemical|MESH:C416325
+annotation	42|46|5-HT|Chemical|MESH:D012701
+
+
+sentence	These include the transcription factors HESX1, PROP1, POU1F1, LHX3, LHX4, TBX19, SOX2 and SOX3.
+annotation	90|94|SOX3|Gene|6658
+annotation	74|79|TBX19|Gene|9095
+annotation	62|66|LHX3|Gene|8022
+annotation	47|52|PROP1|Gene|5626
+
+
+sentence	Among ever-users of HRT, recurrence risk was two-fold lower for estrogen receptor (ER)--positive and progesterone receptor (PR)--positive tumors compared with ER- and PR-negative tumors; whereas, among never-users of HRT, there was no statistically significant association between recurrence risk and receptor status.
+annotation	124|126|PR|Gene|5241
+annotation	124|126|PR|Gene|5241
+annotation	101|122|progesterone receptor|Gene|5241
+annotation	64|72|estrogen|Chemical|MESH:D004967
+
+
+sentence	A study recently demonstrated that Pam3CSK {N-palmitoyl-S-[2,3-bis(palmitoloxy)-(2RS)-propyl]-Cys-Ser-Lys(4)}, a TLR2 agonist lipopeptide, activates T helper 1 (T(H)1) cells and induces interferon-gamma (IFN-gamma) production, even in the absence of TLR1, which differs from its mechanism of activation of APCs.
+annotation	250|254|TLR1|Gene|7096
+annotation	186|202|interferon-gamma|Gene|3458
+annotation	44|97|N-palmitoyl-S-[2,3-bis(palmitoloxy)-(2RS)-propyl]-Cys|Chemical|
+
+sentence	Moreover, whereas Pam3CSK-stimulated IFN-gamma production by T(H)1 cells is ablated in the absence of both myeloid differentiation marker 88 (MyD88), an adaptor protein in the TLR pathway, and interleukin-1 receptor (IL-1R)-associated kinase-4 (IRAK4), the mitogen-activated protein kinases p38 and c-Jun N-terminal kinase (JNK) are still phosphorylated.
+annotation	324|327|JNK|Gene|5599
+annotation	299|322|c-Jun N-terminal kinase|Gene|5599
+annotation	245|250|IRAK4|Gene|51135
+annotation	37|46|IFN-gamma|Gene|3458
+
+
+sentence	PATIENTS AND METHODS: In this randomized phase II trial, 80 patients were treated: arm A (IRINOX) in 40 patients received at day 1 oxaliplatin 85 mg/m(2) and irinotecan 180 mg/m(2) biweekly, standard arm B received a biweekly simplified folinic acid (FA) and fluorouracil (FU), FA 200 mg/m(2) in a 2-h infusion and bolus injection of 5FU 400 mg/m(2) on day 1, then a two 400 mg/m(2) continuous infusion of FU on days 1 and 2 with either oxaliplatin 85 mg/m(2) (20 patients) or irinotecan 180 mg/m(2) (20 patients).
+annotation	131|142|oxaliplatin|Chemical|MESH:C030110
+annotation	334|337|5FU|Chemical|MESH:D005472
+annotation	273|275|FU|Chemical|MESH:D005472
+annotation	251|253|FA|Chemical|MESH:D005446
+annotation	131|142|oxaliplatin|Chemical|MESH:C030110
+
+
+sentence	In fact, the enhancement of endocytosis was prevented by the histamine2 receptor (H2R) antagonist cimetidine, whereas the stimulation of cross-presentation was prevented by the H3R/H4R antagonist thioperamide.
+annotation	196|208|thioperamide|Chemical|MESH:C052075
+annotation	177|180|H3R|Gene|11255
+annotation	82|85|H2R|Gene|3274
+
+
+sentence	Ectopic expression of the components of TLR7 (MyD88 plus IRF1/IRF7), TLR3 (Toll/IL-1R domain-containing adapter-inducing factor), or retinoic acid-inducible gene I (RIG-I) signal transduction pathways induced the activation of IFN-lambda1 promoter, whereas the IFN-lambda3 promoter was efficiently activated only by overexpression of MyD88 and IRF7.
+annotation	62|66|IRF7|Gene|3665
+annotation	261|272|IFN-lambda3|Gene|282617
+annotation	165|170|RIG-I|Gene|23586
+annotation	133|146|retinoic acid|Chemical|MESH:D014212
+annotation	62|66|IRF7|Gene|3665
+annotation	46|51|MyD88|Gene|4615
+
+sentence	To conclude, the data suggest that the IFN-lambda1 gene is regulated by virus-activated IRF3 and IRF7, thus resembling that of the IFN-beta gene, whereas IFN-lambda2/3 gene expression is mainly controlled by IRF7, thus resembling those of IFN-alpha genes.
+annotation	239|248|IFN-alpha|Gene|3439
+annotation	154|167|IFN-lambda2/3|Gene|282616;282617
+annotation	97|101|IRF7|Gene|3665
+annotation	39|50|IFN-lambda1|Gene|282618
+
+
+sentence	When HA-1(H) peptide was added to mixtures of plasmacytoid DC (pDC) and T cells, bystander suppression of the response to a colocalized recall Ag occurred primarily via indolamine-2,3-dioxygenase (IDO) production.
+annotation	197|200|IDO|Gene|3620
+annotation	169|195|indolamine-2,3-dioxygenase|Gene|3620
+annotation	59|61|DC|Gene|20299(Tax:10090)
+
+
+sentence	Laminarin treatment also inhibited mycobacterial-induced IL-12p40 production in DC from TLR2-/- mice, arguing that Dectin-1 functions independently of TLR2 signaling in this system.
+annotation	88|92|TLR2|Gene|24088(Tax:10090)
+annotation	88|92|TLR2|Gene|24088(Tax:10090)
+annotation	0|9|Laminarin|Chemical|MESH:C008247
+
+
+sentence	CpG DNA responses were altered in BMM from STAT1(S727A) mice; Il-12p40 and Cox-2 mRNAs were more highly induced, whereas Tlr4 and Tlr9 mRNAs were more repressed.
+annotation	130|134|Tlr9|Gene|81897(Tax:10090)
+annotation	75|80|Cox-2|Gene|17709(Tax:10090)
+annotation	62|64|Il|Chemical|
+annotation	0|3|CpG|Chemical|
+
+
+sentence	These findings are important because they demonstrate 1) a previously unrecognized unusual JNK expression pattern in mouse neutrophils, 2) JNK2 in PMN is activated by Toxoplasma invasion, and 3) a requirement for JNK2 in PMN IL-12p40 and CCL2/MCP-1 production in response to a microbial pathogen.
+annotation	243|248|MCP-1|Gene|20296(Tax:10090)
+annotation	225|233|IL-12p40|Gene|16160(Tax:10090)
+annotation	139|143|JNK2|Gene|26420(Tax:10090)
+
+
+sentence	Rapid suppression of cytokine transcription in human CD4+CD25 T cells by CD4+Foxp3+ regulatory T cells: independence of IL-2 consumption, TGF-beta, and various inhibitors of TCR signaling.
+annotation	138|146|TGF-beta|Gene|7040
+annotation	77|82|Foxp3|Gene|50943
+annotation	57|61|CD25|Gene|3559
+
+sentence	Treg inhibited induction of Th1 cytokine mRNA as early as 1 h after stimulation, whereas induction/suppression of Th2 cytokines was delayed to 10-15 h. We show that immediate cytokine mRNA suppression in Tcon was neither dependent on TGF-beta/IL-10 or IL-2 consumption, nor on induction of the transcriptional-repressor forkhead box P3 or other anergy-related genes (e.g., gene related to anergy, transducer of ErbB-2, forkhead homolog-4, repressor of GATA, inducible cAMP early repressor).
+annotation	468|472|cAMP|Chemical|CHEBI:17489
+annotation	320|335|forkhead box P3|Gene|50943
+annotation	243|248|IL-10|Gene|3586
+annotation	28|31|Th1|Gene|51497
+
+
+sentence	Genes involved in VDJ recombination as well as B lineage-associated transcription factors (TCF3 (E2A), EBF, BCL11A, and PAX5) were turned on in E-B cells, before acquisition of CD19.
+annotation	177|181|CD19|Gene|930
+annotation	108|114|BCL11A|Gene|53335
+annotation	97|100|E2A|Gene|6929
+
+sentence	In addition, E-B cells expressed T/NK lineage and myeloid-associated genes including CD2, NOTCH1, CD99, PECAM1, TNFSF13B, and MPO.
+annotation	126|129|MPO|Gene|4353
+annotation	104|110|PECAM1|Gene|5175
+annotation	90|96|NOTCH1|Gene|4851
+
+
+sentence	Treatment with anti-ICOS mAb reduced incidence and severity of myositis; decreased the number of muscle-infiltrating CD11b/c+, TCR+, and CD8a+ cells; and inhibited the expression of IL-1alpha and CCL2 in the hamstring muscles of the EAM rats.
+annotation	196|200|CCL2|Gene|24770(Tax:10116)
+annotation	137|141|CD8a|Gene|24930(Tax:10116)
+annotation	117|122|CD11b|Gene|25021(Tax:10116)
+
+
+sentence	Accordingly, kaempferol had no effect on STAT6 activation in nonhemopoietic cell lines lacking JAK3, supporting its selective inhibition of IL-4 responses through type I receptors expressing JAK3 but not type II lacking this kinase.
+annotation	95|99|JAK3|Gene|3718
+annotation	95|99|JAK3|Gene|3718
+annotation	13|23|kaempferol|Chemical|MESH:D044949
+
+
+sentence	This phenotype correlates with a diminished proliferation capacity of both CD4+CD25- effector and CD4+CD25+ regulatory T cells upon in vitro stimulation of the TLR1/TLR2 pathway by the ligand palmitoyl-3-cysteine-serine-lysine 4, and with the constitutive down-regulation of Tnf-alpha and IL-6 in macrophages of Idd6- congenic mice.
+annotation	312|316|Idd6|Gene|107835(Tax:10090)
+annotation	275|284|Tnf-alpha|Gene|21926(Tax:10090)
+annotation	192|219|palmitoyl-3-cysteine-serine|Chemical|
+annotation	160|164|TLR1|Gene|21897(Tax:10090)
+annotation	75|78|CD4|Gene|12504(Tax:10090)
+annotation	75|78|CD4|Gene|12504(Tax:10090)
+
+
+sentence	After priming with IFN-gamma and stimulation with NadADelta351-405, mo-DCs strongly up-regulated maturation markers CD83, CD86, CD80, and HLA-DR, secreted moderate quantities of TNF-alpha, IL-6, and IL-8, and produced a slight, although significant, amount of IL-12p70.
+annotation	199|203|IL-8|Gene|3576
+annotation	178|187|TNF-alpha|Gene|7124
+annotation	122|126|CD86|Gene|942
+annotation	19|28|IFN-gamma|Gene|3458
+
+sentence	Costimulation of mo-DCs with NadADelta351-405 and the imidoazoquinoline drug R-848, believed to mimic bacterial RNA, increased CD86 in an additive way, but strongly synergized the secretion of IL-12p70, IL-1, IL-6, TNF-alpha, and MIP-1alpha, especially after IFN-gamma priming.
+annotation	259|268|IFN-gamma|Gene|3458
+annotation	215|224|TNF-alpha|Gene|7124
+annotation	193|197|IL-1|Gene|3552
+annotation	54|71|imidoazoquinoline|Chemical|
+
+
+sentence	ICAM-1-mediated, Src- and Pyk2-dependent vascular endothelial cadherin tyrosine phosphorylation is required for leukocyte transendothelial migration.
+annotation	71|79|tyrosine|Chemical|CHEBI:18186
+annotation	26|30|Pyk2|Gene|2185
+annotation	0|6|ICAM-1|Gene|3383
+
+sentence	Using phospho-specific Abs, we show that engagement of ICAM-1 induces phosphorylation of VE-cadherin on tyrosines 658 and 731, which correspond to the p120-catenin and beta-catenin binding sites, respectively.
+annotation	168|180|beta-catenin|Gene|1499
+annotation	104|113|tyrosines|Chemical|
+annotation	55|61|ICAM-1|Gene|3383
+
+
+sentence	Lipid A-induced homotolerance was characterized by the down-regulation of MyD88-dependent proinflammatory cytokines TNF-alpha and CCL3, but up-regulation of TRIF-dependent cytokine IFN-beta.
+annotation	181|189|IFN-beta|Gene|15977(Tax:10090)
+annotation	130|134|CCL3|Gene|20302(Tax:10090)
+annotation	74|79|MyD88|Gene|17874(Tax:10090)
+
+
+sentence	Zinc-dependent suppression of TNF-alpha production is mediated by protein kinase A-induced inhibition of Raf-1, I kappa B kinase beta, and NF-kappa B.
+annotation	139|149|NF-kappa B|Gene|4790
+annotation	105|110|Raf-1|Gene|5894
+annotation	0|4|Zinc|Chemical|MESH:D015032
+
+sentence	This zinc-induced protein kinase A activation inhibited Raf-1 activity by phosphorylation at serine 259, preventing activation of Raf-1 by phosphorylation of serine 338.
+annotation	93|99|serine|Chemical|CHEBI:17822
+annotation	93|99|serine|Chemical|CHEBI:17822
+annotation	5|9|zinc|Chemical|MESH:D015032
+
+sentence	By this mechanism, zinc suppressed LPS-induced activation of IkappaB kinase beta (IKKbeta) and NF-kappaB, and subsequent TNF-alpha production.
+annotation	121|130|TNF-alpha|Gene|7124
+annotation	82|89|IKKbeta|Gene|3551
+annotation	19|23|zinc|Chemical|MESH:D015032
+
+
+sentence	PBMC were stimulated with mixtures of peptides spanning the entire sequence of both proteins, and Ag specificity and magnitude of intracellular IFN-gamma- and TNF-alpha-positive cells were then analyzed within both CD4+ and CD8+ T cells.
+annotation	224|227|CD8|Gene|925
+annotation	159|168|TNF-alpha|Gene|7124
+annotation	98|100|Ag|Chemical|
+
+
+sentence	RESULTS: Pharmacokinetic parameters (mean +/- SD) for SI piperacillin/sulbactam were: (1) peak serum concentration: piperacillin 231 +/- 66 mg/l, sulbactam 53.1 +/- 15.0 mg/l; (2) minimum serum concentration: piperacillin 11.5 +/- 14.8 mg/l, sulbactam 4.2 +/- 3.5 mg/l; (3) clearance: piperacillin 197 +/- 72 ml/min (CI 269 +/- 123 ml/min), sulbactam 167 +/- 61 ml/min (CI 212 +/- 109 ml/min); (4) half-life: piperacillin 2.4 +/- 1.2 h, sulbactam 3.1 +/- 1.6 h. Steady-state concentrations during CI were 25.5 +/- 14.5 mg/l for piperacillin and 8.0 +/- 3.7 mg/l for sulbactam.
+annotation	70|79|sulbactam|Chemical|MESH:D013407
+annotation	70|79|sulbactam|Chemical|MESH:D013407
+annotation	341|354|sulbactam 167|Chemical|
+annotation	70|79|sulbactam|Chemical|MESH:D013407
+annotation	70|79|sulbactam|Chemical|MESH:D013407
+annotation	70|79|sulbactam|Chemical|MESH:D013407
+
+
+sentence	First, the intrarenal protein expression of CYP4A, the enzyme catalyzing the formation of 20-hydroxyeicosatetraenoic acid (20-HETE), and of CYP2C23, the enzyme responsible for epoxyeicosatrienoic acid (EET) production, was evaluated.
+annotation	202|205|EET|Chemical|CHEBI:64007
+annotation	140|147|CYP2C23|Gene|83790(Tax:10116)
+annotation	90|121|20-hydroxyeicosatetraenoic acid|Chemical|MESH:C055987
+
+
+sentence	George L. Bakris, MD, Professor of Medicine, University of Chicago, Chicago, IL; Henry R. Black, MD, Clinical Professor of Internal Medicine, New York University School of Medicine, New York, NY; and Thomas D. Giles, MD, Professor of Medicine, Tulane University School of Medicine, New Orleans, LA, participated in the discussion.
+annotation	35|43|Medicine|Chemical|CHEBI:23888
+annotation	35|43|Medicine|Chemical|CHEBI:23888
+annotation	35|43|Medicine|Chemical|CHEBI:23888
+
+
+sentence	We also used bioluminescence imaging of hollow fibers to monitor the nuclear factor kappaB (NFkappaB) pathway in vivo; NFkappaB activation by lipopolysaccharide and tumor necrosis factor-alpha was evaluated in tumor cell lines genetically engineered to express luciferase controlled by an NFkappaB-responsive element.
+annotation	92|100|NFkappaB|Gene|18033(Tax:10090)
+annotation	92|100|NFkappaB|Gene|18033(Tax:10090)
+annotation	69|90|nuclear factor kappaB|Gene|18033(Tax:10090)
+
+
+sentence	In vitro splicing assays with control and mutated transcripts generated from a fosB mini-gene construct indicated a CU-rich sequence at the 3' end of intron 4 (I4) plays an important role in regulating fosB pre-mRNA splicing due to its binding of polypyrimidine tract binding protein (PTB).
+annotation	285|288|PTB|Gene|5725
+annotation	247|283|polypyrimidine tract binding protein|Gene|5725
+annotation	79|83|fosB|Gene|2354
+
+
+sentence	METHODOLOGY/PRINCIPAL FINDINGS: We found that functional inhibition of endogenous RARalpha in breast cancer cells by using either RARalpha specific antagonists or a dominant negative RARalpha mutant hampers on one hand the RA-induced upregulation of neutral sphingomyelinase (nSMase)-mediated CER synthesis, and on the other hand the RA-induced downregulation of sphingosine kinase 1, SK1, pivotal for S1P synthesis.
+annotation	385|388|SK1|Gene|8877
+annotation	363|374|sphingosine|Chemical|MESH:D013110
+annotation	276|282|nSMase|Gene|6610
+annotation	82|84|RA|Chemical|MESH:C009166
+annotation	82|90|RARalpha|Gene|5914
+
+
+sentence	NDRG1 specifically interacts with constitutively active Rab4aQ67L mutant protein and not with GDP-bound Rab4aS22N mutant proving NDRG1 as a novel Rab4a effector.
+annotation	56|61|Rab4a|Gene|5867
+annotation	104|113|Rab4aS22N|Gene|5867
+annotation	56|65|Rab4aQ67L|Gene|5867
+
+
+sentence	Activated adipocytes produce multiple angiogenic factors including leptin, angiopoietins, HGF, GM-CSF, VEGF, FGF-2, and TGF-beta, which either alone or collectively stimulate neovascularization during fat mass expansion.
+annotation	120|128|TGF-beta|Gene|7040
+annotation	103|107|VEGF|Gene|7422
+annotation	90|93|HGF|Gene|3082
+
+
+sentence	Importantly, nuclear accumulation of dephosphorylated Foxo3a was not evident in nNOS-null muscle, and neither MuRF-1 nor atrogin-1/MAFbx were upregulated during tail suspension.
+annotation	131|136|MAFbx|Gene|67731(Tax:10090)
+annotation	110|116|MuRF-1|Gene|433766(Tax:10090)
+annotation	54|60|Foxo3a|Gene|56484(Tax:10090)
+
+
+sentence	We show that muscle RING finger 1 (MuRF1) and MuRF3 act as E3 ubiquitin ligases that cooperate with the E2 ubiquitin-conjugating enzymes UbcH5a, -b, and -c to mediate the degradation of beta/slow myosin heavy chain (beta/slow MHC) and MHCIIa via the ubiquitin proteasome system (UPS) in vivo and in vitro.
+annotation	62|71|ubiquitin|Chemical|MESH:C047192
+annotation	46|51|MuRF3|Gene|58522(Tax:10090)
+annotation	13|33|muscle RING finger 1|Gene|433766(Tax:10090)
+
+
+sentence	A small subset of CD11c+ dermal cells expressed DEC-205/CD205 and DC-lysosomal-associated membrane glycoprotein/CD208 (DC-LAMP/CD208), suggesting some differentiation or maturation.
+annotation	112|117|CD208|Gene|27074
+annotation	112|117|CD208|Gene|27074
+annotation	48|55|DEC-205|Gene|4065
+
+
+sentence	Src regulates phorbol 12-myristate 13-acetate-activated PKC-induced migration via Cas/Crk/Rac1 signaling pathway in glioblastoma cells.
+annotation	90|94|Rac1|Gene|5879
+annotation	82|85|Cas|Gene|9564
+annotation	0|3|Src|Gene|6714
+
+sentence	PMA treatment induced tyrosine phosphorylation of Crk-associated substrate (Cas) and formation of a complex with Crk, followed by Rac1 activation, a downstream effector of Cas/Crk complex.
+annotation	50|53|Crk|Gene|1398
+annotation	130|134|Rac1|Gene|5879
+annotation	76|79|Cas|Gene|9564
+annotation	22|30|tyrosine|Chemical|CHEBI:18186
+
+sentence	These effects were blocked by a tyrosine kinase inhibitor (PP2) or Src small interfering RNA (siRNA), indicating that Src was involved in the PMA-induced activation of Cas/Crk/Rac1 signaling pathway.
+annotation	176|180|Rac1|Gene|5879
+annotation	168|171|Cas|Gene|9564
+annotation	67|70|Src|Gene|6714
+annotation	59|62|PP2|Gene|4888
+
+sentence	We propose that PMA-induced migration was dependent on activation of PKC/Src/Cas/Crk/Rac1 signaling pathway via modulating cytoskeletal reorganization during glioblastoma cell migration.
+annotation	85|89|Rac1|Gene|5879
+annotation	77|80|Cas|Gene|9564
+annotation	16|19|PMA|Chemical|CHEBI:60755
+
+
+sentence	The effect of TNF-alpha, LPS, Bay K 8644, or thapsigargin in decreasing cell number was significantly suppressed in the presence of the caspase-3 inhibitor (10(-8) M) in wild-type cells cultured for 48 h. The effect of TNF-alpha, LPS, or Bay K 8644 in decreasing cell number was significantly inhibited in the transfectants, while the effect of thapsigargin on cell death was not inhibited in the transfectants.
+annotation	45|57|thapsigargin|Chemical|MESH:D019284
+annotation	14|23|TNF-alpha|Gene|24835(Tax:10116)
+annotation	45|57|thapsigargin|Chemical|MESH:D019284
+annotation	14|23|TNF-alpha|Gene|24835(Tax:10116)
+
+sentence	The result of reverse transcription-polymerase chain reaction analysis using specific primers for the genes of apoptotic cell death-related proteins showed that IAP-1, FADD, caspase-8, caspase-9, and caspase-3 mRNA levels were significantly decreased in the transfectants, while Akt-1, Bid, Apaf-1, and glyceroaldehyde-3-phosphate dehydrogenase mRNA levels were not significantly altered in the transfectants.
+annotation	303|330|glyceroaldehyde-3-phosphate|Chemical|
+annotation	286|289|Bid|Gene|64625(Tax:10116)
+annotation	200|209|caspase-3|Gene|25402(Tax:10116)
+annotation	174|183|caspase-8|Gene|64044(Tax:10116)
+annotation	161|166|IAP-1|Gene|60371(Tax:10116)
+
+sentence	Culture with TNF-alpha, LPS, Bay K 8644, or thapsigargin caused a significant increase in Apaf-1 or caspase-3 mRNA levels.
+annotation	100|109|caspase-3|Gene|25402(Tax:10116)
+annotation	44|56|thapsigargin|Chemical|MESH:D019284
+annotation	13|22|TNF-alpha|Gene|24835(Tax:10116)
+
+
+sentence	The VHL gene is a putative tumour suppressor gene in VHL and a few other conditions, possibly by negative regulation of hypoxia- inducible factor-1 (HIF-1) and the stromal-derived factor-1 (SDF-1) receptor, CXCR4, via which the VHL protein negates angiogenesis and tumour cell migration.
+annotation	4|7|VHL|Gene|7428
+annotation	190|205|SDF-1) receptor|Gene|7852
+annotation	120|147|hypoxia- inducible factor-1|Gene|3091
+annotation	4|7|VHL|Gene|7428
+
+sentence	Our results showed that breast cancer cell lines MCF-7 and ZR-75-1 expressed very high levels of VHL transcripts, but the highly aggressive MDA-MB-231, MDA-MB-435 and MDA-MB-453 expressed either no VHL or a low level.
+annotation	97|100|VHL|Gene|7428
+annotation	152|162|MDA-MB-435|Chemical|MESH:D008315
+annotation	97|100|VHL|Gene|7428
+
+
+sentence	In addition, Ag-specific ex vivo IL-4, IL-5 and IL-13 production of draining lymph node cells was markedly diminished by EM-X inhalation, but not IFN-gamma.
+annotation	146|155|IFN-gamma|Gene|15978(Tax:10090)
+annotation	39|43|IL-5|Gene|16191(Tax:10090)
+annotation	13|15|Ag|Chemical|
+
+
+sentence	Although DPP-IV/CD26 (EC 3.4.14.5) is the canonical representative of the group, a number of other proteins including DPP-7, 8, 9, and seprase/fibroblast activation protein-alpha (FAP-alpha) have been shown to have similar enzymatic activity.
+annotation	180|189|FAP-alpha|Gene|2191
+annotation	135|142|seprase|Gene|2191
+annotation	16|20|CD26|Gene|1803
+
+
+sentence	We have reported that EWS-Fli1 inhibits p21(waf1/cip1) and p27(kip1) expressions, which are degraded by the ubiquitin-proteasome pathway.
+annotation	108|117|ubiquitin|Chemical|MESH:C047192
+annotation	59|62|p27|Gene|10534
+annotation	26|30|Fli1|Gene|2313
+
+sentence	Bortezomib efficiently up-regulated p21(waf1/cip1) and p27(kip1) expression, and induced apoptosis accompanied by the expression of cleaved-PARP, DR4 and activated caspase-8 in EFT cells.
+annotation	164|173|caspase-8|Gene|841
+annotation	140|144|PARP|Gene|142
+annotation	55|58|p27|Gene|10534
+annotation	0|10|Bortezomib|Chemical|MESH:C400082
+
+
+sentence	The aim of this study was to evaluate the expression of different genes related to EMT such as E-cadherin, TGFbeta1, TGFbeta2, h-RAS, TWIST1, SNAIL2, SMAD5, FN1, CEACAM1 and JAG1 using the in vitro-in vivo model of the estrogen induced cell transformation developed in our laboratory.
+annotation	219|227|estrogen|Chemical|MESH:D004967
+annotation	162|169|CEACAM1|Gene|634
+annotation	150|155|SMAD5|Gene|4090
+annotation	134|140|TWIST1|Gene|7291
+annotation	117|125|TGFbeta2|Gene|7042
+annotation	95|105|E-cadherin|Gene|999
+
+sentence	SMAD5 and h-RAS were up-regulated in the tumorigenic C5-T8 cells whereas FN1, Twist1 and Snail2 were up-regulated in C5-T8 and down-regulated in E2 70.
+annotation	89|95|Snail2|Gene|6591
+annotation	73|76|FN1|Gene|2335
+annotation	0|5|SMAD5|Gene|4090
+
+sentence	We conclude that the loss of expression of TGFbeta1, TGFbeta2, CEACAM1 and JAG1 are related to ductulogenesis and branching and the overexpression of h-RAS with loss of E-cadherin expression and up-modulation of TWIST1, SNAIL2 and SMAD5 expressions are involved in the EMT modulation.
+annotation	231|236|SMAD5|Gene|4090
+annotation	212|218|TWIST1|Gene|7291
+annotation	150|155|h-RAS|Gene|3265
+annotation	63|70|CEACAM1|Gene|634
+annotation	43|51|TGFbeta1|Gene|7040
+
+
+sentence	To examine genistein's effect on breast cancer cells with different Bcl-2 levels, we established control (MCF-7/PV) and Bcl-2 overexpressing MCF-7 (MCF-7/Bcl-2) cell lines and characterized genistein regulated apoptosis and cell cycle progression in these cells.
+annotation	11|20|genistein|Chemical|MESH:D019833
+annotation	68|73|Bcl-2|Gene|596
+annotation	11|20|genistein|Chemical|MESH:D019833
+
+sentence	We also found that genistein increases Bcl-2 levels and Bcl-2/Bax ratio in the mitochondrial fractions of MCF-7/Bcl-2 cells, suggesting that disturbed Bcl-2/Bax distribution may cause cytochrome c release and apoptosis in these cells.
+annotation	184|196|cytochrome c|Gene|54205
+annotation	39|44|Bcl-2|Gene|596
+annotation	62|65|Bax|Gene|581
+annotation	39|44|Bcl-2|Gene|596
+
+sentence	Taken together, our results indicate that genistein-Bcl-2 interaction switches Bcl-2 from an anti-apoptotic protein into a proapoptotic protein, which involves disturbed Bcl-2/Bax distribution in mitochondria, increased cytochrome c release and modified cell cycle regulation.
+annotation	220|232|cytochrome c|Gene|54205
+annotation	52|57|Bcl-2|Gene|596
+annotation	52|57|Bcl-2|Gene|596
+
+
+sentence	We designed a recombinant fusion construct of a phage display-generated anti-gpA33 single chain fragment, A33scFv, with cytosine deaminase from yeast (CDy), which converts 5-fluorocytosine (5-FC) into 5-fluorouracil (5-FU).
+annotation	217|221|5-FU|Chemical|MESH:D005472
+annotation	190|194|5-FC|Chemical|CHEBI:5100
+annotation	120|128|cytosine|Chemical|MESH:D003596
+
+
+sentence	We examined the role of osteopontin (OPN) in NIK- and MEKK1-dependent MMP-9 activation, melanoma growth and lung metastasis and its clinical significance in malignant melanoma.
+annotation	70|75|MMP-9|Gene|4318
+annotation	45|48|NIK|Gene|9020
+annotation	24|35|osteopontin|Gene|6696
+
+sentence	OPN triggers NIK- and MEKK1-dependent AP-1 activation whereas NIK-dependent AP-1 activation is independent of JNK1 that leads to pro-MMP-9 activation.
+annotation	133|138|MMP-9|Gene|4318
+annotation	13|16|NIK|Gene|9020
+annotation	13|17|NIK-|Gene|9020
+
+sentence	Altogether, OPN regulates negative cross-talk between NIK/ERK and MEKK1/JNK1 pathways that controls melanoma progression.
+annotation	72|76|JNK1|Gene|5599
+annotation	58|61|ERK|Gene|5594
+annotation	12|15|OPN|Gene|6696
+
+
+sentence	IFN-alpha-induced upregulation of TRAIL protein in the dnFADD-expressing Daudi or U266 cells was comparable to their control cells, suggesting that FADD is not involved in the IFN-alpha-induced upregulation of TRAIL.
+annotation	34|39|TRAIL|Gene|8743
+annotation	57|61|FADD|Gene|8772
+annotation	0|9|IFN-alpha|Gene|3439
+
+
+sentence	Sediment and mussel tissues from the Kentucky Dam Tailwater (KDTW) and Ledbetter Embayment (LE) of Kentucky Lake, Kentucky, USA, were analyzed to examine the presence of 2,3,7,8-substituted polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), and non-, mono-, and di-ortho-chlorine-substituted polychlorinated biphenyls.
+annotation	339|348|biphenyls|Chemical|MESH:C010574
+annotation	233|262|polychlorinated dibenzofurans|Chemical|MESH:C023386
+annotation	124|127|USA|Chemical|MESH:C105021
+
+
+sentence	High-resolution SNP and haplotype maps of the human gamma-glutamyl carboxylase gene (GGCX) and association study between polymorphisms in GGCX and the warfarin maintenance dose requirement of the Japanese population.
+annotation	151|159|warfarin|Chemical|MESH:D014859
+annotation	85|89|GGCX|Gene|2677
+annotation	52|78|gamma-glutamyl carboxylase|Gene|2677
+
+
+sentence	For antipsychotic compounds, the following rank order of antagonism potency (pK (B)) was ziprasidone > tiospirone > SSR181507 > or = clozapine > or = olanzapine > SLV-314 > SLV-313 > or = aripiprazole > or = chlorpromazine > nemonapride > haloperidol.
+annotation	239|250|haloperidol|Chemical|MESH:D006220
+annotation	208|222|chlorpromazine|Chemical|MESH:D002746
+annotation	173|180|SLV-313|Chemical|MESH:C504317
+annotation	150|160|olanzapine|Chemical|MESH:C076029
+annotation	116|125|SSR181507|Chemical|MESH:C480819
+annotation	89|100|ziprasidone|Chemical|MESH:C092292
+
+sentence	In contrast, other novel antipsychotics exhibited diverse 5-HT(7a) properties; SLV-313 and SLV-314 behaved as quasi-neutral antagonists, SSR181507 acted as an inverse agonist, and bifeprunox as a partial agonist, as mentioned above.
+annotation	180|190|bifeprunox|Chemical|MESH:C509981
+annotation	91|98|SLV-314|Chemical|MESH:C506289
+annotation	58|62|5-HT|Chemical|MESH:D012701
+
+
+sentence	Fourier transform ion cyclotron resonance mass spectrometry, combined with modern ionization (fast atom bombardment , electrospray ionization, matrix-assisted laser desorption-ionization), fragmentation (collision-induced dissociation, surface-induced dissociation, one-photon ultraviolet photodissociation, infrared multiphoton dissociation, blackbody infrared radiative dissociation, electron-capture dissociation), and separation (high-performance liquid chromatography, liquid chromatography, capillary electrophoresis) techniques is now becoming one of the most attractive and frequently used instrumental platforms for gas-phase studies of biomolecules such as amino acids, bioamines, peptides, polypeptides, proteins, nucleobases, nucleosides, nucleotides, polynucleotides, nucleic acids, saccharides, polysaccharides, etc.
+annotation	796|807|saccharides|Chemical|CHEBI:16646
+annotation	751|762|nucleotides|Chemical|MESH:D009711
+annotation	680|689|bioamines|Chemical|
+
+
+sentence	In the presence of calcium ion, P. putida S5 accelerated the formation of octylphenol oligoethoxy carboxylates (OPECn) rather than that of octylphenol oligoethoxylates under an aerobic condition, indicating that more soluble biodegradates with terminal carboxyl group may liquate out easily to surface and ground water rather than more hydrophobic biodegradates with shorter ethylene oxide residues.
+annotation	375|389|ethylene oxide|Chemical|MESH:D005027
+annotation	74|85|octylphenol|Chemical|MESH:C474055
+annotation	19|26|calcium|Chemical|MESH:D002118
+
+
+sentence	Both the enzymes were activated by Mg(2+)and Br(-) ions and 0.5-2.0 M urea and inhibited by other metal ions (Zn(2+), Cu(2+), K(+), Cd(2+), Ag(+), Fe(3+), Mn(2+), Co(2+), Hg(2+), Pb(2+) and Sn(2+)),[Formula: see text] anions, Tween 20, Tween 60, Tween 80, Triton X-100, sodium dodecyl sulphate, beta-mercaptoethanol, alpha-glutathione and 4-chloromercuribenzoate.
+annotation	339|362|4-chloromercuribenzoate|Chemical|
+annotation	295|315|beta-mercaptoethanol|Chemical|CHEBI:41218
+annotation	246|254|Tween 80|Chemical|MESH:D011136
+annotation	226|234|Tween 20|Chemical|MESH:D011136
+annotation	179|185|Pb(2+)|Chemical|CHEBI:49807
+annotation	163|169|Co(2+)|Chemical|CHEBI:29334
+annotation	147|153|Fe(3+)|Chemical|CHEBI:29034
+annotation	132|138|Cd(2+)|Chemical|CHEBI:48775
+annotation	118|124|Cu(2+)|Chemical|CHEBI:29036
+annotation	70|74|urea|Chemical|MESH:D014508
+annotation	35|41|Mg(2+)|Chemical|CHEBI:18420
+
+
+sentence	Patients who received regimens containing oxaliplatin and infusional 5-fluorouracil (5-FU) demonstrated mTTP up to 7 months and a mOS of 16 months.
+annotation	130|133|mOS|Gene|17451(Tax:10090)
+annotation	85|89|5-FU|Chemical|MESH:D005472
+annotation	42|53|oxaliplatin|Chemical|MESH:C030110
+
+sentence	With irinotecan and 5-FU, mOS around 8 months were reported and with cetuximab combined with irinotecan, the highest mOS was 9.8 months.
+annotation	26|29|mOS|Gene|17451(Tax:10090)
+annotation	26|29|mOS|Gene|17451(Tax:10090)
+annotation	5|15|irinotecan|Chemical|MESH:C051890
+
+
+sentence	Modeling Ca(2+) release as a threshold process allows the explicit construction of traveling wave solutions to probe the dependence of Ca(2+) wave speed on physiologically important parameters such as the threshold for Ca(2+) release from the endoplasmic reticulum (ER) to the cytosol, the rate of Ca(2+) resequestration from the cytosol to the ER, and the total [Ca(2+)] (cytosolic plus ER).
+annotation	9|15|Ca(2+)|Chemical|CHEBI:29108
+annotation	9|15|Ca(2+)|Chemical|CHEBI:29108
+annotation	9|15|Ca(2+)|Chemical|CHEBI:29108
+
+
+sentence	Based on real time PCR, the expression of galectin-3, glycosylated 96, a leucine zipper protein (LRG-21), and endothelial cell activated protein C receptor (EPCR) increased between 50-500-fold, whereas the expression of Polo serine/threonine kinase, N-myc, and Histone H2A.1 decreased ranging from 8 to 37 fold.
+annotation	232|241|threonine|Chemical|CHEBI:26986
+annotation	220|274|Polo serine/threonine kinase, N-myc, and Histone H2A.1|Gene|18109(Tax:10090)
+annotation	97|103|LRG-21|Gene|11910(Tax:10090)
+annotation	42|52|galectin-3|Gene|16854(Tax:10090)
+
+
+sentence	In young rats, the relative mRNA levels, assessed by real-time RT-PCR, of annexin A3, glypican 3 (gpc3), keratin 19 (k19) and pleiotrophin (ptn) were significantly higher in NP compared to AF and AC samples.
+annotation	126|138|pleiotrophin|Gene|24924(Tax:10116)
+annotation	98|102|gpc3|Gene|25236(Tax:10116)
+annotation	74|84|annexin A3|Gene|25291(Tax:10116)
+
+
+sentence	Besides these essential amino acids, asparagine, serine, glutamine, and tyrosine were also significantly higher in young trees during the September-February period when GWSS was present.
+annotation	72|80|tyrosine|Chemical|CHEBI:18186
+annotation	49|55|serine|Chemical|CHEBI:17822
+annotation	24|35|amino acids|Chemical|CHEBI:33709
+
+
+sentence	Likewise, N. womersleyi reared on T. urticae-infested kidney bean plants showed a significant preference for a mixture of four synthetic compounds [mimics of the T. urticae-induced kidney bean volatiles: DMNT, methyl salicylate (MeSA), beta-caryophyllene, and (E,E)-4,8,12-trimethyl-1,3,7,11-tridecatetraene] at a level comparable to that for T. urticae-induced kidney bean volatiles.
+annotation	268|307|8,12-trimethyl-1,3,7,11-tridecatetraene|Chemical|MESH:C500824
+annotation	236|254|beta-caryophyllene|Chemical|MESH:C024714
+annotation	204|208|DMNT|Chemical|MESH:C509530
+
+
+sentence	Since the FVIII activity is frequently normal in patients with mild type 1 or 2 von Willebrand disease (VWD), there is controversy whether FVIII testing should accompany VWF Antigen (VWF:Ag) assay.
+annotation	187|189|Ag|Chemical|
+annotation	170|173|VWF|Gene|7450
+annotation	10|15|FVIII|Gene|2157
+
+sentence	METHODS: The aim of this study was to explore the correlation between VWF:Ag, VWF ristocetin cofactor activity (VWF:RCo) and FVIII in 213 consecutive patients undergoing screening for VWD.
+annotation	125|130|FVIII|Gene|2157
+annotation	70|73|VWF|Gene|7450
+annotation	70|73|VWF|Gene|7450
+
+sentence	A significant correlation was observed between VWF:Ag and VWF:RCo (r = 0.892; p < 0.001), VWF:Ag and FVIII (r = 0.834; p < 0.001), VWF:RCo and FVIII (r = 0.758; p < 0.001).
+annotation	101|106|FVIII|Gene|2157
+annotation	101|106|FVIII|Gene|2157
+annotation	47|50|VWF|Gene|7450
+annotation	51|53|Ag|Chemical|
+
+sentence	CONCLUSIONS: Due to the excellent correlation between VWF:Ag and FVIII and to the diagnostic efficiency of VWF:Ag for identifying abnormal FVIII levels in patients with VWF deficiency, routine measurement of FVIII may not be necessary in the initial screening of patients with suspected VWD.
+annotation	65|70|FVIII|Gene|2157
+annotation	65|70|FVIII|Gene|2157
+annotation	54|57|VWF|Gene|7450
+annotation	58|60|Ag|Chemical|
+
+
+sentence	On the other hand, experiments performed with 3-OHGA revealed that this organic acid did not change Na(+)-independent [(3)H]glutamate binding to synaptic membranes from cerebral cortex and striatum of rats from all ages, but inhibited Na(+)-dependent [(3)H]glutamate binding to membranes in striatum of 7-day-old rats, but not in striatum of 15- and 60-day-old rats and in cerebral cortex of rats from all studied ages.
+annotation	118|133|[(3)H]glutamate|Chemical|
+annotation	118|133|[(3)H]glutamate|Chemical|
+annotation	46|52|3-OHGA|Chemical|
+
+sentence	We also provided some evidence that 3-OHGA competes with the glutamate transporter inhibitor L-trans-pyrrolidine-2,4-dicarboxylate, suggesting a possible interaction of 3-OHGA with glutamate transporters on synaptic membranes.
+annotation	61|70|glutamate|Chemical|CHEBI:29987
+annotation	93|130|L-trans-pyrrolidine-2,4-dicarboxylate|Chemical|
+annotation	36|42|3-OHGA|Chemical|
+
+
+sentence	alpha 2A agonists UK14304 and guanfacine decreased the ability of GDP to compete with [35S]GTP gamma S binding to the membranes and 0.1 mM GDP was found to be optimal for the following functional experiments.
+annotation	66|69|GDP|Chemical|MESH:D006153
+annotation	66|69|GDP|Chemical|MESH:D006153
+annotation	18|25|UK14304|Chemical|MESH:C015620
+
+
+sentence	The cytoplasmic Cu/Zn-superoxide dismutase (SOD1) represents along with catalase and glutathione peroxidase at the first defense line against reactive oxygen species in all aerobic organisms, but little is known about its distribution in developing embryos.
+annotation	151|157|oxygen|Chemical|MESH:D010100
+annotation	72|80|catalase|Gene|12359(Tax:10090)
+annotation	22|32|superoxide|Chemical|MESH:D013481
+annotation	16|18|Cu|Chemical|
+
+
+sentence	Atmospheric concentrations of nitric acid (HNO3), sulfur dioxide (SO2), particulate nitrate (NO3-) and particulate sulfate (SO4(2-)) on the urban- and mountain-facing sides of Mt.
+annotation	124|131|SO4(2-)|Chemical|CHEBI:16189
+annotation	93|97|NO3-|Chemical|CHEBI:29794
+annotation	66|69|SO2|Chemical|CHEBI:29825
+annotation	43|47|HNO3|Chemical|CHEBI:25942
+
+sentence	It was found that HNO3 was the major source (approximately 80%) of dry deposited nitrate on pine foliage, while the contribution from SO4(2-) was about equal to that from SO2.
+annotation	171|174|SO2|Chemical|CHEBI:29825
+annotation	92|96|pine|Chemical|
+annotation	18|22|HNO3|Chemical|CHEBI:25942
+
+
+sentence	Aspartate aminotransferase, alanine aminotransferase, total bilirubin, total cholesterol, total protein, globulin, creatinine and chloride age-dependently increased and alkaline phosphates, albumin/globulin ratio, inorganic phosphorus and potassium age-dependently decreased, and these changes were correlated with the DNA migration at pH 13 and/or 8-OH-dG.
+annotation	349|356|8-OH-dG|Chemical|MESH:C040791
+annotation	224|234|phosphorus|Chemical|MESH:D010758
+annotation	115|125|creatinine|Chemical|MESH:D003404
+annotation	60|69|bilirubin|Chemical|MESH:D001663
+annotation	0|9|Aspartate|Chemical|CHEBI:29995
+
+
+sentence	Alpha-hexachlorocyclohexane (alpha-HCH) is a stereoisomer of gamma-HCH, the active ingredient of lindane (> 99% gamma-HCH).
+annotation	61|70|gamma-HCH|Chemical|CHEBI:32888
+annotation	61|70|gamma-HCH|Chemical|CHEBI:32888
+annotation	0|27|Alpha-hexachlorocyclohexane|Chemical|MESH:C040534
+
+
+sentence	We measured serum atherogenic lipids (total cholesterol, triglycerides, and LDL-cholesterol), plasma lipid peroxides (thiobarbituric acid-reactive substances), antioxidant enzymes (glutathione peroxidase, superoxide dismutase, and catalase) in neutrophils and lymphocytes, and total antioxidant status in plasma.
+annotation	231|239|catalase|Gene|847
+annotation	181|192|glutathione|Chemical|MESH:D005978
+annotation	107|116|peroxides|Chemical|MESH:D010545
+annotation	57|70|triglycerides|Chemical|MESH:D014280
+
+
+sentence	Urocortin-induced relaxation was not affected by the combination of a guanylyl cyclase inhibitor, 1H-[1,2,4]oxadiazolo[4,3-a]quinoxalin-1-one (ODQ, 1 microM), indomethacin and N(omega)-nitro-L-arginine.
+annotation	176|201|N(omega)-nitro-L-arginine|Chemical|
+annotation	143|146|ODQ|Chemical|
+annotation	0|9|Urocortin|Gene|29151(Tax:10116)
+
+
+sentence	Roles of the Akt/mTOR/p70S6K and ERK1/2 signaling pathways in curcumin-induced autophagy.
+annotation	62|70|curcumin|Chemical|MESH:D003474
+annotation	22|28|p70S6K|Gene|6198
+annotation	13|16|Akt|Gene|207
+
+
+sentence	We show that Nutlin-3 strikingly inhibits the protein expression of NFkappaB target genes ICAM-1 and MCP-1 while other targets like Bcl-xL and FLIP are not affected, thereby suggesting that the inhibition is promoter specific.
+annotation	143|147|FLIP|Gene|8837
+annotation	101|106|MCP-1|Gene|6347
+annotation	68|76|NFkappaB|Gene|4790
+
+
+sentence	Downregulation of Mdm2 using an siRNA approach has recently provided evidence for a new role of Mdm2 in the p53 response, by modulating the inhibition of the cyclin-dependent kinase 2 (cdk2) by p21.
+annotation	194|197|p21|Gene|1026
+annotation	158|183|cyclin-dependent kinase 2|Gene|1017
+annotation	18|22|Mdm2|Gene|4193
+
+
+sentence	Functional characterization of COMMD1 in NFkappaB signaling and ATP7B-dependent biliary copper excretion suggested that COMMD1 also has a role in regulating the protein degradation of RelA (p65) and ATP7B.
+annotation	64|69|ATP7B|Gene|11979(Tax:10090)
+annotation	184|188|RelA|Gene|19697(Tax:10090)
+annotation	88|94|copper|Chemical|MESH:D003300
+annotation	41|49|NFkappaB|Gene|18033(Tax:10090)
+
+
+sentence	Serum creatinine level and markers of tubular and glomerular function, including cystatin C, urine N-acetyl-beta-D-glucosaminidase, urine and serum beta2-microglobulin, and urine albumin, were assessed in osteopenic postmenopausal women with mild dyslipidemia who received atorvastatin 20 mg, atorvastatin 80 mg, or placebo for 1 year.
+annotation	273|285|atorvastatin|Chemical|MESH:C065179
+annotation	148|167|beta2-microglobulin|Gene|567
+annotation	99|107|N-acetyl|Chemical|
+annotation	6|16|creatinine|Chemical|MESH:D003404
+
+
+sentence	Acting through 2 distinct membrane receptors, adiponectin receptors 1 and 2 (which utilize 5'-adenosine monophosphate-activated protein kinase phosphorylation, p38 mitogen-activated protein kinase, and peroxisome proliferator-activated receptor alpha as key cell signaling elements), adiponectin increases hepatic and skeletal muscle sensitivity to insulin, enhances fatty acid oxidation, suppresses monocyte-endothelial interaction, supports endothelial cell growth, lowers blood pressure, and moderates adipose tissue growth.
+annotation	367|377|fatty acid|Chemical|CHEBI:35366
+annotation	160|250|p38 mitogen-activated protein kinase, and peroxisome proliferator-activated receptor alpha|Gene|1432;5465
+annotation	46|57|adiponectin|Gene|9370
+
+
+sentence	The clonogenic cell death caused by beta-lap could be significantly inhibited by dicoumarol, an inhibitor of NAD(P)H:quinone oxido-reductase (NQO1), and also by siRNA for NQO1, demonstrating that NQO1-induced bioreduction of beta-lap is an essential step in beta-lap-induced cell death.
+annotation	36|44|beta-lap|Chemical|
+annotation	142|146|NQO1|Gene|1728
+annotation	142|146|NQO1|Gene|1728
+annotation	117|140|quinone oxido-reductase|Gene|1429
+annotation	81|91|dicoumarol|Chemical|MESH:D001728
+
+sentence	Although the direct cause of beta-lap-induced apoptosis is not yet clear, beta-lap treatment reduced the expression of p53 and NF-kappaB, whereas it increased cytochrome C release, caspase-3 activity, and gammaH2AX foci formation.
+annotation	181|190|caspase-3|Gene|836
+annotation	127|136|NF-kappaB|Gene|4790
+annotation	29|37|beta-lap|Chemical|
+
+
+sentence	We therefore examined MPNST from 22 neurofibromatosis type 1 (NF1) patients, 14 non-NF1 patients, and 14 neurofibroma patients for matrix metalloproteinase 13 (MMP-13) expression.
+annotation	160|166|MMP-13|Gene|4322
+annotation	62|65|NF1|Gene|4763
+annotation	36|60|neurofibromatosis type 1|Gene|4763
+
+
+sentence	Sp1 role in the regulation of complex I subunits, was demonstrated by the ability of the Sp1/DNA binding inhibitor, mithramycin, to inhibit the transcription of NDUFV1 and NDUFV2, in neuroblastoma cells.
+annotation	172|178|NDUFV2|Gene|4729
+annotation	116|127|mithramycin|Chemical|MESH:D008926
+annotation	0|3|Sp1|Gene|6667
+
+
+sentence	SIGNIFICANCE: Since CD72 is expressed on antigen presenting cells (APC) and the CD100-CD72 interaction lead to the shading of CD100, we suggest that NK interacting with APC cells could be the early source of soluble CD100 which is crucial for the formation of antigen specific immune response.
+annotation	80|85|CD100|Gene|10507
+annotation	20|24|CD72|Gene|971
+annotation	20|24|CD72|Gene|971
+
+
+sentence	Genotyping included the NOD2 variants p.Arg702Trp, p.Gly908Arg, and p.Leu1007fsX1008 and polymorphisms in SLC22A4/OCTN1 (1672 C-->T) and SLC22A5/OCTN2 (-207 G-->C).
+annotation	145|150|OCTN2|Gene|6584
+annotation	114|119|OCTN1|Gene|6583
+annotation	24|28|NOD2|Gene|64127
+
+
+sentence	In WT CAEC, TRPV4 currents could be elicited by TRPV4 activators 4alpha-phorbol-12,13-didecanoate (4alphaPDD), arachidonic acid (AA), and by hypotonic cell swelling (HTS).
+annotation	111|127|arachidonic acid|Chemical|MESH:D016718
+annotation	65|97|4alpha-phorbol-12,13-didecanoate|Chemical|
+annotation	12|17|TRPV4|Gene|63873(Tax:10090)
+
+
+sentence	The anion exchanger 3 gene (AE3/Slc4a3) encodes full-length AE3 (AE3fl) and cardiac AE3 (AE3c) isoforms, catalyzing plasma membrane Cl-/HCO3- exchange in M  ller (AE3fl) and horizontal (AE3c) cells.
+annotation	89|93|AE3c|Gene|6508
+annotation	89|93|AE3c|Gene|6508
+annotation	28|31|AE3|Gene|6508
+annotation	28|31|AE3|Gene|6508
+
+sentence	Immunobloting analysis revealed that Na+/HCO3- co-transporter (NBC1), and carbonic anhydrase II and CAXIV, protein expression were elevated in Slc4a3-/- mouse retinas, suggesting compensation for loss of AE3.
+annotation	204|207|AE3|Gene|20536(Tax:10090)
+annotation	100|105|CAXIV|Gene|23831(Tax:10090)
+annotation	63|67|NBC1|Gene|54403(Tax:10090)
+annotation	37|40|Na+|Chemical|
+
+
+sentence	Serine/arginine-rich (SR) proteins are essential splicing factors with one or two RNA-recognition motifs (RRMs) and a C-terminal arginine- and serine-rich (RS) domain.
+annotation	143|149|serine|Chemical|CHEBI:17822
+annotation	118|119|C|Chemical|
+annotation	0|6|Serine|Chemical|CHEBI:17822
+
+
+sentence	In mammalian cultured cells, these ASOs specifically targeted the eIF4E mRNA for destruction, repressing expression of eIF4E-regulated proteins (e.g., VEGF, cyclin D1, survivin, c-myc, Bcl-2), inducing apoptosis, and preventing endothelial cells from forming vessel-like structures.
+annotation	185|190|Bcl-2|Gene|596
+annotation	157|166|cyclin D1|Gene|595
+annotation	66|71|eIF4E|Gene|1977
+
+
+sentence	Significance analysis of microarray (SAM) identified 27 differentially expressed genes between these two subgroups with significant overexpression of ATF5 and underexpression of CDC16, PCDH8, SLAM, MNDA and ATF2 in CLL patients with poor outcome.
+annotation	207|211|ATF2|Gene|1386
+annotation	192|196|SLAM|Gene|6504
+annotation	178|183|CDC16|Gene|8881
+
+sentence	Thus, this report demonstrates that ATF5 may be one of the key genes involved in increased proliferation and survival in 11q deletion or trisomy 12, whereas CD16, CD86, SLAM, MNDA and ATF2 may be involved in the decreased proliferation of CLL cells with 13q deletion or normal karyotype.
+annotation	184|188|ATF2|Gene|1386
+annotation	169|173|SLAM|Gene|6504
+annotation	157|161|CD16|Gene|2214
+
+
+sentence	Plasma and monocyte samples were analyzed by ELISA for levels of PTX3, tumor necrosis factor-alpha (TNF-alpha), interleukin-1beta (IL-1beta) and interleukin-6 (IL-6); all of these protein levels were higher in CRF patients with respect to the controls.
+annotation	160|164|IL-6|Gene|3569
+annotation	131|139|IL-1beta|Gene|3553
+annotation	100|109|TNF-alpha|Gene|7124
+annotation	65|69|PTX3|Gene|5806
+
+
+sentence	Inhibition of alanyl-aminopeptidase on CD4+CD25+ regulatory T-cells enhances expression of FoxP3 and TGF-beta1 and ameliorates acute colitis in mice.
+annotation	101|110|TGF-beta1|Gene|21803(Tax:10090)
+annotation	39|42|CD4|Gene|12504(Tax:10090)
+annotation	14|35|alanyl-aminopeptidase|Gene|16790(Tax:10090)
+
+
+sentence	In addition, levels of lactate, creatine, myo-inositol, alpha-glucose, alanine, leucine, glutamate, glutamine, tyrosine, phenylalanine, and NADH varied between the lean and obese groups.
+annotation	140|144|NADH|Chemical|MESH:D009243
+annotation	111|119|tyrosine|Chemical|CHEBI:18186
+annotation	89|98|glutamate|Chemical|CHEBI:29987
+annotation	71|78|alanine|Chemical|CHEBI:16449
+annotation	42|54|myo-inositol|Chemical|MESH:D007294
+annotation	23|30|lactate|Chemical|MESH:D019344
+
+
+sentence	Multivariable logistic regression analyses and stepwise forward selection procedures revealed that seven different polymorphisms were significantly (P<0.005) associated with MI in individuals with low or high serum concentrations of HDL- or LDL-cholesterol or of TG: the 190T --> C (Trp64Arg) polymorphism of ADRB3 in individuals with low HDL-cholesterol; the 1018C --> T (Thr145Met) polymorphism of GP1BA, the A --> G (Ile646Val) polymorphism of AKAP10, and the -55C --> T polymorphism of UCP3 in individuals with high HDL-cholesterol; the -603A --> G polymorphism of F3 and the -11377C --> G polymorphism of ADIPOQ in individuals with low LDL-cholesterol; the 1018C --> T polymorphism of GP1BA in individuals with low TG; and the 4G --> 5G polymorphism of PAI1 in individuals with high TG.
+annotation	758|762|PAI1|Gene|5054
+annotation	360|365|1018C|Chemical|
+annotation	610|616|ADIPOQ|Gene|9370
+annotation	245|256|cholesterol|Chemical|MESH:D002784
+annotation	447|453|AKAP10|Gene|11216
+annotation	263|264|T|Chemical|
+annotation	245|256|cholesterol|Chemical|MESH:D002784
+annotation	280|281|C|Chemical|
+
+
+sentence	One such targeted therapy is the application of TRAIL or TRAIL agonist monoclonal antibodies (mAbs) (anti-DR4 and anti-DR5) because, unlike Fas ligand and TNF-alpha, they are not cytotoxic to normal tissues.
+annotation	155|164|TNF-alpha|Gene|7124
+annotation	119|122|DR5|Gene|8795
+annotation	48|53|TRAIL|Gene|8743
+
+sentence	We present, herein, one potential novel sensitizing agent, namely, nitric oxide (NO) that has been shown to sensitize TRAIL-resistant tumor cells to TRAIL apoptosis via its inhibitory effect on the transcription factors NF-kappaB and Yin Yang 1 (YY1), concomitantly with upregulation of DR5.
+annotation	287|290|DR5|Gene|8795
+annotation	234|244|Yin Yang 1|Gene|7528
+annotation	118|123|TRAIL|Gene|8743
+
+
+sentence	We previously reported that pharmacological and RNA interference-induced inhibition of tumor-associated fatty acid synthase (FASN; Oncogenic antigen-519), a key metabolic enzyme catalyzing the synthesis of long-chain saturated fatty acids, drastically down-regulates HER2 expression in human breast cancer cells bearing HER2 gene amplification.
+annotation	267|271|HER2|Gene|2064
+annotation	227|238|fatty acids|Chemical|MESH:D005227
+annotation	104|123|fatty acid synthase|Gene|2194
+
+sentence	In summary, a) the molecular mechanism(s) contributing to Tzb resistance in our SKBR3/Tzb100 model appear to be clearly different to those previously reported as we found important transcriptional up-regulatory transcriptional changes in HER2 gene expression levels relative to parental cells; b) since FASN inhibition acts on HER2 gene expression via reduction of its transcription rate, Tzb-conditioned HER2-overexpressing breast cancer cells not only retain but further gain sensitivity to FASN inhibition; and c) transcriptional suppression of HER2 expression using FASN blockers may represent a new molecular strategy in the management of Tzb-resistant breast cancer disease.
+annotation	303|307|FASN|Gene|2194
+annotation	303|307|FASN|Gene|2194
+annotation	238|242|HER2|Gene|2064
+annotation	238|242|HER2|Gene|2064
+
+
+sentence	Growth inhibition was not due to the absence of estrogen receptor-alpha or estrogen receptor-beta though receptor levels for estrogen receptor-alpha were drastically reduced in wtp53 expressing cells.
+annotation	48|71|estrogen receptor-alpha|Gene|2099
+annotation	75|97|estrogen receptor-beta|Gene|2100
+annotation	48|56|estrogen|Chemical|MESH:D004967
+
+sentence	PRIMA-1 treatment of tumor cells suppressed VEGF and induced expression of estrogen receptor-beta though expression of estrogen receptor-alpha and progesterone receptors was unaffected.
+annotation	147|159|progesterone|Chemical|MESH:D011374
+annotation	75|83|estrogen|Chemical|MESH:D004967
+annotation	75|97|estrogen receptor-beta|Gene|2100
+annotation	0|7|PRIMA-1|Gene|145270
+
+
+sentence	We have reported that a novel c-Myc-binding protein, MM-1, repressed the E-box-dependent transcription activity of c-Myc by recruiting the HDAC1 complex via TIF1beta/KAP1, a transcriptional corepressor.
+annotation	166|170|KAP1|Gene|10155
+annotation	139|144|HDAC1|Gene|3065
+annotation	53|57|MM-1|Gene|23654
+
+sentence	The results showed that MM-1 directly bound to Rpt3, a subunit of 26S proteasome, and that c-Myc directly bound to Skp2, which recruited ElonginC, ElonginB and Cullin2, thereby forming a novel ubiquitin E3 ligase.
+annotation	160|167|Cullin2|Gene|8453
+annotation	137|145|ElonginC|Gene|6921
+annotation	91|96|c-Myc|Gene|4609
+annotation	24|28|MM-1|Gene|23654
+
+
+sentence	We have previously shown that Ebp1 can bind the E2F1 promoter in vitro and in vivo as part of a protein complex and that Ebp1-transcriptional repression is mediated via its interaction with the co-repressors HDAC2 and mSin3a present in this complex.
+annotation	218|224|mSin3a|Gene|20466(Tax:10090)
+annotation	30|34|Ebp1|Gene|5036
+annotation	30|34|Ebp1|Gene|5036
+
+
+sentence	The tissue samples were examined immunohistochemically to study the expression of thymidylate synthase (TS), thymidine phosphorylase (TP), and dihydropyrimidine dehydrogenase (DPD), as well as the expression of Her2 and p53.
+annotation	220|223|p53|Gene|7157
+annotation	143|160|dihydropyrimidine|Chemical|
+annotation	82|102|thymidylate synthase|Gene|7298
+
+
+sentence	As an activator of p21(WAF1/CIP1) promoter activity, we isolated cryptolepine (CLP: 5-methyl indolo (2,3b)-quiniine), an indoloquinoline alkaloid, from the traditional Ayurvedic medicinal plant Sida cordifolia.
+annotation	121|145|indoloquinoline alkaloid|Chemical|
+annotation	79|82|CLP|Gene|810
+annotation	28|32|CIP1|Gene|1026
+annotation	19|22|p21|Gene|1026
+
+sentence	We show here that CLP induces the expression of p21(WAF1/CIP1) with growth arrest in p53-mutated human osteosarcoma MG63 cells.
+annotation	85|88|p53|Gene|7157
+annotation	52|56|WAF1|Gene|1026
+annotation	18|21|CLP|Gene|810
+
+sentence	Using several mutant p21(WAF1/CIP1) promoter constructs, we found that the CLP-responsive element is an Sp1 site at -82 relative to the transcription start site of the p21(WAF1/CIP1) promoter.
+annotation	30|34|CIP1|Gene|1026
+annotation	21|24|p21|Gene|1026
+annotation	75|78|CLP|Gene|810
+annotation	25|29|WAF1|Gene|1026
+
+sentence	These findings suggest that CLP arrests the growth of MG63 cells by activating the p21(WAF1/CIP1) promoter through the specific Sp1 site in a p53-independent manner.
+annotation	142|145|p53|Gene|7157
+annotation	92|96|CIP1|Gene|1026
+annotation	83|86|p21|Gene|1026
+
+sentence	In addition, CLP-mediated cell cycle arrest was reduced by the knockout of the p21(WAF1/CIP1) gene in human colon cancer HCT116 cells, suggesting that the cell cycle arrest by CLP was at least partially mediated through the induction of p21(WAF1/CIP1) expression.
+annotation	88|92|CIP1|Gene|1026
+annotation	79|82|p21|Gene|1026
+annotation	83|93|WAF1/CIP1)|Gene|1026
+annotation	13|16|CLP|Gene|810
+
+
+sentence	In this study, we examined the anti-tumor effects of IFN-alpha and 5-FU combination therapy in vivo and aimed to reveal its anti-angiogenic effects by investigating the expression of vascular endothelial growth factor (VEGF) and angiopoietins (Ang-1 and Ang-2).
+annotation	254|259|Ang-2|Gene|285
+annotation	219|223|VEGF|Gene|7422
+annotation	67|71|5-FU|Chemical|MESH:D005472
+
+sentence	Immunohistochemical examinations of proliferating cell nuclear antigen (PCNA), cell differentiation antigen 34 (CD34), Ang-1, -2 and VEGF, terminal deoxynucleotidyl transferase-mediated dUTP nick end-labeling (TUNEL) assay and quantification of VEGF, Ang-1 and-2 mRNA using real-time RT-PCR were performed.
+annotation	251|262|Ang-1 and-2|Gene|284;285
+annotation	186|190|dUTP|Chemical|CHEBI:17625
+annotation	112|116|CD34|Gene|947
+annotation	72|76|PCNA|Gene|5111
+
+
+sentence	In the present study, we examined whether PPARgamma is a possible target molecule for the prevention of cell growth and invasion by treatment with agonists (troglitazone, rosiglitazone) and antagonists (T0070907, GW9662) in four different hepatocellular carcinoma (HCC) cell lines.
+annotation	213|219|GW9662|Chemical|MESH:C457499
+annotation	171|184|rosiglitazone|Chemical|MESH:C089730
+annotation	42|51|PPARgamma|Gene|5468
+
+
+sentence	The tumor tissues were quantified for expression levels of AP-1, cyclooxygenase-2 (COX-2) and vascular endothelial growth factor (VEGF) using Western blot analysis or immunohistochemistry.
+annotation	130|134|VEGF|Gene|7422
+annotation	83|88|COX-2|Gene|5743
+annotation	59|63|AP-1|Gene|3726
+
+sentence	The combination significantly reduced expression of AP-1, which is a transcriptional regulator of COX-2, and also significantly decreased COX-2 expression in OVCAR-3 tumors compared to the control, CA or pioglitazone alone, although CA or pioglitazone alone decreased them with a marginal significance compared to the control.
+annotation	204|216|pioglitazone|Chemical|MESH:C060836
+annotation	98|103|COX-2|Gene|5743
+annotation	52|56|AP-1|Gene|3726
+
+
+sentence	The present study was designed to determine whether alterations in the expression of RXRalpha and the other retinoid receptors RARalpha and RARbeta are involved in hepatocarcinogenesis using a 3'-methyl-4-dimethylaminoazobenzene (3'-MeDAB)-induced rat liver carcinogenesis model.
+annotation	230|238|3'-MeDAB|Chemical|MESH:D008749
+annotation	140|147|RARbeta|Gene|24706(Tax:10116)
+annotation	85|93|RXRalpha|Gene|25271(Tax:10116)
+
+
+sentence	In order to contribute to a better comprehension of the genetic basis of this neoplasm's more aggressive behaviour in 17 aneuploid PTCs we performed a comparative genomic hybridization (CGH) analysis, studied the BRAF and RAS mutational status, searched for RET/PTC1 and RET/PTC3 rearrangements and determined their expression profile.
+annotation	275|279|PTC3|Gene|8031
+annotation	262|266|PTC1|Gene|5727
+annotation	213|217|BRAF|Gene|673
+
+sentence	When comparing array data with the chromosomal, mutational and clinical data we found that: a) loss of control of cellular transcription was of major relevance in this group of neoplasms, HMGA2 being one of the most overexpressed genes; b) gene expression correlated with the mutational status of PTCs, as in BRAF+ cases cMET and FN1 were concomitantly overexpressed; and c) death from disease and distant metastasis was associated to the overexpression of DDR2 and to the down-regulation of genes involved in immune, inflammatory response, signal transduction and cell adhesion processes.
+annotation	457|461|DDR2|Gene|4921
+annotation	321|325|cMET|Gene|4233
+annotation	297|301|PTCs|Chemical|MESH:C429137
+
+
+sentence	In addition to the overexpression of AFP, these genes (increased in the presence of HCC) are involved in many processes, such as transcription and protein biosynthesis (HNRPDL, PABPC1, POLR2K, SRP9, SNRPA, and six ribosomal protein genes including RPL8, RPL14, RPL41, RPS5, RPS17, RPS24), the metabolism of lipids and proteins (FADS1, ApoA-II, ApoM, FTL), cell proliferation (Syndecan-2, and Annexin A2), and signal transduction (LRRC28 and FMR1).
+annotation	441|445|FMR1|Gene|2332
+annotation	392|402|Annexin A2|Gene|302
+annotation	350|353|FTL|Gene|2512
+annotation	335|342|ApoA-II|Gene|336
+annotation	281|286|RPS24|Gene|6229
+annotation	268|272|RPS5|Gene|6193
+annotation	254|259|RPL14|Gene|9045
+annotation	199|204|SNRPA|Gene|6626
+annotation	185|191|POLR2K|Gene|5440
+annotation	169|175|HNRPDL|Gene|9987
+
+sentence	Additionally, a glutathione-binding protein involved in the detoxification of methylglyoxal known as GLO1 and an enzyme which increases the formation of prostaglandin E(2) known as PLA2G10 were up-regulated in HCC.
+annotation	181|188|PLA2G10|Gene|8399
+annotation	101|105|GLO1|Gene|2739
+annotation	16|27|glutathione|Chemical|MESH:D005978
+
+
+sentence	Upon pharmacological inhibition of FASN activity using the natural antibiotic cerulenin [(2S,3R)-2,3-epoxy-4-oxo-7E,10E-dodecadienamide], we evaluated the role of FASN-catalyzed endogenous fatty acid biogenesis on the sensitivity of SK-Br3, MCF-7 and MDA-MB-231 breast cancer cell lines to the anti-metabolite 5-fluorouracil (5-FU).
+annotation	326|330|5-FU|Chemical|MESH:D005472
+annotation	189|199|fatty acid|Chemical|CHEBI:35366
+annotation	89|135|(2S,3R)-2,3-epoxy-4-oxo-7E,10E-dodecadienamide|Chemical|
+annotation	35|39|FASN|Gene|2194
+
+sentence	Cells were exposed simultaneously to cerulenin and 5-FU, sequentially to 5-FU followed by cerulenin or cerulenin followed by 5-FU.
+annotation	51|55|5-FU|Chemical|MESH:D005472
+annotation	37|46|cerulenin|Chemical|MESH:D002569
+annotation	51|55|5-FU|Chemical|MESH:D005472
+
+
+sentence	This resistance has been reported to be correlated with the expression of the Cu influx copper transporter 1 (CTR1) and two copper efflux transporters (ATP7A, ATP7B).
+annotation	152|155|ATP|Chemical|MESH:D000255
+annotation	152|157|ATP7A|Gene|538
+annotation	110|114|CTR1|Gene|1317
+annotation	78|80|Cu|Chemical|
+
+
+sentence	The sera were analyzed for HbA(1c), fasting blood glucose (FBG), total cholesterol, triglycerides, high-density lipoprotein cholesterol (HDL) and low-density lipoprotein cholesterol (LDL).
+annotation	71|82|cholesterol|Chemical|MESH:D002784
+annotation	84|97|triglycerides|Chemical|MESH:D014280
+annotation	50|57|glucose|Chemical|MESH:D005947
+
+
+sentence	The on-fibre derivatisation of volatile fatty acids (VFAs) using N-(tert-butyldimethylsilyl)-N-methyltrifluoroacetamide (MTBSTFA) was optimised in the simultaneous determination of VFAs together with phenols and indoles by headspace solid-phase microextraction (SPME)-gas chromatography-mass spectrometry.
+annotation	212|219|indoles|Chemical|MESH:D007211
+annotation	121|128|MTBSTFA|Chemical|MESH:C059151
+annotation	40|51|fatty acids|Chemical|MESH:D005227
+
+sentence	Firstly, the nature of the SPME fibre was optimised and four different fibres were studied (100 microm polydimethylsiloxane, 85 microm Carboxen/polydimethylsiloxane, 5/30 microm divinylbenzene/Carboxen/polydimethylsiloxane and 85 microm polyacrylate).
+annotation	237|249|polyacrylate|Chemical|CHEBI:51134
+annotation	135|143|Carboxen|Chemical|
+annotation	103|123|polydimethylsiloxane|Chemical|MESH:C013830
+annotation	103|123|polydimethylsiloxane|Chemical|MESH:C013830
+
+
+sentence	Here, we tested our hypothesis that suppression of TAMs can be achieved in syngeneic BALB/c mice with oral minigene vaccines against murine MHC class I antigen epitopes of Legumain, an asparaginyl endopeptidase and a member of the C13 family of cystine proteases which is overexpressed on TAMs in the tumor stroma.
+annotation	51|55|TAMs|Chemical|
+annotation	185|196|asparaginyl|Chemical|CHEBI:22656
+annotation	140|159|MHC class I antigen|Gene|547348(Tax:10090)
+
+
+sentence	The fusion proteins were found to catalyze both the 17 alpha-hydroxylation of progesterone (P4) and pregnenolone (P5) to 17 alpha-hydroxylated P4 and P5 (17 alpha-OH P4 and 17 alpha-OH P5) followed by the C17,20-lyase reaction for the conversion of these C(21)-17 alpha-hydroxylated steroids to C(19)-steroids (the C17,20-lyase reaction).
+annotation	283|291|steroids|Chemical|MESH:D013256
+annotation	255|263|C(21)-17|Gene|1036467(Tax:199310)
+annotation	78|90|progesterone|Chemical|MESH:D011374
+
+sentence	These in vitro studies show that (a) porcine P450c17 possesses cytochrome b(5) (b(5))-stimulated C17,20-lyase activity that converts 17 alpha OH-P4 to androstenedione (AD) but also converts 17 alpha-OHP5 to dehydroepiandrosterone (DHEA); (b) guinea pig P450c17 possesses a b(5)-stimulated C17,20-lyase activity that converts 17 alpha-OH P4 to AD but does not convert 17 alpha-OH P5 to DHEA., and (c) bovine P450c17 possesses a b(5)-stimulated C17,20-lyase activity that converts 17 alpha-OH P5 to DHEA but does not convert 17 alpha-OH P4 to AD.
+annotation	231|235|DHEA|Chemical|MESH:D003687
+annotation	45|52|P450c17|Gene|25146(Tax:10116)
+annotation	207|229|dehydroepiandrosterone|Chemical|MESH:D003687
+annotation	133|147|17 alpha OH-P4|Chemical|MESH:C042533
+
+
+sentence	The impact of genetic variability of CYP1A1 on cancer susceptibility, differential effects of polyphenols and hyperforin on toxification and detoxification pathways of benzo[a]pyrene, and differential metabolite patterns of 17 beta-estradiol, estrone, and eicosapentaenoic acid are presented.
+annotation	256|277|eicosapentaenoic acid|Chemical|MESH:D015118
+annotation	227|241|beta-estradiol|Chemical|CHEBI:16469
+annotation	110|120|hyperforin|Chemical|MESH:C001654
+annotation	37|43|CYP1A1|Gene|1543
+
+
+sentence	In this paper, the SPINMAS technique is evaluated with regard to the determination of 15N abundance and concentration of the most fundamental inorganic nitrogen compounds in ecosystems such as NH4+, NO2-, and NO3-.
+annotation	209|212|NO3|Gene|4681
+annotation	199|202|NO2|Chemical|CHEBI:29785
+annotation	152|160|nitrogen|Chemical|MESH:D009584
+
+sentence	For a precise determination of 15N abundance and concentration, a minimum total N-amount of 10 microg NH4+ - N, 0.03 microg NO2- - N, or 0.3 microg NO3- - N has to be supplied.
+annotation	33|34|N|Chemical|
+annotation	148|151|NO3|Gene|4681
+annotation	124|127|NO2|Chemical|CHEBI:29785
+annotation	102|106|NH4+|Chemical|CHEBI:28938
+
+sentence	Currently, the SPINMAS technique represents the most rapid and only fully automated all-round method for a simultaneous determination of 15N abundance and total N-amount of NH4+, NO2-, or NO3- in aqueous samples.
+annotation	188|192|NO3-|Chemical|CHEBI:29794
+annotation	179|182|NO2|Chemical|CHEBI:29785
+annotation	18|19|N|Chemical|
+
+
+sentence	He was treated with five cycles of Cyclophosphamide, Vincristine, Procarbazine and Prednisolone (COPP) and had complete clinical response.
+annotation	97|101|COPP|Chemical|MESH:C484301
+annotation	66|78|Procarbazine|Chemical|MESH:D011344
+annotation	35|51|Cyclophosphamide|Chemical|MESH:D003520
+
+
+sentence	Peptides have been modified by adding bulky groups, charged sequences or polyethylene glycol to their termini, or by N-methylation, replacing a backbone amide by an ester, and by replacing a residue with proline.
+annotation	204|211|proline|Chemical|CHEBI:26271
+annotation	144|158|backbone amide|Chemical|
+annotation	73|92|polyethylene glycol|Chemical|MESH:D011092
+
+
+sentence	It is shown that in the low temperature ranges, the three reactions all proceed predominantly via H-abstraction from the methylene positions, and with the increase of the temperature the H-abstraction channels from the fluorinated-methyl positions should be taken into account, while the H-abstraction channels from the hydroxyl groups are negligible over the whole temperature ranges.
+annotation	320|328|hydroxyl|Chemical|MESH:D017665
+annotation	219|237|fluorinated-methyl|Chemical|
+annotation	121|130|methylene|Chemical|CHEBI:29358
+
+
+sentence	The p206S and p206L protein isoforms have a modular domain structure consisting of an N-terminal PAAD/DAPIN/Pyrin domain, a region rich in serine, threonine and proline residues and a C-terminal 200 B domain characteristic of other HIN-200 proteins.
+annotation	184|185|C|Chemical|
+annotation	147|156|threonine|Chemical|CHEBI:26986
+annotation	86|87|N|Chemical|
+
+
+sentence	The aim of this study was to test the ability of poly(ethylene oxide)-b-poly (epsilon-caprolactone) (PEO-b-PCL) micelles to reduce the renal uptake and nephrotoxicity of Cyclosporine A (CyA) after multiple dose administration.
+annotation	170|184|Cyclosporine A|Chemical|MESH:D016572
+annotation	101|104|PEO|Chemical|CHEBI:46793
+annotation	49|99|poly(ethylene oxide)-b-poly (epsilon-caprolactone)|Chemical|MESH:C473831
+
+
+sentence	A rapid increase in the activity of phospholipases C, D, and A2 leading to the synthesis of lipid-derived second messengers, Ca2+ fluxes and subsequent activation of protein phosphorylation cascades, including PKC/PKD, Raf/MEK/ERK, and Akt/mTOR/p70S6K is an important early response to mitogenic GPCR agonists.
+annotation	296|300|GPCR|Gene|10663
+annotation	240|244|mTOR|Gene|2475
+annotation	227|230|ERK|Gene|2048
+annotation	219|222|Raf|Gene|22882
+
+sentence	GPCR signal transduction also induces striking morphological changes and rapid tyrosine phosphorylation of multiple cellular proteins, including the non-receptor tyrosine kinases Src, focal adhesion kinase (FAK), and the adaptor proteins CAS and paxillin.
+annotation	207|210|FAK|Gene|5747
+annotation	179|182|Src|Gene|6714
+annotation	79|87|tyrosine|Chemical|D014443
+
+
+sentence	rHMGB1 enhanced the RANKL/OPG steady state mRNA ratio and dramatically augmented the release of tumor necrosis factor-alpha (TNFalpha) and interleukin-6 (IL6) in osteoblastogenic bone marrow stromal cell (BMSC) cultures but not in the calvarial-derived MC3T3-E1 cells.
+annotation	154|157|IL6|Gene|16193(Tax:10090)
+annotation	125|133|TNFalpha|Gene|21926(Tax:10090)
+annotation	26|29|OPG|Gene|18383(Tax:10090)
+annotation	0|6|rHMGB1|Gene|25459(Tax:10116)
+
+
+sentence	In order to interpret the clinical efficacy of conjugated ursodeoxycholate (UDC) in cholesterol (Ch) gallstone patients, the Ch solubilization in mixed micelles in 40:40:32 mM tauroursodeoxycholate (TUDC):taurochenodeoxycholate (TCDC):lecithin (L) and 80:32 mM TUDC:L systems was estimated by using a model of Ch binding to mixed micelles.
+annotation	97|99|Ch|Chemical|
+annotation	229|233|TCDC|Chemical|
+annotation	199|203|TUDC|Chemical|
+annotation	97|99|Ch|Chemical|
+annotation	84|95|cholesterol|Chemical|MESH:D002784
+
+sentence	In the 80:32 mM TUDC:L system, the dissolution of the Ch pellet decreased after vesicles (liposomes) formed on the surface of the Ch pellet whereas the dissolution of microcrystalline Ch was rapid before and after vesicle formation in the solution, indicating that the total surface area of solid Ch exposed to the solution may be another important factor in inducing the dissolution of Ch gallstones.
+annotation	54|56|Ch|Chemical|
+annotation	54|56|Ch|Chemical|
+annotation	54|56|Ch|Chemical|
+
+sentence	These phenomena suggest that although vesicles, occasionally formed in the bile of patients under the therapy of conjugated UDC, make a contribution to the solubilization of Ch gallstones, the model of Ch binding to mixed TUDC:L micelles can be used to estimate Ch solubility in TUDC:L system.
+annotation	222|226|TUDC|Chemical|
+annotation	222|226|TUDC|Chemical|
+annotation	174|176|Ch|Chemical|
+
+
+sentence	Two hrs thereafter, Kupffer cells and SMPhi production of IL-6, TNF-alpha, and IL-10, activation of MAPK (p38, ERK-1/2, and JNK), and transcription factors (NF-kappaB and AP-1) were determined.
+annotation	124|127|JNK|Gene|116554(Tax:10116)
+annotation	106|109|p38|Gene|81649(Tax:10116)
+annotation	64|73|TNF-alpha|Gene|24835(Tax:10116)
+
+
+sentence	The tumor necrosis factor-alpha (TNF) converting enzyme (ADAM17) is a metalloprotease that cleaves several transmembrane proteins, including TNF and its receptors (TNFR1 and TNFR2).
+annotation	174|179|TNFR2|Gene|7133
+annotation	33|36|TNF|Gene|7124
+annotation	33|36|TNF|Gene|7124
+
+
+sentence	The method was based on the oxidation of 4-aminoantipyrine (4-amino-l,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazole-3-one; 4-AAP) by selenium in presence of acidic medium and the coupling with N-(naphthalen-l-yl)ethane-1,2-diamine dihydrochloride (NEDA) to give a violet color derivative.
+annotation	246|250|NEDA|Chemical|
+annotation	131|139|selenium|Chemical|MESH:D012643
+annotation	60|119|4-amino-l,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazole-3-one|Chemical|
+
+
+sentence	Partial substitution of potassium with thallium in interstitial sites between C(60) molecules is suggested by larger observed unit cell parameters than for the K(3)C(60) and K(4)C(60) phases.
+annotation	174|183|K(4)C(60)|Chemical|
+annotation	78|83|C(60)|Chemical|CHEBI:33128
+annotation	24|33|potassium|Chemical|MESH:D011188
+
+
+sentence	They include at least nine disorders, including Huntington's disease (HD), dentatorubral pallidoluysian atrophy (DRPLA), spinal and bulbar muscular atrophy (SBMA), and the spinocerebellar ataxias SCA1, SCA2, SCA3 (also known as Machado-Joseph disease), SCA6, SCA7, and SCA17.
+annotation	269|274|SCA17|Gene|6314
+annotation	253|257|SCA6|Gene|773
+annotation	202|206|SCA2|Gene|6311
+annotation	157|161|SBMA|Gene|367
+
+
+sentence	EARLI1 is a cold responsive Arabidopsis gene that encodes a hybrid proline-rich protein (HyPRP) with a three-domain architecture: a putative signal peptide at the N-terminus, a proline-rich domain (PRD) in the middle, and an 8CM domain at the C-terminus.
+annotation	226|227|C|Chemical|
+annotation	163|164|N|Chemical|
+annotation	0|6|EARLI1|Gene|826860(Tax:3702)
+
+
+sentence	Effects of low-level He-Ne laser irradiation on the gene expression of IL-1beta, TNF-alpha, IFN-gamma, TGF-beta, bFGF, and PDGF in rat's gingiva.
+annotation	113|117|bFGF|Gene|54250(Tax:10116)
+annotation	92|101|IFN-gamma|Gene|25712(Tax:10116)
+annotation	71|79|IL-1beta|Gene|24494(Tax:10116)
+
+sentence	Interleukin 1beta (IL-1beta), tumor necrotic factor-alpha (TNF-alpha), and interferon-gamma (IFN-gamma) play an important role in inflammation, while platelet-derived growth factor (PDGF), transforming growth factor-beta (TGF-beta) and blood-derived fibroblast growth factor (bFGF) are the most important growth factors of periodontal tissues.
+annotation	276|280|bFGF|Gene|54250(Tax:10116)
+annotation	222|230|TGF-beta|Gene|59086(Tax:10116)
+annotation	75|91|interferon-gamma|Gene|25712(Tax:10116)
+annotation	19|27|IL-1beta|Gene|24494(Tax:10116)
+
+
+sentence	It has been reported that transforming growth factor beta (TGF-beta) decreases both basal and cAMP-stimulated levels of CYP17 mRNA, but the mechanism of TGF-beta action on CYP17 expression remains unknown.
+annotation	120|125|CYP17|Gene|1586
+annotation	120|125|CYP17|Gene|1586
+annotation	59|67|TGF-beta|Gene|7040
+
+sentence	In conclusion, our results suggest that the inhibitory action of TGF-beta on CYP17 transcription involve at least two mechanisms: SMAD3 dependent inactivation of CYP17 promoter activity and repression of SF-1 expression.
+annotation	204|208|SF-1|Gene|7536
+annotation	130|135|SMAD3|Gene|4088
+annotation	65|73|TGF-beta|Gene|7040
+
+
+sentence	Ribosomal S6 kinase 2 (S6K2) is one of the kinases regulated by the mammalian target of rapamycin (mTOR) signaling pathway.
+annotation	99|103|mTOR|Gene|2475
+annotation	68|97|mammalian target of rapamycin|Gene|2475
+annotation	0|21|Ribosomal S6 kinase 2|Gene|6197
+
+
+sentence	Macrophage migration inhibitory factor does not modulate co-activation of androgen receptor by Jab1/CSN5.
+annotation	100|104|CSN5|Gene|26754(Tax:10090)
+annotation	74|82|androgen|Chemical|CHEBI:50113
+annotation	0|38|Macrophage migration inhibitory factor|Gene|17319(Tax:10090)
+
+sentence	Endocytosed or endogenous MIF interacts with Jun activation domain-binding protein 1 (Jab1), originally described as transcriptional co-activator for the transcription factor AP-1, that is also known as subunit 5 of the COP9 signalosome (CSN5).
+annotation	238|242|CSN5|Gene|26754(Tax:10090)
+annotation	86|90|Jab1|Gene|26754(Tax:10090)
+annotation	26|29|MIF|Gene|17319(Tax:10090)
+
+sentence	Since Jab1/CSN5 also functions as a co-activator for a number of steroid hormone receptors (SHRs), it had been speculated that MIF could modulate Jab1/CSN5-SHR interactions.
+annotation	11|15|CSN5|Gene|26754(Tax:10090)
+annotation	127|130|MIF|Gene|17319(Tax:10090)
+annotation	11|15|CSN5|Gene|26754(Tax:10090)
+
+sentence	Here we show (i) that fluorescently labeled MIF is internalized by NIH 3T3 cells within minutes, (ii) compromises the induction of phospho-c-Jun levels by TNFalpha and PMA and, hence, is biologically active, but (iii) is not able to interfere with co-activation by Jab1/CSN5 of the androgen receptor.
+annotation	282|290|androgen|Chemical|CHEBI:50113
+annotation	270|274|CSN5|Gene|26754(Tax:10090)
+annotation	168|171|PMA|Chemical|CHEBI:60755
+annotation	139|144|c-Jun|Gene|16476(Tax:10090)
+
+
+sentence	Here, we investigated the mechanisms of apoptosis including the expression of Fas, Fas ligand (FasL), Bid, Bax, Bcl-2, cytochrome c, and activated caspase-3 in the rat lung at various time-points (0-24 h) of reperfusion after 1-h ischemia of small intestine.
+annotation	147|156|caspase-3|Gene|25402(Tax:10116)
+annotation	107|110|Bax|Gene|24887(Tax:10116)
+annotation	95|99|FasL|Gene|25385(Tax:10116)
+
+sentence	Western blotting and/or immunohistochemistry revealed a marked up-regulation of Fas, FasL, Bid, Bax, cytochrome c and activated caspase-3 and down-regulation of Bcl-2 in lung epithelial and stromal cells at 3 h of reperfusion.
+annotation	161|166|Bcl-2|Gene|24224(Tax:10116)
+annotation	96|99|Bax|Gene|24887(Tax:10116)
+annotation	85|89|FasL|Gene|25385(Tax:10116)
+
+
+sentence	15-Deoxy-delta 12,14-prostaglandin J2 (15d-PGJ 2) sensitizes human leukemic HL-60 cells to tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-induced apoptosis through Akt downregulation.
+annotation	181|184|Akt|Gene|207
+annotation	91|146|tumor necrosis factor-related apoptosis-inducing ligand|Gene|8743
+annotation	0|37|15-Deoxy-delta 12,14-prostaglandin J2|Chemical|MESH:C097240
+
+sentence	Here, we show that 15-deoxy-Delta(12,14)-prostaglandin J2 (15d-PGJ2), a natural ligand for peroxisome proliferator-activated receptor gamma (PPARgamma), can sensitize TRAIL-resistant leukemic HL-60 cells to TRAIL-induced apoptosis.
+annotation	167|172|TRAIL|Gene|8743
+annotation	141|150|PPARgamma|Gene|5468
+annotation	59|67|15d-PGJ2|Chemical|MESH:C477819
+
+sentence	The sensitization to TRAIL-induced apoptosis by 15d-PGJ2 was not blocked by a PPARgamma inhibitor (GW9662), suggesting a PPARgamma-independent mechanism.
+annotation	78|87|PPARgamma|Gene|5468
+annotation	78|87|PPARgamma|Gene|5468
+annotation	21|26|TRAIL|Gene|8743
+
+sentence	This process was accompanied by activation of caspase-8, caspase-9, and caspase-3 and was concomitant with Bid and PARP cleavage.
+annotation	115|119|PARP|Gene|1302
+annotation	72|81|caspase-3|Gene|836
+annotation	46|55|caspase-8|Gene|841
+
+sentence	We observed significant decreases in XIAP, Bcl-2, and c-FLIP after cotreatment with 15d-PGJ2 and TRAIL.
+annotation	97|102|TRAIL|Gene|8743
+annotation	54|60|c-FLIP|Gene|8837
+annotation	37|41|XIAP|Gene|331
+
+
+sentence	Concomitant administration of SP600125, a selective JNK inhibitor, or aminoguanidine (AG), a selected inducible nitric oxide synthase (iNOS) inhibitor, effectively diminished BCL-2 phosphorylation, suppressed cytochrome c release from mitochondria and caspase activation, and significantly prevented ctx-induced muscle cell apoptosis.
+annotation	175|180|BCL-2|Gene|12043(Tax:10090)
+annotation	112|124|nitric oxide|Chemical|MESH:D009569
+annotation	70|84|aminoguanidine|Chemical|MESH:C004479
+annotation	30|38|SP600125|Chemical|MESH:C432165
+
+
+sentence	After culturing these cells in vitro, they express the cell-surface molecules CD44, CD90, SH2 and SH3, and are negative for CD34 and the hematopoietic marker CD45.
+annotation	158|162|CD45|Gene|5788
+annotation	90|93|SH2|Chemical|CHEBI:36945
+annotation	78|82|CD44|Gene|960
+
+sentence	METHODS: BM mononuclear cells were stained with Ab against both molecules and separated into the CD34(+), CD34(-), CD45(+) CD34(+), CD45(high+) CD34(-), CD45(med,low+) CD34(-) and CD45(-) CD34(-) subpopulations, which were then cultured under the same conditions and analyzed for growth of MSC.
+annotation	97|101|CD34|Gene|947
+annotation	97|101|CD34|Gene|947
+annotation	97|101|CD34|Gene|947
+annotation	97|101|CD34|Gene|947
+annotation	97|101|CD34|Gene|947
+annotation	97|101|CD34|Gene|947
+
+
+sentence	In particular, the genes encoding the steroidogenic acute regulatory protein (StAR) and cytochrome P450 17 alpha hydroxylase/17,20 lyase (CYP17A1) within the steroid hormone biosynthetic pathway are highlighted as ED targets.
+annotation	38|45|steroid|Chemical|CHEBI:35341
+annotation	88|136|cytochrome P450 17 alpha hydroxylase/17,20 lyase|Gene|1586
+annotation	38|76|steroidogenic acute regulatory protein|Gene|6770
+
+sentence	We begin with an overview of steroidogenesis and regulation of StAR then summarize the published literature on the effects of diethylstibesterol, phthalate esters, and arsenite on male reproduction with a focus on the expression and function of StAR.
+annotation	63|67|StAR|Gene|6770
+annotation	146|162|phthalate esters|Chemical|CHEBI:35484
+annotation	63|67|StAR|Gene|6770
+
+
+sentence	Human periodontal ligament (PDL) fibroblasts expressed following two-pore-domain K(+) channels, TWIK-2 > TREK-1 > TWIK-1 > TASK-1 > TRAAK > TASK-2.
+annotation	140|146|TASK-2|Gene|8645
+annotation	123|129|TASK-1|Gene|3777
+annotation	105|111|TREK-1|Gene|3776
+annotation	81|85|K(+)|Chemical|
+
+
+sentence	Strontium isotope ratios and Ca2+, Na+, K+, Mg2+, Cl-, SO4(2-), NO3- and Sr2+ concentrations were measured in rainwater samples collected in four stations in France (Brest, Dax, Orleans and Clermont-Ferrand) over a period of 1 year.
+annotation	73|77|Sr2+|Chemical|CHEBI:16385
+annotation	64|67|NO3|Gene|4681
+annotation	50|52|Cl|Chemical|
+annotation	40|42|K+|Chemical|
+annotation	29|33|Ca2+|Chemical|CHEBI:29108
+
+
+sentence	In order to confirm our earlier findings of the prognostic effects of CD23 and CD40 expression in diffuse large B-cell lymphoma (DLBCL), possibly due to association with the germinal center (GC) phenotype and/or an increased autologous tumour response, tumour specimens from 125 patients with de novo DLBCL were investigated for immunohistochemical expression of CD23, CD40, BCL6, CD10, MUM1, CD4 and CD8.
+annotation	401|404|CD8|Gene|925
+annotation	387|391|MUM1|Gene|84939
+annotation	375|379|BCL6|Gene|604
+annotation	70|74|CD23|Gene|2208
+annotation	79|83|CD40|Gene|958
+
+
+sentence	MATERIALS AND METHODS: In a single blinded, prospective clinical study, the orally administered intravenous contrast media iohexol (Omnipaque), iopromide (Ultravist), and iotrolan (Isovist) as well as the oral contrast media sodium amidotrizoate (Gastrografin) and ioxithalamate (Telebrix) were each compared to the oral contrast medium lysine amidotrizoate as the reference standard at a constant dilution.
+annotation	337|357|lysine amidotrizoate|Chemical|MESH:D003973
+annotation	247|259|Gastrografin|Chemical|MESH:D003974
+annotation	144|153|iopromide|Chemical|MESH:C038192
+annotation	108|130|contrast media iohexol|Chemical|MESH:D003287
+
+
+sentence	Nevertheless, comparison of the calculation results on the structure, orbital composition, charge distribution, and electronic absorption and infrared spectra between [(HPc)Y(Por)] and [(Pc)Y(HPor)] leads to the conclusion that the acid proton in the protonated mixed (phthalocyaninato)(porphyrinato) yttrium compound should be localized on the Por ring rather than the Pc ring, despite the localization of the hole on the Pc ring in [(Pc)Y(Por)].
+annotation	175|178|Por|Chemical|
+annotation	268|308|(phthalocyaninato)(porphyrinato) yttrium|Chemical|
+annotation	175|178|Por|Chemical|
+
+sentence	This result is in line with the trend revealed by comparative studies of the X-ray single-crystal molecular structures between [MIII{Pc(alpha-OC5H11)4}(TClPP)] and [M(III)H{Pc(alpha-OC5H11)4}(TClPP)] (H2TClPP=5,10,15,20-tetrakis(4-chlorophenyl)porphyrin; M=Sm, Eu).
+annotation	261|263|Eu|Chemical|
+annotation	201|253|H2TClPP=5,10,15,20-tetrakis(4-chlorophenyl)porphyrin|Chemical|
+annotation	128|157|MIII{Pc(alpha-OC5H11)4}(TClPP|Chemical|
+
+
+sentence	Aminolytic kinetic resolution (AKR) of trans-stilbene oxide and trans-beta-methyl styrene oxide proceeded smoothly under microwave irradiation using chiral dimeric and polymeric Cr(III) salen complexes as efficient catalysts, giving regio-, diastereo-, and enantioselective anti-beta-amino alcohols in high yields (49%) and chiral purity (ee up to 94%) in case of 4-methylaniline within 2 min.
+annotation	364|379|4-methylaniline|Chemical|CHEBI:37825
+annotation	178|185|Cr(III)|Chemical|
+annotation	39|59|trans-stilbene oxide|Chemical|MESH:C025906
+
+
+sentence	Calcium, Mg(2+), Ba(2+), Cd(2+), Mn(2+), and Fe(3+) all bound to toposome.
+annotation	45|51|Fe(3+)|Chemical|CHEBI:29034
+annotation	25|31|Cd(2+)|Chemical|CHEBI:48775
+annotation	9|15|Mg(2+)|Chemical|CHEBI:18420
+
+sentence	In addition, Cd(2+) and Mn(2+) displaced Ca(2+), prebound to toposome, while Mg(2+), Ba(2+), and Fe(3+) had no effect.
+annotation	97|103|Fe(3+)|Chemical|CHEBI:29034
+annotation	77|83|Mg(2+)|Chemical|CHEBI:18420
+annotation	24|30|Mn(2+)|Chemical|CHEBI:29035
+
+
+sentence	Genomic DNA extracted from 235 PET samples were analyzed for promoter methylation status of the p16, O(6)-methylguanine-DNA methyltransferase (MGMT), death-associated protein kinase (DAP-K), and E-cadherin genes by using a methylation-specific polymerase chain reaction assay.
+annotation	195|205|E-cadherin|Gene|999
+annotation	150|181|death-associated protein kinase|Gene|1612
+annotation	101|141|O(6)-methylguanine-DNA methyltransferase|Gene|4255
+annotation	96|99|p16|Gene|1029
+
+
+sentence	Simultaneous addition of AjA (15 and 30 microM) and RANKL to both culture systems significantly suppressed development of multinucleated osteoclasts (osteoclastogenesis) in a dose dependent manner, as determined by quantification of multinuclear, tartrate-resistant acid phosphatase (TRAP)-positive cells.
+annotation	284|288|TRAP|Gene|11433(Tax:10090)
+annotation	247|282|tartrate-resistant acid phosphatase|Gene|11433(Tax:10090)
+annotation	25|28|AjA|Chemical|
+
+
+sentence	We report here that T lymphocytes activated with a sub-mitogenic stimulus such as phytohemaglutinin alone (PHA), or with mitogenic stimuli such as PHA + interleukin-2 (P-IL2), or immobilized anti-CD3 + anti-CD28 mAb (a3-28), tightly bound allogenic MSC and transmigrated within 4 h under them, where they remained for approximately 60 h. Allogenic MSC induced T cell proliferation in cultures containing sub-mitogenic PHA concentrations, and inhibited the mitogenic effect of P-IL2 or a3-28.
+annotation	107|110|PHA|Chemical|
+annotation	107|110|PHA|Chemical|
+annotation	82|99|phytohemaglutinin|Chemical|
+
+sentence	Allogenic cell-cell contact, as demonstrated by the PHA co-cultures is per se stimulatory, whereas gamma-IFN synthesized by activated T lymphocytes, which activates indolamine 2,3-dioxygenase in MSC, and L-tryptophan depletion, which is induced by this enzyme, are inhibitory.
+annotation	206|216|tryptophan|Chemical|CHEBI:27897
+annotation	165|175|indolamine|Chemical|MESH:C067042
+annotation	52|55|PHA|Chemical|
+
+
+sentence	We used wild-type and GLUT2-null mice, to show that dietary sugars stimulate the expression of sucrase-isomaltase (SI) and L-pyruvate kinase (L-PK) by GLUT2-dependent mechanisms, whereas the expression of GLUT5 and SGLT1, did not rely on the presence of GLUT2.
+annotation	22|27|GLUT2|Gene|20526(Tax:10090)
+annotation	205|210|GLUT5|Gene|56485(Tax:10090)
+annotation	142|146|L-PK|Gene|18770(Tax:10090)
+annotation	115|117|SI|Gene|69983(Tax:10090)
+annotation	60|66|sugars|Chemical|MESH:D002241
+
+sentence	Furthermore, we showed that a T1R3 inhibitor altered the fructose-induced expression of SGLT1, GLUT5, and L-PK.
+annotation	106|110|L-PK|Gene|18770(Tax:10090)
+annotation	88|93|SGLT1|Gene|20537(Tax:10090)
