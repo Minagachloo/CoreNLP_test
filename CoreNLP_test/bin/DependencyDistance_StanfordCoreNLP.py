@@ -17,7 +17,7 @@ import argparse
 from itertools import combinations
 from stanfordcorenlp import StanfordCoreNLP
 
-# 定义树结点类
+# 定义树结点类 储存 节点值 与 子节点 列表
 class Node:
     def __init__(self, val):
         self.value = val
@@ -26,7 +26,7 @@ class Node:
     def add_child(self, node):
         self.child_list.append(node)
         
-# 深度查找优先 返回根节点到目标节点的路径
+# 深度查找优先 返回根节点到目标节点的路径 (递归写法)
 def deep_first_search(cur, val, path=[]):
     # 当前节点值添加路径列表
     path.append(cur.value)
@@ -50,6 +50,7 @@ def deep_first_search(cur, val, path=[]):
     # 如果所有孩子都没找到 则回溯
     return 'no'
 
+# 深度优先查找 非递归写法
 def deep_first_search_non_recursive(root, val):
     # sentence 太长造成迭代深度优先遍历 迭代深度爆炸 所以牺牲内存写个非迭代
     path = []
@@ -61,20 +62,28 @@ def deep_first_search_non_recursive(root, val):
     stack_list = []
     # 被访问标记
     visited = []
+    # 栈内加入已遍历节点
     stack_list.append(root)
+    # path 变量记录 路径
     path.append(root.value)
+    # 访问过的节点 添加进 visited 列表
     visited.append(root)
+    # 深度优先遍历整棵树
     while len(stack_list) > 0:
         x = stack_list[-1]
         for w in x.child_list:
+            # 遍历节点所有未被访问的子孩子
             if not w in visited:
+                # 如果找到 返回path 结束遍历
                 if w.value == val:
                     path.append(val)
                     return path
+                
                 visited.append(w)
                 stack_list.append(w)
                 path.append(w.value)           
                 break
+        # 在遍历当前 x 节点后依旧没有找到目标节点 -- x出栈
         if stack_list[-1] == x:
             stack_list.pop()
             path.pop()
@@ -104,6 +113,7 @@ def init_tree_StanfordCoreNLP(sent, tokens):
     # 使用StanfordCoreNLP 处理 并储存为树结构 保证 依存树结点同分词结果相同
     # 依存句法分析
     dependency_result = nlp.dependency_parse(sent)
+    print('Dependency paring result:\n{0}'.format(dependency_result))
     # 找根节点（'ROOT', 0, index) 并创建根节点
     _root = [i for i in dependency_result if i[0] == 'ROOT'][0][2]
     root = Node(str(_root))
@@ -113,9 +123,6 @@ def init_tree_StanfordCoreNLP(sent, tokens):
         exec('{0} = Node("{1}")'.format(node_name, i+1))   
     # 根据 依存分析 结果 构建节点 父子关系
     for i in dependency_result:
-        # 标点符号的依存关系不在结果中显示 
-        # 妈哟结果树断了 官方文档骗人的吗？？
-#        if i[0] != 'punct' and i[0] != 'ROOT':
         if i[0] != 'ROOT':
             child_name = '_{0}'.format(i[2])
             # 根节点的名字是 root 
