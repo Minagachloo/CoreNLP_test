@@ -167,10 +167,10 @@ def distence_pro(distance, token_index, dep_res):
     return '{0}:{1}'.format(dis, '->'.join(path_result))
 
 def main():
-    nlp = StanfordCoreNLP(r'../stanford-corenlp-full-2018-10-05')
     
+    nlp = StanfordCoreNLP(r'../stanford-corenlp-full-2018-10-05')
     # 选择一个句子
-    sentence = 'Mineralogical and geochemical analyses showed two main types of intimately associated products: a polymetallic sulfide-rich material composed of pyrite and marcasite in association, zinc-rich phases, and copper rich compounds, and an iron-rich oxide and hydroxide material (also called gossan) composed largely of goethite and limonite.'
+    sentence = '''President Xi Jinping of china, on his first state visit to the United States, showed off his familiarity with American history and pop culture on Tuesday night.'''
     
     # 依存句法分析 举个栗子 看看解析结果格式
     dependency_result = nlp.dependency_parse(sentence)
@@ -190,18 +190,17 @@ def main():
     # 构建树
     root = init_tree_StanfordCoreNLP(dependency_result, tokens)
     
-    # '50': 'limonite' '38': 'hydroxide' 
-    # '30': 'copper' '20': 'pyrite'
-    start_path = deep_first_search_non_recursive(root, '30')
-    print ("path from root to copper :\n{0} ".format(start_path))
-    end_path = deep_first_search_non_recursive(root, '20')
-    print ("path from root to pyrite :\n{0}\n ".format(end_path))
+    # '15': 'States' '38': 'culture' 
+    start_path = deep_first_search_non_recursive(root, '15')
+    print ("path from root to 'States' :\n{0} ".format(start_path))
+    end_path = deep_first_search_non_recursive(root, '26')
+    print ("path from root to 'culture':\n{0}\n ".format(end_path))
     
-    path = get_shortest_path(root, '30', '20')
-    print ('path between "copper" and "pyrite":\n{0}\n'.format(path))
+    path = get_shortest_path(root, '15', '26')
+    print ('path between "States" and "culture":\n{0}\n'.format(path))
     
     SDP = distence_pro(path, token_index_dic, dependency_result)
-    print ('SDP between "copper" and "pyrite":\n{0}'.format(SDP))
+    print ('SDP between "States" and "culture":\n{0}'.format(SDP))
     
     # Do not forget to close! The backend server will consume a lot memery
     nlp.close()
