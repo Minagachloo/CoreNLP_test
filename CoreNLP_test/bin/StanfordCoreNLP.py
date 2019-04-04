@@ -6,16 +6,6 @@ Created on Sat Mar  2 22:15:56 2019
 @author: yaoxinzhi
 """
 
-'''
-sentence	Mineralogical and geochemical analyses showed two main types of intimately associated products: a polymetallic sulfide-rich material composed of pyrite and marcasite in association, zinc-rich phases, and copper-rich compounds, and an iron-rich oxide and hydroxide material (also called gossan) composed largely of goethite and limonite.
-annotation	327|335|limonite|Chemical|MESH:C021024
-annotation	254|263|hydroxide|Chemical|MESH:C031356
-annotation	204|210|copper|Chemical|MESH:D003300
-annotation	145|151|pyrite|Chemical|MESH:C011342
-'''
-
-
-
 import copy
 from stanfordcorenlp import StanfordCoreNLP
 
@@ -56,13 +46,10 @@ def deep_first_search(cur, val, path=[]):
 
 # 深度优先查找 非递归写法
 def deep_first_search_non_recursive(root, val):
-    # sentence 太长造成迭代深度优先遍历 迭代深度爆炸 所以牺牲内存写个非迭代
     path = []
-    # 如果要找的是根节点 直接返回结果
     if root.value == val:
         path.append(val)
         return path
-    # 栈
     stack_list = []
     # 被访问标记
     visited = []
